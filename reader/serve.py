@@ -11,13 +11,15 @@ cache = Cache("./reader/cache")
 app = FastAPI()
 
 MODEL_NAME = os.environ['MODEL_NAME']
-
-client = None
-if MODEL_NAME == "deepseek-chat":
-    client = OpenAI(api_key="sk-77393f428fd9428ba91b435497885c11", base_url="https://api.deepseek.com")
-
 with open("./confs/config_model.yaml") as f:
     config = yaml.safe_load(f)[MODEL_NAME]
+
+client = None
+if MODEL_NAME in ["deepseek-chat", "qwen2-7b-instruct"]:
+    client = OpenAI(api_key=config['api_key'], base_url=config['base_url'])
+
+
+
 
 
 

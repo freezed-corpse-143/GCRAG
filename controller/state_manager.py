@@ -2,7 +2,7 @@ from typing import List, Optional, Dict
 from .states import *
 from .utils import retrieve, generate
 from prompts.decompose import decompose_prompt
-from prompts.revise import revise_prompt
+from prompts.ground import revise_prompt
 
 class StateManager:
     def __init__(self, original_question: str, corpus_name: str, max_iterations: int = 5):
