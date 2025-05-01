@@ -5,7 +5,7 @@ Here are some examples:
 {examples}
 
 Question: {question}
-{Thoughts_and_answers}
+{thoughts_and_answers}
 '''.strip()
 
 
@@ -26,4 +26,5 @@ Note:
 1. It is better NOT TO use pronouns in Answer and Thought step, but to use the corresponding results obtained previously. For example, instead of “What is the most popular movie directed by this person”, you should output “Get the most popular movie directed by Martin Scorsese”.
 2. Your final answer should be an entity, e.g., a date, place name, and person name. You should always bold the key information with **.
 3. You should always give the answer your trust most despite not knowing it exactly. Try to avoid giving "I do not know'.
+4. You should only provide only one incremental Thought and one incremental Answer each time.
 '''.strip()

@@ -10,19 +10,40 @@ def process_example(example):
             example[k] = None
     if "supporting_facts" not in example.keys():
         example["supporting_facts"] = []
-    supporting_titles = set([item[0] for item in example["supporting_facts"]])
-    return {
+
+    
+    
+    title_para = dict()
+    for item in example["context"]:
+        title = item[0]
+        title_para[title] = item[1]
+
+    sp_title_snippets = dict()
+    for item in example["supporting_facts"]:
+        title = item[0]
+        if title not in sp_title_snippets:
+            sp_title_snippets[title] = []
+        try:
+            para = title_para[title][item[1]]
+            sp_title_snippets[title].append(para)
+        except Exception as e:
+            pass
+    
+    
+    return {  
         "id": example["_id"],
         "question": example["question"],
         "answer": [example["answer"]],
         "context": [{
             "title": f[0], 
-            "content": " ".join(f[1]).strip().replace('\xa0', ' '), 
-            'is_supporting': f[0] in supporting_titles, } 
+            "content": " ".join(f[1]).strip().replace('\xa0', ' ').replace("  ", " "),
+            "sp_snippets": sp_title_snippets[f[0]] if f[0] in sp_title_snippets else [],
+            'is_supporting': f[0] in sp_title_snippets, } 
             for f in example["context"]],
         "type": example["type"],
         "level": example["level"],
     }
+
 def format_hotpotqa(input_path, output_path, max_workers=12):
     """Process HotpotQA data with parallel processing and unified writing."""
     data = json.load(open(input_path))
@@ -40,7 +61,7 @@ def format_hotpotqa(input_path, output_path, max_workers=12):
 
 if __name__ == "__main__":
     os.makedirs("./datasets/hotpotqa", exist_ok=True)
-    format_hotpotqa("./download/hotpot_dev_distractor_v1.json", 
+    format_hotpotqa("./download/hotpotqa/hotpot_dev_distractor_v1.json", 
                     "./datasets/hotpotqa/dev.jsonl")
-    format_hotpotqa("./download/hotpot_train_v1.1.json", 
+    format_hotpotqa("./download/hotpotqa/hotpot_train_v1.1.json", 
                     "./datasets/hotpotqa/train.jsonl")

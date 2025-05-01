@@ -12,7 +12,7 @@ def process_row(row):
         "answer": [row["answer"]] + row['answer_aliases'],
         "context": [{
             "title": item['title'], 
-            "content": item["paragraph_text"].replace('\xa0', ' '),
+            "content": item["paragraph_text"].strip().replace('\xa0', ' ').replace("  ", " "),
             "is_supporting": item['is_supporting'], }
             for item in row["paragraphs"]],
         'question_decomposition': row['question_decomposition'],

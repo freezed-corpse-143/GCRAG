@@ -13,11 +13,18 @@ class MultiStateManager:
         for row in tqdm(self.datasets, total=len(self.datasets)):
             state_manager = StateManager(row['question'], self.corpus_name)
             state_manager.run_full_cycle()
-            self.test_results.append(state_manager.iteration_info)
+            self.test_results.append({
+                "question": state_manager.question,
+                "pred_answer": state_manager.answer,
+                "gold_answer": row['answer'],
+                "iteration_info": state_manager.iteration_info,
+                "pred_sp_id": state_manager.supporting_fact_id,
+                "gold_sp_id": row['supporting_id'],
+            })
             
     def parallel_test(self):
-        max_workers = max(1, (os.cpu_count() or 1) - 8)
-        max_workers = min(max_workers, 8)
+        max_workers = max(1, (os.cpu_count() or 1) - 12)
+        max_workers = min(max_workers, 4)
         
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {
@@ -34,4 +41,11 @@ class MultiStateManager:
     def _process_row(self, row):
         state_manager = StateManager(row['question'], self.corpus_name)
         state_manager.run_full_cycle()
-        return state_manager.iteration_info
+        return {
+            "question": state_manager.question,
+            "pred_answer": state_manager.answer,
+            "gold_answer": row['answer'],
+            "iteration_info": state_manager.iteration_info,
+            "pred_sp_id": state_manager.supporting_fact_id,
+            "gold_sp_id": row['supporting_id'],
+        }

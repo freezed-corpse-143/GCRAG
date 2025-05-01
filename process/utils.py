@@ -1,4 +1,4 @@
-import re
+import regex
 
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -7,13 +7,6 @@ from nltk.corpus import wordnet
 import string
 from collections import Counter
 import requests
-
-def clean_english_text(text):
-    pattern = r"[^a-zA-Z0-9\s\.,!?;:'\"()\-–—&@#$%^*/+=<>\[\]{}]"
-    
-    cleaned_text = re.sub(pattern, "", text)
-    
-    return cleaned_text
 
 def get_wordnet_pos(treebank_tag):
     if treebank_tag.startswith('J'):
@@ -90,3 +83,6 @@ def query(dataset_name, text):
 
 def can_transform_by_spaces(s1, s2):
     return s1.replace(' ', '') == s2.replace(' ', '')
+
+def clean_text(text):
+    return regex.sub(r'[\s\p{P}\p{S}]+', '', text)

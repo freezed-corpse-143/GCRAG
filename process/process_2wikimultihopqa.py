@@ -6,13 +6,29 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def process_row(row, qid_aliases):
     """Process a single row to format it."""
-    supporting_titles = set([item[0] for item in row['supporting_facts']])
+    
     answer_object = [row["answer"]]
     answer_id = row['answer_id']
     if answer_id :
         aliases =  qid_aliases[answer_id]
         if aliases:
             answer_object += aliases
+
+    title_para = dict()
+    for item in row["context"]:
+        title = item[0]
+        title_para[title] = item[1]
+
+    sp_title_snippets = dict()
+    for item in row["supporting_facts"]:
+        title = item[0]
+        if title not in sp_title_snippets:
+            sp_title_snippets[title] = []
+        try:
+            para = title_para[title][item[1]]
+            sp_title_snippets[title].append(para)
+        except Exception as e:
+            pass
 
     return {
         "id": row["_id"],
@@ -21,7 +37,8 @@ def process_row(row, qid_aliases):
         "context": [{
             "title": item[0], 
             "content": ' '.join(item[1]).replace('\xa0', ' ').replace("  ", " "),
-            'is_supporting': item[0] in supporting_titles, }
+            "sp_snippets": sp_title_snippets[item[0]] if item[0] in sp_title_snippets else [],
+            'is_supporting': item[0] in sp_title_snippets, }
             for item in row["context"]],
         "type": row["type"],
         "evidences": [

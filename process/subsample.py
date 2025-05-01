@@ -1,11 +1,11 @@
 import random
 import jsonlines
-from .utils import query, can_transform_by_spaces
+from .utils import query, clean_text
 import argparse
 from tqdm import tqdm
 
 
-random.seed(1000)
+random.seed(13370)
 
 def subsample(dataset_name, split='dev', sample_size=100):
     with jsonlines.open(f"./datasets/{dataset_name}/{split}.jsonl") as reader:
@@ -24,7 +24,7 @@ def subsample(dataset_name, split='dev', sample_size=100):
                     top_para = query_result.json()['retrieval'][i]
                     top_para_content = top_para['paragraph_text']
                     content = para['content']
-                    if content == top_para_content or can_transform_by_spaces(content, top_para_content):
+                    if content == top_para_content or clean_text(content) == clean_text (top_para_content):
                         para['content'] = top_para_content
                         item['supporting_id'].append(top_para['id'])
                         find_sp = True

@@ -12,15 +12,13 @@ app = FastAPI()
 
 MODEL_NAME = os.environ['MODEL_NAME']
 with open("./confs/config_model.yaml") as f:
-    config = yaml.safe_load(f)[MODEL_NAME]
+    config = yaml.safe_load(f)
+config_model = config[MODEL_NAME]
 
 client = None
-if MODEL_NAME in ["deepseek-chat", "qwen2-7b-instruct"]:
-    client = OpenAI(api_key=config['api_key'], base_url=config['base_url'])
-
-
-
-
+llm_cloud_server = config['llm_cloud_server']
+if MODEL_NAME in llm_cloud_server:
+    client = OpenAI(api_key=config_model['api_key'], base_url=config_model['base_url'])
 
 
 @app.get("/")
@@ -36,8 +34,8 @@ def generate_with_llm_client(prompt: str):
         messages=[
             {"role": "user", "content": prompt}
         ],
-        max_tokens=config['max_tokens'],
-        temperature=config['temperature'],
+        max_tokens=config_model['max_tokens'],
+        temperature=config_model['temperature'],
     )
     result = response.choices[0].message.content
     return result
@@ -47,7 +45,7 @@ async def generate(prompt: str):
     start_time = time.time()
     
     result = None
-    if MODEL_NAME == "deepseek-chat":
+    if MODEL_NAME in llm_cloud_server:
         result = generate_with_llm_client(prompt)
 
     end_time = time.time()
