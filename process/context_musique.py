@@ -1,5 +1,5 @@
 import jsonlines
-import json
+import ujson
 from .utils import clean_text
 
 def context_musique(jsonl_path_list):
@@ -16,7 +16,17 @@ def context_musique(jsonl_path_list):
                         content_list.append(content)
 
     with open("./datasets/musique/context.json", 'w') as f:
-        json.dump(content_list, f, ensure_ascii=False)
+        ujson.dump(content_list, f, ensure_ascii=False)
+
+    tsv_item_list = []
+    for idx, item in enumerate(content_list):
+        clean_item = item.replace("\n", " ")
+        tsv_item_list.append(
+            f"{idx}\t{clean_item}"
+        )
+
+    with open(f"../datasets/musique/context.tsv", "w") as f:
+        f.write("\n".join(tsv_item_list))
 
 if __name__ == "__main__":
     jsonl_path_list = [

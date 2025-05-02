@@ -1,0 +1,888 @@
+Question: What is the place of birth of the composer of film Kaayamkulam Kochunniyude Makan?
+Thought 1: Who is the composer of the film Kaayamkulam Kochunniyude Makan?
+Answer 1: The composer of the film Kaayamkulam Kochunniyude Makan is M. K. Arjunan, as mentioned in the supporting fact.
+Thought 2: What is known about M. K. Arjunan's place of birth?
+Answer 2: M. K. Arjunan is described as a Malayalam music composer from Kerala, India, in the supporting fact.
+Thought 3: Based on the information, where was M. K. Arjunan born?
+Answer 3: FINISH[Kerala]
+
+Question: Are Bipradash Barua and Henk Wijngaard from the same country?
+Thought 1: What is the nationality of Bipradash Barua?
+Answer 1: Bipradash Barua is a Bangladeshi novelist, as mentioned in the supporting fact.
+Thought 2: What is the nationality of Henk Wijngaard?
+Answer 2: Henk Wijngaard is a Dutch country singer, as mentioned in the supporting fact.
+Thought 3: Are Bangladesh and the Netherlands the same country?
+Answer 3: No, Bangladesh and the Netherlands are different countries.
+Thought 4: Based on the nationalities of Bipradash Barua and Henk Wijngaard, are they from the same country?
+Answer 4: FINISH[no]
+
+Question: Are director of film Confessions Of Felix Krull (Film) and director of film King Of The Doormen from the same country?
+Thought 1: Who is the director of the film "Confessions Of Felix Krull" and what is their nationality?
+Answer 1: The director of "Confessions Of Felix Krull" is Kurt Hoffmann, who was a German film director.
+Thought 2: Who is the director of the film "King Of The Doormen" and what is their nationality?
+Answer 2: The director of "King Of The Doormen" is Zeki Ökten, who was a Turkish film director.
+Thought 3: Are the nationalities of Kurt Hoffmann (German) and Zeki Ökten (Turkish) the same?
+Answer 3: No, Kurt Hoffmann is German and Zeki Ökten is Turkish, so they are not from the same country.
+Answer n: FINISH[no]
+
+Question: What is the award that the composer of film Maaro (Film) got?
+Thought 1: Who is the composer of the film Maaro?
+Answer 1: The composer of the film Maaro is Mani Sharma, as mentioned in the supporting fact that states, "The music is scored by Mani Sharma."
+Thought 2: What awards has Mani Sharma received for his work in music direction?
+Answer 2: According to the supporting fact, Mani Sharma has received several awards, including two state Nandi Awards, three Filmfare Awards South, two CineMAA Awards, and three Mirchi Music Awards South for Best Music Direction.
+Thought 3: Which of these awards is most likely associated with the film Maaro?
+Answer 3: Since Maaro is a Telugu film and Mani Sharma has won Filmfare Awards South for his work in Telugu cinema, it is most likely that the award he received for Maaro is a Filmfare
+
+Question: Are Gavlimak and Berušica located in the same country?  
+Thought 1: Where is Gavlimak located?  
+Answer 1: Gavlimak is a village in Chehel Shahid Rural District, in the Central District of Ramsar County, Mazandaran Province, Iran.  
+Thought 2: Where is Berušica located?  
+Answer 2: Berušica is a village in the municipality of Trebinje, Republika Srpska, Bosnia and Herzegovina.  
+Thought 3: Are Iran and Bosnia and Herzegovina the same country?  
+Answer 3: No, Iran and Bosnia and Herzegovina are two different countries.  
+Thought 4: Based on the locations of Gavlimak and Berušica, are they in the same country?  
+Answer 4: FINISH[no]
+
+Question: Do both films: The Honourable Tenant and Lulu And Jimi have the directors from the same country?
+Thought 1: Who directed The Honourable Tenant and what is their country of origin?
+Answer 1: The Honourable Tenant was directed by Carlos Schlieper, who was an Argentine film director. He was born in Buenos Aires and worked primarily in Argentina.
+Thought 2: Who directed Lulu And Jimi and what is their country of origin?
+Answer 2: Lulu And Jimi was directed by Oskar Roehler, who is a German film director. He was born in Starnberg, Germany, and has worked primarily in Germany.
+Thought 3: Are Argentina and Germany the same country?
+Answer 3: No, Argentina and Germany are different countries. Argentina is in South America, while Germany is in Europe.
+Thought 4: Based on the directors' countries of origin, do the films have directors from the same country?
+Answer 
+
+Question: What is the place of birth of the director of film The Seven Madmen?
+Thought 1: Who is the director of the film "The Seven Madmen"?
+Answer 1: The director of "The Seven Madmen" is Leopoldo Torre Nilsson.
+Thought 2: Where was Leopoldo Torre Nilsson born?
+Answer 2: Leopoldo Torre Nilsson was born in Buenos Aires, as mentioned in the supporting fact that he died in his native Buenos Aires in 1978.
+Thought 3: Is there any conflicting information about Leopoldo Torre Nilsson's place of birth?
+Answer 3: No, the supporting facts consistently indicate that Buenos Aires is his place of birth and native city.
+Thought 4: What is the final answer to the question about the place of birth of the director of "The Seven Madmen"?
+Answer 4: FINISH[Buenos Aires]
+
+Question: Was Evan Jolitz or Tomasz Kafarski born first?
+Thought 1: What is the birth date of Evan Jolitz?
+Answer 1: Evan Jolitz was born on July 26, 1951.
+Thought 2: What is the birth date of Tomasz Kafarski?
+Answer 2: Tomasz Kafarski was born on January 13, 1975.
+Thought 3: Comparing the birth dates of Evan Jolitz and Tomasz Kafarski, who was born first?
+Answer 3: FINISH[Evan Jolitz]
+
+Question: Do both films Trailer Park Boys: Don't Legalize It and Little Joe (Film) have the directors that share the same nationality?
+Thought 1: What is the nationality of the director of Little Joe (Film)?
+Answer 1: Jessica Hausner, the director of Little Joe, is Austrian. This is evident from her biography, which mentions her Austrian background, her education at the Filmacademy Vienna, and her involvement in the Viennese film production company coop99.
+Thought 2: What is the nationality of the director of Trailer Park Boys: Don't Legalize It?
+Answer 2: Mike Clattenburg, the director of Trailer Park Boys: Don't Legalize It, is Canadian. This is supported by the fact that he is best known for his work on Canadian television series like "Trailer Park Boys" and "This Hour Has 22 Minutes."
+Thought 3: Do Jessica Hausner (Austrian) and Mike Clattenburg
+
+Question: What is the date of death of Quentin Metsys The Younger's father?
+Thought 1: Who is Quentin Metsys The Younger's father?
+Answer 1: Quentin Metsys The Younger's father is Jan Massijs or Jan Matsys, a Flemish Renaissance painter.
+Thought 2: What is the date of death of Jan Massijs or Jan Matsys?
+Answer 2: Jan Massijs or Jan Matsys died on 8 October 1575.
+Thought 3: Is there any other information that could confirm the date of death of Quentin Metsys The Younger's father?
+Answer 3: The supporting facts confirm that Jan Massijs or Jan Matsys is Quentin Metsys The Younger's father and that he died on 8 October 1575.
+Thought 4: What is the final answer to the question?
+Answer 4: FINISH[8 October 1575]
+
+Question: Who is older, Peter Németh or P. N. Ravindran?
+Thought 1: What is Peter Németh's date of birth?
+Answer 1: Peter Németh was born on 14 September 1972.
+Thought 2: What is P. N. Ravindran's date of birth?
+Answer 2: P. N. Ravindran was born on 29 May 1956.
+Thought 3: Comparing the birth dates of Peter Németh and P. N. Ravindran, who was born earlier?
+Answer 3: FINISH[P. N. Ravindran]
+
+Question: When did the director of film The Palm Beach Girl die?
+Thought 1: Who is the director of the film The Palm Beach Girl?
+Answer 1: The director of The Palm Beach Girl is Erle C. Kenton, as mentioned in the supporting fact.
+Thought 2: When did Erle C. Kenton die?
+Answer 2: Erle C. Kenton died on January 28, 1980, as stated in the supporting fact.
+Thought 3: Is there any additional information about Erle C. Kenton's death?
+Answer 3: The supporting fact also mentions that Erle C. Kenton died in Glendale, California from Parkinson's disease.
+Thought 4: What is the final answer to the question about the director's death date?
+Answer 4: FINISH[January 28, 1980]
+
+Question: Where was the husband of Susan Buffett born?
+Thought 1: Who is Susan Buffett's husband?
+Answer 1: Susan Buffett's husband is Warren Buffett, as mentioned in the supporting fact that describes her as the first wife of investor Warren Buffett.
+Thought 2: Where was Warren Buffett born?
+Answer 2: Warren Buffett was born in Omaha, Nebraska, as stated in the supporting fact about his life and career.
+Thought 3: What is the final answer to the question based on the above information?
+Answer 3: FINISH[Omaha, Nebraska]
+
+Question: When did the composer of song Tea For Two (Song) die?
+Thought 1: Who is the composer of the song "Tea For Two"?
+Answer 1: The composer of "Tea For Two" is Vincent Youmans, as mentioned in the supporting fact: "Tea for Two" is a song composed by Vincent Youmans with lyrics by Irving Caesar and written in 1924.
+Thought 2: When did Vincent Youmans die?
+Answer 2: Vincent Youmans died on April 5, 1946, as stated in the supporting fact: "Vincent Millie Youmans (September 27, 1898 – April 5, 1946) was an American Broadway composer and producer."
+Thought 3: Is there any additional information about Vincent Youmans' death that needs to be considered?
+Answer 3: No, the supporting facts provide a clear date of death for Vincent Youmans, and no conflicting information is presented.
+
+Question: Which country the director of film Muskurahat (1992 Film) is from?
+Thought 1: Who is the director of the film Muskurahat (1992)?
+Answer 1: The director of Muskurahat (1992) is Priyadarshan, as mentioned in the supporting fact.
+Thought 2: What is the nationality of Priyadarshan?
+Answer 2: Priyadarshan is Indian, as stated in the supporting fact that he is an Indian film director, producer, and screenwriter.
+Thought 3: Is there any additional information confirming Priyadarshan's nationality?
+Answer 3: Yes, the supporting fact mentions that he was honored with the Padma Shri, India's fourth highest civilian award, further confirming his Indian nationality.
+Thought 4: Based on the above, what is the final answer to the question?
+Answer 4: FINISH[India]
+
+Question: Are both villages, Čanište and Band-E Lal Mohammad, located in the same country?
+Thought 1: Where is Band-E Lal Mohammad located?  
+Answer 1: Band-E Lal Mohammad is a village in Nosratabad Rural District, in the Central District of Zahedan County, Sistan and Baluchestan Province, Iran. At the 2006 census, its population was 25, in 5 families.  
+Thought 2: Where is Čanište located?  
+Answer 2: Čanište is a village in the Municipality of Prilep, Republic of Macedonia.  
+Thought 3: Are Iran and the Republic of Macedonia the same country?  
+Answer 3: No, Iran and the Republic of Macedonia are two separate countries.  
+Thought 4: Based on the locations of the two villages, are they in the same country?  
+Answer 4: FINISH[no]
+
+Question: When is the director of film The Land Of Steady Habits 's birthday?
+Thought 1: Who is the director of the film The Land Of Steady Habits?
+Answer 1: The director of the film The Land Of Steady Habits is Nicole Holofcener, as she wrote, directed, and co-produced the film.
+Thought 2: What is Nicole Holofcener's birthday?
+Answer 2: Nicole Holofcener was born on March 22, 1960, as stated in the supporting fact.
+Thought 3: What is the final answer to the question about the director's birthday?
+Answer 3: FINISH[March 22, 1960]
+
+Question: Are both universities, Bethel University (Minnesota) and Trinity Evangelical Divinity School, located in the same country?
+Thought 1: Where is Bethel University (Minnesota) located?
+Answer 1: Bethel University is located primarily in Arden Hills, Minnesota, which is in the United States.
+Thought 2: Where is Trinity Evangelical Divinity School located?
+Answer 2: Trinity Evangelical Divinity School is located north of Chicago, Illinois, which is also in the United States.
+Thought 3: Are both locations (Minnesota and Illinois) within the same country?
+Answer 3: FINISH[yes]
+
+Question: What is the date of death of the composer of the song "Moonlight Bay"?
+Thought 1: Who is the composer of the song "Moonlight Bay"?
+Answer 1: The composer of "Moonlight Bay" is Percy Wenrich, as stated in the supporting fact: "The lyrics were written by Edward Madden, the music by Percy Wenrich, and was published in 1912."
+Thought 2: What is the date of death of Percy Wenrich?
+Answer 2: Percy Wenrich died on March 17, 1952, as stated in the supporting fact: "Percy Wenrich (January 23, 1887 – March 17, 1952) was a United States composer of ragtime and popular music."
+Thought 3: Is there any conflicting information about Percy Wenrich's date of death?
+Answer 3: No, the supporting facts consistently state that Percy Wenrich died on March 17, 195
+
+Question: Are both villages, Mobarak Hoseyni and Kigeh Olya, located in the same country?
+Thought 1: Where is Mobarak Hoseyni located?
+Answer 1: Mobarak Hoseyni is a village in Dar Agah Rural District, in the Central District of Hajjiabad County, Hormozgan Province, Iran.
+Thought 2: Where is Kigeh Olya located?
+Answer 2: Kigeh Olya is a village in Mahru Rural District, Zaz va Mahru District, Aligudarz County, Lorestan Province, Iran.
+Thought 3: Are both villages located in Iran?
+Answer 3: Yes, both Mobarak Hoseyni and Kigeh Olya are located in Iran, as indicated by their respective administrative divisions.
+Answer 3: FINISH[yes]
+
+Question: What is the place of birth of the director of film Let There Be Light (1998 Film)?
+Thought 1: Who is the director of the film Let There Be Light (1998 Film)?
+Answer 1: The director of Let There Be Light (1998 Film) is Arthur Joffé, as stated in the supporting fact: "Let There Be Light (original title: Que la lumière soit !) is a 1998 comedy fantasy film directed by Arthur Joffé, starring an ensemble cast."
+Thought 2: Where was Arthur Joffé born?
+Answer 2: Arthur Joffé was born in Paris, as stated in the supporting fact: "Arthur Joffé was born on 20 September 1953 in Paris."
+Thought 3: What is the place of birth of the director of film Let There Be Light (1998 Film)?
+Answer 3: FINISH[Paris]
+
+Question: Are Lugenda River and Kholova River both located in the same country?
+Thought 1: Where is the Lugenda River located?
+Answer 1: The Lugenda River is located in northern Mozambique. It flows in a south-north direction from Lake Amaramba/Lake Chiuta and is the largest tributary of the Ruvuma River.
+Thought 2: Where is the Kholova River located?
+Answer 2: The Kholova River is located in Krestetsky and Malovishersky Districts of Novgorod Oblast in Russia. It is a left tributary of the Msta River.
+Thought 3: Are Mozambique and Russia the same country?
+Answer 3: No, Mozambique and Russia are different countries. Mozambique is in Africa, while Russia is in Eurasia.
+Thought 4: Based on the locations of the Lugenda River and the Kholova River, are they in the same country?
+Answer 4: FINISH[
+
+Question: Are João De Aquino and Yacine Slatni both from the same country?
+Thought 1: Where is João De Aquino from?
+Answer 1: João De Aquino is from Brazil, as he is described as a Brazilian guitarist and composer.
+Thought 2: Where is Yacine Slatni from?
+Answer 2: Yacine Slatni is from Algeria, as he is described as a retired Algerian professional footballer.
+Thought 3: Are Brazil and Algeria the same country?
+Answer 3: No, Brazil and Algeria are different countries. Brazil is in South America, while Algeria is in North Africa.
+Thought 4: Final thought - Are João De Aquino and Yacine Slatni from the same country?
+Answer 4: FINISH[no]
+
+Question: Where was the place of death of the director of film Men Or Not Men?
+Thought 1: Who is the director of the film Men or Not Men?
+Answer 1: The director of the film Men or Not Men is Valentino Orsini, as stated in the supporting fact.
+Thought 2: Where and when did Valentino Orsini die?
+Answer 2: Valentino Orsini died on 26 January 2001 in Cerveteri, as mentioned in the supporting fact.
+Thought 3: What is the place of death of Valentino Orsini, the director of Men or Not Men?
+Answer 3: FINISH[Cerveteri]
+
+Question: What nationality is the director of film The Suspect (1916 Film)?
+Thought 1: Who directed the film "The Suspect (1916 Film)"?
+Answer 1: The film "The Suspect (1916 Film)" was directed by S. Rankin Drew, as stated in the supporting fact.
+Thought 2: What is the nationality of S. Rankin Drew?
+Answer 2: S. Rankin Drew was an American actor and film director, as mentioned in the supporting fact.
+Thought 3: Based on the above information, what is the nationality of the director of "The Suspect (1916 Film)"?
+Answer 3: FINISH[American]
+
+Question: Which film whose director was born first, Not On The Lips or Lo Svitato?
+Thought 1: Who directed "Not On The Lips" and when was that director born?
+Answer 1: "Not On The Lips" was directed by Alain Resnais, who was born on 3 June 1922.
+Thought 2: Who directed "Lo Svitato" and when was that director born?
+Answer 2: "Lo Svitato" was directed by Carlo Lizzani, who was born on 3 April 1922.
+Thought 3: Comparing the birth dates of the two directors, which director was born first?
+Answer 3: Carlo Lizzani was born on 3 April 1922, and Alain Resnais was born on 3 June 1922. Therefore, Carlo Lizzani was born first.
+Thought 4: Based on the birth dates of the directors, which film's director was born first?
+
+
+Question: Which film was released earlier, Mystery Of The Wolf or Decoding Annie Parker?
+Thought 1: What is the release year of Mystery Of The Wolf?  
+Answer 1: Mystery of the Wolf is a 2006 Finnish drama directed by Raimo O Niemi, so its release year is 2006.
+Thought 2: What is the release year of Decoding Annie Parker?  
+Answer 2: Decoding Annie Parker is a 2013 drama film written and directed by Steven Bernstein, so its release year is 2013.
+Thought 3: Comparing the release years of both films, which one was released earlier?  
+Answer 3: FINISH[Mystery Of The Wolf]
+
+Question: Who is Albert III, Duke of Bavaria's maternal grandmother?
+Thought 1: Who was Albert III, Duke of Bavaria's mother?
+Answer 1: Albert III, Duke of Bavaria's mother was Elisabetta Visconti, as stated in the supporting fact: "Albert III the Pious of Bavaria-Munich... was born... to Ernest, Duke of Bavaria and Elisabetta Visconti, daughter of Bernabò Visconti."
+Thought 2: Who was Elisabetta Visconti's mother (and thus Albert III's maternal grandmother)?
+Answer 2: Elisabetta Visconti's mother was Beatrice Regina della Scala, as stated in the supporting fact: "Elisabetta Visconti... was a younger child of Bernabò Visconti and his wife, Beatrice Regina della Scala."
+Thought 3: Based on the above, who is Albert III, Duke of Bavaria's maternal grandmother?
+Answer 3: FINISH[
+
+Question: Are the directors of both films Soft Boiled and Tremors 3: Back to Perfection from the same country?
+Thought 1: Who is the director of Soft Boiled, and what is their country of origin?  
+Answer 1: The director of Soft Boiled is John G. Blystone, who was an American film director, born in Rice Lake, Wisconsin, and died in Los Angeles, California.  
+Thought 2: Who is the director of Tremors 3: Back to Perfection, and what is their country of origin?  
+Answer 2: The director of Tremors 3: Back to Perfection is Brent Maddock, who is also an American screenwriter, producer, and film director.  
+Thought 3: Are both directors from the same country?  
+Answer 3: FINISH[yes]
+
+Question: Which film has the director born earlier, The Bodyguard (2016 Film) or Princess O'Rourke?
+Thought 1: Who directed "The Bodyguard (2016 Film)" and when were they born?
+Answer 1: "The Bodyguard (2016 Film)" was directed by Sammo Hung, who was born on 7 January 1952.
+Thought 2: Who directed "Princess O'Rourke" and when were they born?
+Answer 2: "Princess O'Rourke" was directed by Norman Krasna, who was born on November 7, 1909.
+Thought 3: Comparing the birth dates of the directors, which director was born earlier?
+Answer 3: Norman Krasna (born November 7, 1909) was born earlier than Sammo Hung (born January 7, 1952).
+Thought 4: Based on the directors' birth dates, which film has the
+
+Question: Do Pavlo Petrenko and Aloysius Pazheparambil share the same nationality?
+Thought 1: What is the nationality of Aloysius Pazheparambil based on the supporting facts?  
+Answer 1: The supporting fact states that Aloysius Pazheparambil was a monk of the Syrian Carmelites and later became one of three Indian bishops appointed to rule over the Vicariates Apostolic in his church. This indicates he was of Indian nationality.  
+Thought 2: What is the nationality of Pavlo Petrenko based on the supporting facts?  
+Answer 2: The supporting fact describes Pavlo Petrenko as a Ukrainian politician, jurist, and lawyer who served as the Minister of Justice of Ukraine. This confirms he is of Ukrainian nationality.  
+Thought 3: Do the nationalities of Aloysius Pazheparambil (Indian) and Pavlo Petrenko (Ukrainian) match?  
+Answer 3: FINISH[
+
+Question: What is the date of death of the director of film Lupe Balazos?
+Thought 1: Who is the director of the film Lupe Balazos?
+Answer 1: The director of Lupe Balazos is Chano Urueta.
+Thought 2: What is the date of death of Chano Urueta?
+Answer 2: Chano Urueta died on March 23, 1979.
+Thought 3: What is the date of death of the director of film Lupe Balazos?
+Answer 3: FINISH[March 23, 1979]
+
+Question: What is the date of birth of the director of film A Matter Of Choice?
+Thought 1: Who is the director of the film "A Matter of Choice"?
+Answer 1: The director of "A Matter of Choice" is Vernon Sewell, as stated in the supporting fact: "A Matter of Choice is a 1963 British drama film directed by Vernon Sewell and starring Anthony Steel, Jeanne Moody and Ballard Berkeley."
+Thought 2: What is the date of birth of Vernon Sewell?
+Answer 2: Vernon Sewell's date of birth is 4 July 1903, as stated in the supporting fact: "Vernon Campbell Sewell (4 July 1903 – 21 June 2001) was a British film director, writer, producer and, briefly, an actor."
+Thought 3: Is there any conflicting information about Vernon Sewell's date of birth?
+Answer 3: No, the supporting facts consistently state that
+
+Question: What is the place of birth of Léon-Victor Solon's father?
+Thought 1: Who is Léon-Victor Solon's father?
+Answer 1: Léon-Victor Solon's father is Marc-Louis-Emmanuel Solon, a renowned French porcelain artist.
+Thought 2: Where was Marc-Louis-Emmanuel Solon born?
+Answer 2: Marc-Louis-Emmanuel Solon was born in Montauban, Tarn-et-Garonne.
+Thought 3: What is the place of birth of Léon-Victor Solon's father?
+Answer 3: FINISH[Montauban]
+
+Question: What nationality is the composer of film Aake (Film)?
+Thought 1: Who is the composer of the film Aake?
+Answer 1: The composer of the film Aake is Gurukiran, as mentioned in the supporting facts.
+Thought 2: What is the nationality of Gurukiran?
+Answer 2: Gurukiran is a music director in the Kannada film industry in India, as stated in the supporting facts. He is a native of Mangalore, and his mother tongue is Tulu, which further confirms his Indian nationality.
+Thought 3: Is there any information suggesting Gurukiran has a nationality other than Indian?
+Answer 3: No, the supporting facts only mention Gurukiran's association with the Kannada film industry in India and his roots in Mangalore, with no indication of any other nationality.
+Thought 4: Based on the above, what is the nationality of the composer of Aake?
+Answer 4: FINISH[India]
+
+Question: What is the date of birth of the director of film The Airship, Or 100 Years Hence?
+Thought 1: Who is the director of the film "The Airship, Or 100 Years Hence"?
+Answer 1: The director of the film "The Airship, Or 100 Years Hence" is J. Stuart Blackton, as stated in the supporting fact.
+Thought 2: What is the date of birth of J. Stuart Blackton?
+Answer 2: According to the supporting fact, James Stuart Blackton was born on January 5, 1875.
+Thought 3: Is there any conflicting information about the director's date of birth?
+Answer 3: No, the supporting facts consistently identify J. Stuart Blackton as the director and provide his date of birth as January 5, 1875.
+Thought 4: What is the final answer to the original question?
+Answer 4: FINISH[January 5, 
+
+Question: Are the directors of films The Super Cops and Dick Tracy (1990 Film) both from the same country?
+Thought 1: Who is the director of The Super Cops?
+Answer 1: The director of The Super Cops is Gordon Parks.
+Thought 2: What is the nationality of Gordon Parks?
+Answer 2: Gordon Parks was an American photographer, musician, writer, and film director.
+Thought 3: Who is the director of Dick Tracy (1990 Film)?
+Answer 3: The director of Dick Tracy (1990 Film) is Warren Beatty.
+Thought 4: What is the nationality of Warren Beatty?
+Answer 4: Warren Beatty is an American actor and filmmaker.
+Thought 5: Are both directors from the same country?
+Answer 5: FINISH[yes]
+
+Question: Who is the mother of the director of film The Triumph Of The Heart?
+Thought 1: Who is the director of the film "The Triumph Of The Heart"?
+Answer 1: The director of the film "The Triumph Of The Heart" is Gustaf Molander, as stated in the supporting fact.
+Thought 2: Who are the parents of Gustaf Molander?
+Answer 2: Gustaf Molander's parents are director Harald Molander, Sr. and singer and actress Lydia Molander (née Wessler), as mentioned in the supporting fact.
+Thought 3: Based on the information, who is the mother of Gustaf Molander?
+Answer 3: The mother of Gustaf Molander is Lydia Molander (née Wessler).
+Answer n: FINISH[Lydia Molander]
+
+Question: Where was the place of death of the director of film The Song Of The Riverside?
+Thought 1: Who is the director of the film "The Song Of The Riverside"?
+Answer 1: The director of "The Song Of The Riverside" is Julio Irigoyen, as stated in the supporting fact.
+Thought 2: Where did Julio Irigoyen die?
+Answer 2: Julio Irigoyen died in Buenos Aires in 1967, as mentioned in the supporting fact.
+Thought 3: Is there any additional context about Julio Irigoyen's death?
+Answer 3: Yes, the supporting fact mentions that he died in the same house where he had been born in Buenos Aires.
+Thought 4: Does the information confirm that Buenos Aires is the place of death of the director of "The Song Of The Riverside"?
+Answer 4: FINISH[Buenos Aires]
+
+Question: What is the place of birth of the director of film Margaret Atwood: Once In August?
+Thought 1: Who is the director of the film Margaret Atwood: Once In August?
+Answer 1: The director of the film Margaret Atwood: Once In August is Michael Rubbo, as mentioned in the supporting fact about the film.
+Thought 2: Where was Michael Rubbo born?
+Answer 2: The supporting fact about Michael Rubbo does not explicitly state his place of birth, but it mentions that he studied at Scotch College, Melbourne, which suggests a strong connection to Melbourne, Australia.
+Thought 3: Is there any other information that confirms Michael Rubbo's place of birth?
+Answer 3: The supporting fact describes Michael Rubbo as an Australian filmmaker, which further supports the inference that he was born in Australia, likely in Melbourne given his educational background.
+Thought 4: Based on the available information, what is the most likely place of birth of Michael
+
+Question: Which magazine was established first, Stylist (Magazine) or Thomas Cook European Timetable?
+Thought 1: When was Stylist (Magazine) established?
+Answer 1: Stylist was established on 7 October 2009.
+Thought 2: When was Thomas Cook European Timetable established?
+Answer 2: Thomas Cook European Timetable was established in 1873 and has been in continuous publication since then, except during World War II and a six-month period in 2013–14.
+Thought 3: Comparing the establishment dates of Stylist (2009) and Thomas Cook European Timetable (1873), which one was established first?
+Answer 3: FINISH[Thomas Cook European Timetable]
+
+Question: Who was born first, Shehu Sani or Bernadette Karpf?
+Thought 1: What is the birth date of Bernadette Karpf?  
+Answer 1: Bernadette Karpf was born on 3 July 1996.  
+Thought 2: What is the birth date of Shehu Sani?  
+Answer 2: Shehu Sani was born on 29 October 1967.  
+Thought 3: Comparing the birth dates of Shehu Sani (29 October 1967) and Bernadette Karpf (3 July 1996), who was born earlier?  
+Answer 3: FINISH[Shehu Sani]
+
+Question: Which film has the director who is older than the other, Drohi (1948 Film) or Soldiers And Women?
+Thought 1: Who directed Drohi (1948 Film) and what is their birth year?
+Answer 1: Drohi (1948 Film) was directed by L. V. Prasad, who was born on 17 January 1908.
+Thought 2: Who directed Soldiers And Women and what is their birth year?
+Answer 2: Soldiers And Women was directed by Edward Sloman, who was born on 19 July 1886.
+Thought 3: Comparing the birth years of L. V. Prasad (17 January 1908) and Edward Sloman (19 July 1886), who is older?
+Answer 3: Edward Sloman (born 1886) is older than L. V. Prasad (born 1908).
+Thought 4: Which film has the older director, Drohi (1948 Film) or
+
+Question: Who died earlier, Johnny Lira or Dith Pran?
+Thought 1: What is the death date of Dith Pran?
+Answer 1: Dith Pran died on 30 March 2008.
+Thought 2: What is the death date of Johnny Lira?
+Answer 2: Johnny Lira died on 8 December 2012.
+Thought 3: Comparing the death dates of Dith Pran and Johnny Lira, who died earlier?
+Answer 3: FINISH[Dith Pran]
+
+Question: Where did the director of film Luggage Of The Gods! study?
+Thought 1: Who is the director of the film "Luggage Of The Gods!"?
+Answer 1: The director of the film "Luggage Of The Gods!" is David Kendall, as mentioned in the supporting facts.
+Thought 2: Where did David Kendall study?
+Answer 2: According to the supporting facts, David Kendall graduated from Wesleyan University in 1979, where he majored in both film studies and government.
+Thought 3: Is there any information about David Kendall's education that contradicts or adds to the previous answer?
+Answer 3: No, the supporting facts only mention Wesleyan University as the institution where David Kendall studied.
+Thought 4: Does the film "Luggage Of The Gods!" provide any additional information about David Kendall's education?
+Answer 4: No, the information about the film does not mention David Kendall's education; it only discusses the
+
+Question: Do director of film Getting 'Em Right and director of film Le Déserteur (Film) have the same nationality?
+Thought 1: What is the nationality of the director of the film "Getting 'Em Right"?
+Answer 1: The director of "Getting 'Em Right" is Jack Harvey, who was born in Cleveland, Ohio, and was an American film director. Therefore, his nationality is American.
+Thought 2: What is the nationality of the director of the film "Le Déserteur"?
+Answer 2: The director of "Le Déserteur" is Simon Lavoie, who is a Canadian film director from Quebec. Therefore, his nationality is Canadian.
+Thought 3: Are the nationalities of the directors of "Getting 'Em Right" and "Le Déserteur" the same?
+Answer 3: No, the director of "Getting 'Em Right" is American, and the director of "Le Déser
+
+Question: Where did the director of film Sweet Daddies die?
+Thought 1: Who is the director of the film Sweet Daddies?
+Answer 1: The director of Sweet Daddies is Alfred Allen Santell, also known as Al Santell.
+Thought 2: Where did Alfred Allen Santell die?
+Answer 2: Alfred Allen Santell died on June 19, 1981 in Salinas, California.
+Thought 3: What is the final answer to the question based on the supporting facts?
+Answer 3: FINISH[Salinas]
+
+Question: Are both Qowsheh-Ye Sofla and Thorn, Netherlands located in the same country?
+Thought 1: Where is Qowsheh-Ye Sofla located?  
+Answer 1: Qowsheh-Ye Sofla is a village in Arshaq-e Shomali Rural District, Arshaq District, Meshgin Shahr County, Ardabil Province, Iran.  
+Thought 2: Where is Thorn, Netherlands located?  
+Answer 2: Thorn is a town in the municipality of Maasgouw, in the Dutch province of Limburg, Netherlands.  
+Thought 3: Are Iran and the Netherlands the same country?  
+Answer 3: No, Iran and the Netherlands are two different countries.  
+Thought 4: Based on the locations of Qowsheh-Ye Sofla and Thorn, are they in the same country?  
+Answer 4: FINISH[no]
+
+Question: Are both director of film Our Beautiful Days and director of film Your Three Minutes Are Up from the same country?
+Thought 1: Who is the director of the film Our Beautiful Days, and what is their country of origin?  
+Answer 1: The director of Our Beautiful Days is Helmy Halim, who is Egyptian, as stated in the supporting facts.  
+Thought 2: Who is the director of the film Your Three Minutes Are Up, and what is their country of origin?  
+Answer 2: The director of Your Three Minutes Are Up is Douglas Schwartz, who is American, as stated in the supporting facts.  
+Thought 3: Are Egypt and America the same country?  
+Answer 3: No, Egypt and America are different countries.  
+Thought 4: Based on the directors' countries of origin, are the directors of the two films from the same country?  
+Answer 4: FINISH[no]
+
+Question: Which film has the director born later, Stingray Sam or The Kickback (Film)?
+Thought 1: Who directed Stingray Sam and when were they born?
+Answer 1: Stingray Sam was directed by Cory McAbee, who was born on August 29, 1961, in Santa Venetia, California, USA.
+Thought 2: Who directed The Kickback and when were they born?
+Answer 2: The Kickback was directed by Val Paul, who was born on April 10, 1886, in Denver, Colorado, USA.
+Thought 3: Comparing the birth years of the two directors, which director was born later?
+Answer 3: Cory McAbee (born 1961) was born later than Val Paul (born 1886).
+Thought 4: Based on the directors' birth years, which film has the director born later?
+Answer 4: FINISH[Stingray Sam]
+
+Question: When was the director of film Veeramani (Film) born?
+Thought 1: Who is the director of the film Veeramani?
+Answer 1: The director of the film Veeramani is Prem Menon, as stated in the supporting fact.
+Thought 2: When was Prem Menon born?
+Answer 2: Prem Menon was born on 15 October 1953, as mentioned in the supporting fact.
+Thought 3: What is the final answer to the question based on the supporting facts?
+Answer 3: FINISH[1953]
+
+Question: What is the date of death of the director of film Three Tough Guys?
+Thought 1: Who is the director of the film "Three Tough Guys"?
+Answer 1: The director of "Three Tough Guys" is Duccio Tessari, as mentioned in the second supporting fact.
+Thought 2: What is the date of death of Duccio Tessari?
+Answer 2: Duccio Tessari died on 6 September 1994, as stated in the first supporting fact.
+Thought 3: Is there any additional information about Duccio Tessari's death?
+Answer 3: The first supporting fact also mentions that he died of cancer in Rome at the age of 68.
+Thought 4: Does the answer align with the question about the date of death of the director of "Three Tough Guys"?
+Answer 4: FINISH[6 September 1994]
+
+Question: Do both films Doctor Crippen (1942 Film) and The Island Of Forbidden Kisses have the directors that share the same nationality?
+Thought 1: Who directed the film Doctor Crippen (1942 Film)?
+Answer 1: Doctor Crippen (1942 Film) was directed by Erich Engels, who was a German screenwriter, producer, and film director.
+Thought 2: Who directed the film The Island Of Forbidden Kisses?
+Answer 2: The Island Of Forbidden Kisses was directed by Georg Jacoby, who was a German film director and screenwriter.
+Thought 3: What is the nationality of the directors of both films?
+Answer 3: Both Erich Engels and Georg Jacoby were German directors.
+Thought 4: Do the directors of both films share the same nationality?
+Answer 4: FINISH[yes]
+
+Question: Which country Mildred Shapley Matthews's father is from?
+Thought 1: Who is Mildred Shapley Matthews's father?
+Answer 1: Mildred Shapley Matthews's father is Harlow Shapley, as mentioned in the supporting fact: "Mildred Shapley Matthews (February 15, 1915 – February 11, 2016) was a book editor and writer known for astronomy books. She was the daughter of astronomers Harlow Shapley and Martha Betz Shapley; her father named the asteroid 878 Mildred for her."
+Thought 2: What is the nationality of Harlow Shapley?
+Answer 2: Harlow Shapley is American, as mentioned in the supporting fact: "Harlow Shapley (November 2, 1885 – October 20, 1972) was an American scientist, head of the Harvard College Observatory (1921–1952), and political
+
+Question: Are both directors of films Girl Overboard (1937 Film) and Joseph (2018 Film) from the same country?
+Thought 1: Who is the director of Girl Overboard (1937 Film), and what is their country of origin?
+Answer 1: The director of Girl Overboard (1937 Film) is Sidney Salkow, who was an American film director. This is confirmed by the supporting fact that states he was educated in the U.S. and worked in the American film industry.
+Thought 2: Who is the director of Joseph (2018 Film), and what is their country of origin?
+Answer 2: The director of Joseph (2018 Film) is M. Padmakumar, who is an Indian film director working in Malayalam cinema. This is confirmed by the supporting fact that describes his career in Indian cinema.
+Thought 3: Are Sidney Salkow (American) and M. Padmakumar (Indian) from the same
+
+Question: Are Mumu (1959 Film) and Hell Bound (1931 Film) both from the same country?
+Thought 1: What is the country of origin for Hell Bound (1931 Film)?
+Answer 1: Hell Bound is a 1931 American Pre-Code drama film directed by Walter Lang, so its country of origin is the United States.
+Thought 2: What is the country of origin for Mumu (1959 Film)?
+Answer 2: Mumu is a 1959 Soviet drama film directed by and, so its country of origin is the Soviet Union.
+Thought 3: Are the United States and the Soviet Union the same country?
+Answer 3: FINISH[no]
+
+Question: Do director of film Khayal Gatha and director of film Time Renegades share the same nationality?
+Thought 1: What is the nationality of the director of Khayal Gatha?
+Answer 1: The director of Khayal Gatha is Kumar Shahani, who is a noted Indian film director and screenwriter. Therefore, his nationality is Indian.
+Thought 2: What is the nationality of the director of Time Renegades?
+Answer 2: The director of Time Renegades is Kwak Jae-yong, who is a South Korean film director and screenwriter. Therefore, his nationality is South Korean.
+Thought 3: Do the nationalities of Kumar Shahani (Indian) and Kwak Jae-yong (South Korean) match?
+Answer 3: No, the nationalities do not match. Kumar Shahani is Indian, and Kwak Jae-yong is South Korean.
+Thought 4: Final thought - Do the
+
+Question: When did the director of film Heroes Of The Mine die?
+Thought 1: Who is the director of the film Heroes Of The Mine?
+Answer 1: The director of Heroes Of The Mine is George Pearson, as stated in the supporting fact.
+Thought 2: When did George Pearson die?
+Answer 2: George Pearson died on 6 February 1973, according to the supporting fact.
+Thought 3: Is there any other information needed to confirm the answer?
+Answer 3: No, the supporting facts clearly state the director's name and his death date.
+Answer n: FINISH[6 February 1973]
+
+Question: Were Gilberto Andrés Romero Pino and Denny Januar Ali of the same nationality?
+Thought 1: What is the nationality of Gilberto Andrés Romero Pino?  
+Answer 1: Gilberto Andrés Romero Pino was born in Havana, Cuba, and is described as a Cuban artist. Therefore, his nationality is Cuban.
+Thought 2: What is the nationality of Denny Januar Ali?  
+Answer 2: Denny Januar Ali, also known as Denny JA, was born in Palembang, South Sumatra, and is described as an influential figure in Indonesia. Therefore, his nationality is Indonesian.
+Thought 3: Are Cuban and Indonesian nationalities the same?  
+Answer 3: No, Cuban and Indonesian nationalities are not the same. Cuba and Indonesia are distinct countries with different nationalities.
+Thought 4: Based on their nationalities, were Gilberto Andrés Romero Pino and Denny Januar Ali of the same nationality?  
+Answer
+
+Question: Where was the performer of song Livin' It Up (Ciara Song) born?
+Thought 1: Who is the performer of the song "Livin' It Up"?
+Answer 1: The performer of the song "Livin' It Up" is Ciara, an American singer-songwriter, as mentioned in the supporting facts.
+Thought 2: Where was Ciara born?
+Answer 2: According to the supporting facts, Ciara was born in Austin, Texas.
+Thought 3: Is there any conflicting information about Ciara's birthplace in the supporting facts?
+Answer 3: No, the supporting facts consistently state that Ciara was born in Austin, Texas, and there is no conflicting information.
+Thought 4: Does the song "Livin' It Up" provide any additional information about Ciara's birthplace?
+Answer 4: No, the information about the song "Livin' It Up" does not mention Ciara's birthplace; it
+
+Question: Are director of film Tiny Times 3 and director of film Dark River (2017 Film) from the same country?
+Thought 1: Who is the director of Tiny Times 3?
+Answer 1: The director of Tiny Times 3 is Guo Jingming, a Chinese writer and filmmaker.
+Thought 2: Who is the director of Dark River (2017 Film)?
+Answer 2: The director of Dark River is Clio Barnard, a British director known for her documentary and feature films.
+Thought 3: What is the nationality of Guo Jingming?
+Answer 3: Guo Jingming is Chinese, as evidenced by his career in China and his involvement in Chinese literature and film.
+Thought 4: What is the nationality of Clio Barnard?
+Answer 4: Clio Barnard is British, as she is described as a significant voice in British cinema and her films are set in the UK.
+Thought 5: Are Guo Jingming (Chinese)
+
+Question: Which film has the director died later, Walking the Streets of Moscow or Caninabis?
+Thought 1: Who directed the film "Walking the Streets of Moscow" and when did they die?
+Answer 1: "Walking the Streets of Moscow" was directed by Georgiy Nikolayevich Daneliya, who died on 4 April 2019.
+Thought 2: Who directed the film "Caninabis" and when did they die?
+Answer 2: "Caninabis" was directed by Kaj Gøtzsche Pindal, who died on 28 June 2019.
+Thought 3: Comparing the death dates of the two directors, which one died later?
+Answer 3: Kaj Gøtzsche Pindal (28 June 2019) died later than Georgiy Nikolayevich Daneliya (4 April 2019).
+Thought 4: Based on the death dates of the directors, which film has the director
+
+Question: Do director of film Scrooged and director of film Day Off (film) have the same nationality?
+Thought 1: Who is the director of the film "Scrooged" and what is their nationality?
+Answer 1: The director of "Scrooged" is Richard Donner, who is an American director and producer, as stated in the supporting fact.
+Thought 2: Who is the director of the film "Day Off" and what is their nationality?
+Answer 2: The director of "Day Off" is Pascal Thomas, who is a French screenwriter and film director, as mentioned in the supporting facts.
+Thought 3: Are the nationalities of Richard Donner (American) and Pascal Thomas (French) the same?
+Answer 3: No, Richard Donner is American, and Pascal Thomas is French, so their nationalities are not the same.
+Thought 4: Based on the above, do the directors of "Sc
+
+Question: When was the director of film Man At Bath born?
+Thought 1: Who is the director of the film "Man At Bath"?
+Answer 1: The director of the film "Man At Bath" is Christophe Honoré, as stated in the supporting fact.
+Thought 2: When was Christophe Honoré born?
+Answer 2: Christophe Honoré was born on 10 April 1970, according to the supporting fact.
+Thought 3: Is there any conflicting information about Christophe Honoré's birth date?
+Answer 3: No, the supporting fact clearly states his birth date as 10 April 1970 without any conflicting information.
+Thought 4: Does the question require any additional information beyond the director's birth date?
+Answer 4: No, the question only asks for the birth date of the director of "Man At Bath," which has been confirmed.
+Answer 4: FINISH[10 April 1970]
+
+Question: Where was the director of film Min Kone Er Uskyldig born?
+Thought 1: Who is the director of the film Min Kone Er Uskyldig?
+Answer 1: The director of the film Min Kone Er Uskyldig is Johan Jacobsen.
+Thought 2: Where was Johan Jacobsen born?
+Answer 2: Johan Jacobsen was born in Aarhus, as stated in the supporting fact: "Johan Jacobsen (born 14 March 1912 in Aarhus – died 7 July 1972 in Copenhagen) was a Danish film director."
+Thought 3: Is there any conflicting information about Johan Jacobsen's birthplace?
+Answer 3: No, the supporting facts consistently state that Johan Jacobsen was born in Aarhus.
+Thought 4: What is the final answer to the question about the director's birthplace?
+Answer 4: FINISH[Aarhus]
+
+Question: Are Merixen and Hajji Havar Kandi located in the same country?
+Thought 1: Where is Merixen located?  
+Answer 1: Merixen is a village in the commune of Debdeb, in In Amenas District, Illizi Province, Algeria, located on the southern edge of the Grand Erg Oriental.  
+Thought 2: Where is Hajji Havar Kandi located?  
+Answer 2: Hajji Havar Kandi is a village in Qeshlaq-e Sharqi Rural District, Qeshlaq Dasht District, Bileh Savar County, Ardabil Province, Iran.  
+Thought 3: Are Algeria and Iran the same country?  
+Answer 3: No, Algeria and Iran are two distinct countries.  
+Thought 4: Based on the locations of Merixen and Hajji Havar Kandi, are they in the same country?  
+Answer 4: FINISH[no]
+
+Question: What is the date of death of the director of film Renaissance (1964 Film)?
+Thought 1: Who is the director of the film Renaissance (1964 Film)?
+Answer 1: The director of the film Renaissance (1964 Film) is Walerian Borowczyk, as stated in the supporting fact: "Renaissance (also known as Renesans) is a 1964 French animation and short film directed by Walerian Borowczyk."
+Thought 2: What is the date of death of Walerian Borowczyk?
+Answer 2: The date of death of Walerian Borowczyk is 3 February 2006, as stated in the supporting fact: "Walerian Borowczyk (21 October 1923 – 3 February 2006) was an internationally known Polish film director..."
+Thought 3: What is the date of death of the director of film Renaissance (1964 Film)?
+Answer 3: FINISH[3 February
+
+Question: Were both Sandra Rauch and Corenne Bruhns born in the same place?
+Thought 1: Where was Sandra Rauch born?
+Answer 1: Sandra Rauch was born in Berlin, Germany in 1967.
+Thought 2: Where was Corenne Bruhns born?
+Answer 2: Corenne Bruhns was born in Naperville, Illinois, USA on January 31, 1991.
+Thought 3: Are Berlin, Germany and Naperville, Illinois, USA the same place?
+Answer 3: No, Berlin, Germany and Naperville, Illinois, USA are different places.
+Thought 4: Final thought - Were both Sandra Rauch and Corenne Bruhns born in the same place?
+Answer 4: FINISH[no]
+
+Question: Which film was released first, Poonji or The Tango Star?
+Thought 1: What is the release year of The Tango Star?  
+Answer 1: The Tango Star was released in 1940, as it is described as a 1940 Argentine musical film.
+Thought 2: What is the release year of Poonji?  
+Answer 2: Poonji was released in 1943, as it is described as a Bollywood film released in that year.
+Thought 3: Comparing the release years of The Tango Star (1940) and Poonji (1943), which film was released first?  
+Answer 3: FINISH[The Tango Star]
+
+Question: Are Wives And Obscurities and The End Of The Line (1957 Film) both from the same country?
+Thought 1: What is the country of origin for The End of the Line (1957 film)?
+Answer 1: The End of the Line is a 1957 British crime film, made at Southall Studios in West London. So, it is from the United Kingdom.
+Thought 2: What is the country of origin for Wives and Obscurities?
+Answer 2: Wives and Obscurities is a 1956 Italian comedy film, directed by Leonardo De Mitri. So, it is from Italy.
+Thought 3: Are the United Kingdom and Italy the same country?
+Answer 3: No, the United Kingdom and Italy are different countries.
+Answer 4: FINISH[no]
+
+Question: Do both directors of films Memory Of Water (Film) and Sweet Sixteen (2002 Film) have the same nationality?
+Thought 1: What is the nationality of Héctor Fáver, the director of "Memory of Water"?
+Answer 1: Héctor Fáver is an Argentine film producer and director, as stated in the supporting fact.
+Thought 2: What is the nationality of Kenneth Charles Loach, the director of "Sweet Sixteen"?
+Answer 2: Kenneth Charles Loach is an English filmmaker, as stated in the supporting fact.
+Thought 3: Are the nationalities of Héctor Fáver (Argentine) and Kenneth Charles Loach (English) the same?
+Answer 3: No, Argentine and English are different nationalities.
+Thought 4: Based on the nationalities of the directors, do they share the same nationality?
+Answer 4: FINISH[no]
+
+Question: What is the place of birth of the director of film Hogar, Dulce Hogar?
+Thought 1: Who is the director of the film Hogar, Dulce Hogar?
+Answer 1: The director of Hogar, Dulce Hogar is Luis Moglia Barth, as stated in the supporting fact.
+Thought 2: Where was Luis Moglia Barth born?
+Answer 2: The supporting facts mention that Luis Moglia Barth was an Argentine film director and screenwriter, but they do not explicitly state his place of birth. However, since he was a prominent figure in the Cinema of Argentina and died in Buenos Aires, it is reasonable to infer that he was born in Argentina, likely in Buenos Aires.
+Thought 3: Is there any direct evidence confirming Luis Moglia Barth's place of birth as Buenos Aires?
+Answer 3: The supporting facts do not provide direct evidence of his place of birth, but the answer provided is "Buenos Aires,"
+
+Question: Are director of film Marked Money and director of film Vaali (Film) both from the same country?
+Thought 1: Who is the director of the film Vaali, and what is their country of origin?
+Answer 1: The director of Vaali is S. J. Surya, who is an Indian film director, screenwriter, actor, music composer, and producer. He has worked in the Tamil, Telugu, and Hindi film industries. Therefore, S. J. Surya is from India.
+Thought 2: Who is the director of the film Marked Money, and what is their country of origin?
+Answer 2: The director of Marked Money is Spencer Gordon Bennet, who was an American film producer and director. He was known as the "King of Serial Directors" and directed more film serials than any other director. Therefore, Spencer Gordon Bennet is from the United States.
+Thought 3: Are the directors
+
+Question: Which country the director of film The Lion'S Den (1919 Film) is from?
+Thought 1: Who is the director of the film The Lion's Den (1919)?
+Answer 1: The director of The Lion's Den (1919) is George D. Baker, as stated in the supporting fact.
+Thought 2: What is the nationality of George D. Baker?
+Answer 2: George Duane Baker was an American motion picture director, according to the supporting fact.
+Thought 3: Based on the director's nationality, which country is he from?
+Answer 3: FINISH[American]
+
+Question: Who died earlier, Alessandro Lami or Jeff Golub?
+Thought 1: What is the death date of Alessandro Lami?
+Answer 1: Alessandro Lami died on 8 March 2015.
+Thought 2: What is the death date of Jeff Golub?
+Answer 2: Jeff Golub died on 1 January 2015.
+Thought 3: Comparing the death dates of Alessandro Lami and Jeff Golub, who died earlier?
+Answer 3: FINISH[Jeff Golub]
+
+Question: Who is Anne Of Denmark's mother-in-law?
+Thought 1: Who is Anne of Denmark married to?
+Answer 1: Anne of Denmark is married to King James VI and I.
+Thought 2: Who is the mother of King James VI and I?
+Answer 2: The mother of King James VI and I is Mary, Queen of Scots.
+Thought 3: Since Mary, Queen of Scots is the mother of Anne of Denmark's husband, what relation is she to Anne?
+Answer 3: Mary, Queen of Scots is Anne of Denmark's mother-in-law.
+Answer n: FINISH[Mary, Queen of Scots]
+
+Question: Who is older, Marco Arpino or Daniel Peev?
+Thought 1: What is the birth date of Daniel Peev?  
+Answer 1: Daniel Peev was born on 6 October 1984.  
+Thought 2: What is the birth date of Marco Arpino?  
+Answer 2: Marco Arpino was born on 11 September 1966.  
+Thought 3: Comparing the birth dates of Marco Arpino and Daniel Peev, who is older?  
+Answer 3: FINISH[Marco Arpino]
+
+Question: Where was the place of burial of the director of film Love On Ice (Film)?
+Thought 1: Who was the director of the film Love On Ice?
+Answer 1: The director of the film Love On Ice was Kurt Meisel, as mentioned in the supporting fact.
+Thought 2: Where was Kurt Meisel buried?
+Answer 2: According to the supporting fact, Kurt Meisel is buried on the Vienna Zentralfriedhof.
+Thought 3: Is there any additional information about Kurt Meisel's burial place?
+Answer 3: The supporting fact confirms that Kurt Meisel was born and died in Vienna, Austria, and is buried on the Vienna Zentralfriedhof.
+Thought n: What is the final answer to the question about the burial place of the director of Love On Ice?
+Answer n: FINISH[Vienna Zentralfriedhof]
+
+Question: Who lived longer, Brigid Bazlen or Harry Gast?
+Thought 1: What was Harry Gast's lifespan?
+Answer 1: Harry Gast was born on September 19, 1920, and died on July 30, 2015, which means he lived to be 94 years old.
+Thought 2: What was Brigid Bazlen's lifespan?
+Answer 2: Brigid Bazlen was born on June 9, 1944, and died on May 25, 1989, which means she lived to be 44 years old.
+Thought 3: Comparing the lifespans of Harry Gast and Brigid Bazlen, who lived longer?
+Answer 3: FINISH[Harry Gast]
+
+Question: Where did the performer of song Callaíta graduate from?
+Thought 1: Who is the performer of the song "Callaíta"?
+Answer 1: The performer of the song "Callaíta" is Bad Bunny, as mentioned in the supporting fact that states the song is by Bad Bunny featuring producer Tainy.
+Thought 2: What is Bad Bunny's real name and background?
+Answer 2: Bad Bunny's real name is Benito Antonio Martínez Ocasio, and he is a Puerto Rican Latin trap and reggaeton rapper and singer. He gained popularity while working in a supermarket and studying at the University of Puerto Rico at Arecibo.
+Thought 3: Where did Bad Bunny study?
+Answer 3: Bad Bunny studied at the University of Puerto Rico at Arecibo, as mentioned in the supporting fact about his background.
+Thought 4: Did Bad Bunny graduate from the University of Puerto Rico at Arecibo?
+
+
+Question: What nationality is the composer of film Jaya Janaki Nayaka?
+Thought 1: Who is the composer of the film Jaya Janaki Nayaka?
+Answer 1: The composer of the film Jaya Janaki Nayaka is Devi Sri Prasad, as mentioned in the supporting fact.
+Thought 2: What is the nationality of Devi Sri Prasad?
+Answer 2: Devi Sri Prasad is Indian, as stated in the supporting fact that describes him as "an Indian music composer, lyricist, singer, and director."
+Thought 3: Is there any conflicting information about the nationality of Devi Sri Prasad or the composer of Jaya Janaki Nayaka?
+Answer 3: No, both supporting facts consistently state that Devi Sri Prasad is Indian and that he composed the music for Jaya Janaki Nayaka.
+Thought 4: Based on the above, what is the nationality of the composer of Jaya Janaki Nayaka?
+Answer 4: FINISH[India]
+
+Question: Did the movies The Town That Forgot God and Save The Drowning Man originate from the same country?
+Thought 1: What is the country of origin for the movie Save The Drowning Man?
+Answer 1: Save The Drowning Man is a 1967 Soviet comedy film directed by Pavel Arsenov, so it originated from the Soviet Union.
+Thought 2: What is the country of origin for the movie The Town That Forgot God?
+Answer 2: The Town That Forgot God is a 1922 American drama film directed by Harry F. Millarde and released by Fox Film Corporation, so it originated from the United States.
+Thought 3: Are the Soviet Union and the United States the same country?
+Answer 3: No, the Soviet Union and the United States are different countries.
+Thought 4: Did the movies The Town That Forgot God and Save The Drowning Man originate from the same country?
+Answer 4: FINISH[no
+
+Question: When did the director of film Broadway Rhythm die?
+Thought 1: Who is the director of the film Broadway Rhythm?
+Answer 1: The director of Broadway Rhythm is Roy Del Ruth, as stated in the supporting fact.
+Thought 2: When did Roy Del Ruth die?
+Answer 2: Roy Del Ruth died on April 27, 1961, according to the supporting fact.
+Thought 3: What is the final answer to the question based on the facts?
+Answer 3: FINISH[April 27, 1961]
+
+Question: Are both Imabari Shipbuilding and Iz3D located in the same country?
+Thought 1: Where is Imabari Shipbuilding located?
+Answer 1: Imabari Shipbuilding is located in Japan, with facilities in Imabari, Marugame, and other locations across the Seto Inland Sea region. It is Japan's largest shipbuilder.
+Thought 2: Where is Iz3D located?
+Answer 2: Iz3D, Inc. was an American company that developed and sold 3D software and stereoscopic monitors.
+Thought 3: Are Japan and the United States the same country?
+Answer 3: No, Japan and the United States are different countries.
+Thought 4: Based on the locations of Imabari Shipbuilding and Iz3D, are they in the same country?
+Answer 4: FINISH[no]
+
+Question: Was Keith Tkachuk or Ignatz Gresser born first?
+Thought 1: What is Keith Tkachuk's birth date?
+Answer 1: Keith Tkachuk was born on March 28, 1972.
+Thought 2: What is Ignatz Gresser's birth date?
+Answer 2: Ignatz Gresser was born on August 15, 1835.
+Thought 3: Comparing the birth dates of Keith Tkachuk (March 28, 1972) and Ignatz Gresser (August 15, 1835), who was born first?
+Answer 3: FINISH[Ignatz Gresser]
+
+Question: When did the director of film Let's Live Again die?
+Thought 1: Who is the director of the film Let's Live Again?
+Answer 1: The director of Let's Live Again is Herbert I. Leeds, as mentioned in the supporting fact.
+Thought 2: When did Herbert I. Leeds die?
+Answer 2: Herbert I. Leeds died on May 15, 1954, according to the supporting fact.
+Thought 3: What is the final answer to the question about the director's death date?
+Answer 3: FINISH[May 15, 1954]
+
+Question: Are both Łukasz Różycki and Pascal Taché from the same country?  
+Thought 1: Where was Pascal Taché born and what country does this location belong to?  
+Answer 1: Pascal Taché was born in the town of Quebec in 1757. Quebec is a province in Canada, so Pascal Taché is from Canada.  
+Thought 2: Where was Łukasz Różycki born and what country does this location belong to?  
+Answer 2: Łukasz Różycki was born in Warsaw, Poland, on 13 December 1979. Warsaw is the capital of Poland, so Łukasz Różycki is from Poland.  
+Thought 3: Are Canada and Poland the same country?  
+Answer 3: No, Canada and Poland are two different countries.  
+Thought 4: Given that Łukasz Różycki is from Poland and Pascal Taché is
+
+Question: Were both Brian Burke (Wisconsin Politician) and Alexander Kastalsky, born in the same place?
+Thought 1: Where was Alexander Kastalsky born?
+Answer 1: Alexander Kastalsky was born in Moscow to protoiereus Dmitri Ivanovich Kastalsky.
+Thought 2: Where was Brian Burke born?
+Answer 2: Brian Burke was born in Milwaukee, Wisconsin.
+Thought 3: Are Moscow and Milwaukee the same place?
+Answer 3: No, Moscow is the capital of Russia, while Milwaukee is a city in the United States.
+Thought 4: Based on their birthplaces, were Brian Burke and Alexander Kastalsky born in the same place?
+Answer 4: FINISH[no]
+
+Question: Who is the father of the composer of film Jurmana (1979 Film)?
+Thought 1: Who composed the music for the film Jurmana (1979)?
+Answer 1: The music for the film Jurmana (1979) was composed by R. D. Burman, as stated in the supporting fact.
+Thought 2: Who is the father of R. D. Burman?
+Answer 2: R. D. Burman's father is Sachin Dev Burman, as mentioned in the supporting fact that he was the only son of the composer Sachin Dev Burman.
+Thought 3: Is there any additional information needed to confirm the relationship between R. D. Burman and Sachin Dev Burman?
+Answer 3: No, the supporting fact clearly states that R. D. Burman was the only son of Sachin Dev Burman, confirming the relationship.
+Thought 4: Based on the above, who is the father of the
+
+Question: Who is the spouse of the director of film Ships Of The Night?
+Thought 1: Who is the director of the film Ships of the Night?  
+Answer 1: The director of Ships of the Night is Duke Worne, as stated in the supporting fact: "Ships of the Night is a 1928 American silent adventure film directed by Duke Worne and starring Jacqueline Logan, Sôjin Kamiyama and Jack Mower."
+Thought 2: Who is the spouse of Duke Worne?  
+Answer 2: The spouse of Duke Worne is Virginia Brown Faire, as stated in the supporting fact: "In 1930, Worne married silent film actress Virginia Brown Faire, to whom he remained married until his death three years later in 1933."
+Thought 3: What is the final answer to the question?  
+Answer 3: FINISH[Virginia Brown Faire]
+
+Question: Are both Zir-E Zard, Ramhormoz and Konar-E Siah, Bastak located in the same country?
+Thought 1: Where is Konar-E Siah, Bastak located?
+Answer 1: Konar-E Siah is a village in Faramarzan Rural District, Jenah District, Bastak County, Hormozgan Province, Iran.
+Thought 2: Where is Zir-E Zard, Ramhormoz located?
+Answer 2: Zir-E Zard is a village in Howmeh-ye Sharqi Rural District, Central District of Ramhormoz County, Khuzestan Province, Iran.
+Thought 3: Are both Hormozgan Province and Khuzestan Province in the same country?
+Answer 3: Yes, both Hormozgan Province and Khuzestan Province are located in Iran.
+Thought 4: Are both Zir-E Zard, Ramhormoz and Konar-E Siah, Bast
+
+Question: Where was the composer of the song "Rock You Like A Hurricane" born?
+Thought 1: Who are the composers of the song "Rock You Like A Hurricane"?
+Answer 1: The composers of the song "Rock You Like A Hurricane" are Klaus Meine, Herman Rarebell, Rudolf Schenker, and it was arranged/produced by Dieter Dierks.
+Thought 2: Among the composers (Klaus Meine, Herman Rarebell, Rudolf Schenker), which one is explicitly mentioned with a birthplace in the supporting facts?
+Answer 2: Rudolf Schenker is explicitly mentioned with a birthplace in the supporting facts: he was born in Hildesheim, Lower Saxony, Germany.
+Thought 3: Is Rudolf Schenker's birthplace relevant to the question about the composer of "Rock You Like A Hurricane"?
+Answer 3: Yes, since Rudolf Schenker is one of the composers of the song, his birthplace is directly relevant to the question
+
+Question: Do Archie Palmer and Umar Cheema have the same nationality?
+Thought 1: What is Archie Palmer's nationality?
+Answer 1: Archie Palmer was an American educator and academic administrator, as stated in the supporting fact. Therefore, his nationality is American.
+Thought 2: What is Umar Cheema's nationality?
+Answer 2: Umar Cheema is an investigative reporter for the Pakistani newspaper "The News" and has been involved in events and organizations primarily based in Pakistan, such as the Chevening Scholarship and the Daniel Pearl Journalism Fellowship. This suggests his nationality is Pakistani.
+Thought 3: Do Archie Palmer (American) and Umar Cheema (Pakistani) share the same nationality?
+Answer 3: FINISH[no]
+
+Question: Are both villages, Guk Tappeh-Ye Shomareh-Ye Yek and Qanat Qazi, located in the same country?
+Thought 1: Where is Guk Tappeh-Ye Shomareh-Ye Yek located?
+Answer 1: Guk Tappeh-Ye Shomareh-Ye Yek is located in Mazraeh-Ye Shomali Rural District, Voshmgir District, Aqqala County, Golestan Province, Iran.
+Thought 2: Where is Qanat Qazi located?
+Answer 2: Qanat Qazi is located in Dehsard Rural District, Central District of Arzuiyeh County, Kerman Province, Iran.
+Thought 3: Are both villages in Iran?
+Answer 3: Yes, both Guk Tappeh-Ye Shomareh-Ye Yek and Qanat Qazi are located in Iran, as indicated by their respective
+
+Question: Are The War Between Men And Women and Money From The Air from the same country?
+Thought 1: What is the country of origin for the film "Money From The Air"?  
+Answer 1: "Money From The Air" is a 1954 West German musical comedy film, as stated in the supporting fact. Therefore, its country of origin is West Germany.
+Thought 2: What is the country of origin for the film "The War Between Men And Women"?  
+Answer 2: "The War Between Men And Women" is a 1972 American comedy-drama film, as stated in the supporting fact. Therefore, its country of origin is the United States.
+Thought 3: Are West Germany and the United States the same country?  
+Answer 3: No, West Germany and the United States are not the same country. They are distinct nations with different governments and cultures.
+Thought 4: Based on the countries of origin for the two films,
+
+Question: Are director of film Albatross (2011 Film) and director of film The Warrior And The Wolf from the same country?
+Thought 1: Who is the director of the film Albatross (2011 Film), and what is their country of origin?  
+Answer 1: The director of Albatross (2011 Film) is Niall MacCormick, who is British. This is supported by the fact that he is described as a British film and television director, and the film Albatross is identified as a British coming-of-age drama.
+Thought 2: Who is the director of the film The Warrior and the Wolf, and what is their country of origin?  
+Answer 2: The director of The Warrior and the Wolf is Tian Zhuangzhuang, who is Chinese. This is supported by the fact that he was born in Beijing, China, and is a key figure in Chinese cinema, particularly the Fifth Generation film movement.
+
+
+Question: When was the performer of song Up! (Samantha Jade Song) born?
+Thought 1: Who is the performer of the song "Up!"?
+Answer 1: The performer of the song "Up!" is Samantha Jade, as stated in the supporting fact: ""Up!" (stylized as UP!) is a song recorded by Australian singer Samantha Jade."
+Thought 2: What is Samantha Jade's full name and birthdate?
+Answer 2: Samantha Jade's full name is Samantha Jade Gibbs, and her birthdate is 18 April 1987, as stated in the supporting fact: "Samantha Jade Gibbs (born 18 April 1987) is an ARIA Award-winning Australian singer, songwriter, actress and former child model from Perth, Western Australia."
+Thought 3: Is the birthdate of Samantha Jade directly related to the question?
+Answer 3: Yes, the birthdate of Samantha Jade is directly related to the question, as
+
+Question: What is the date of birth of Nikolai Paus's father?
+Thought 1: Who is Nikolai Paus's father?
+Answer 1: According to the supporting facts, Nikolai Paus's father is Bernhard Cathrinus Paus, a Norwegian orthopedic surgeon and humanitarian.
+Thought 2: What is the date of birth of Bernhard Cathrinus Paus?
+Answer 2: The second supporting fact states that Bernhard Cathrinus Paus was born on 9 November 1910.
+Thought 3: Is there any conflicting information about Bernhard Cathrinus Paus's date of birth?
+Answer 3: No, the supporting facts consistently state that Bernhard Cathrinus Paus was born on 9 November 1910.
+Answer 3: FINISH[9 November 1910]
+
+Question: Are Tabisheh and Qarah Takan, Razavi Khorasan located in the same country?  
+Thought 1: Where is Tabisheh located?  
+Answer 1: Tabisheh is a village in Zu ol Faqr Rural District, Sarshiv District, Saqqez County, Kurdistan Province, Iran.  
+Thought 2: Where is Qarah Takan located?  
+Answer 2: Qarah Takan is a village in Yam Rural District, Meshkan District, Khoshab County, Razavi Khorasan Province, Iran.  
+Thought 3: Are both Tabisheh and Qarah Takan in Iran?  
+Answer 3: Yes, both villages are located in Iran, as indicated by their administrative divisions.  
+Thought 4: Are Tabisheh and Qarah Takan in the same country?  
+Answer 4: FINISH[yes]
+
+Question: Where did Anil Ambani's father die?
+Thought 1: Who is Anil Ambani's father?  
+Answer 1: Anil Ambani's father is Dhirajlal Hirachand Ambani, popularly known as Dhirubhai Ambani.  
+Thought 2: Where did Dhirubhai Ambani die?  
+Answer 2: Dhirubhai Ambani died in Bombay, as mentioned in the supporting fact that he founded Reliance Industries in Bombay and passed away there on 6 July 2002.  
+Thought 3: Is there any other location mentioned in the supporting facts related to Dhirubhai Ambani's death?  
+Answer 3: No, the supporting facts only mention Bombay as the location of his death.  
+Thought 4: What is the final answer to the question based on the supporting facts?  
+Answer 4: FINISH[Bombay]

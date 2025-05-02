@@ -1,6 +1,6 @@
-import json
 import jsonlines
 import os
+import ujson
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -52,7 +52,7 @@ def process_row(row, qid_aliases):
     }
 def format_2wikimultihopqa(input_path, output_path, max_workers=12):
     """Process 2WikiMultihopQA data with parallel processing and unified writing."""
-    data = json.load(open(input_path))
+    data = ujson.load(open(input_path))
     with jsonlines.open('./download/2wikimultihopqa/id_aliases.json') as reader:
         aliases_data = list(reader)
     qid_aliases = dict()
@@ -66,7 +66,7 @@ def format_2wikimultihopqa(input_path, output_path, max_workers=12):
         with open(output_path, "w", encoding="utf-8") as f:
             for future in tqdm(as_completed(futures), total=len(data)):
                 processed_item = future.result()
-                f.write(json.dumps(processed_item, ensure_ascii=False) + "\n")
+                f.write(ujson.dumps(processed_item, ensure_ascii=False) + "\n")
 
 if __name__  == "__main__":
     os.makedirs("./datasets/2wikimultihopqa", exist_ok=True)

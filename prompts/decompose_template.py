@@ -1,30 +1,38 @@
 decompose_prompt = '''
 {instructions}
 
-Here are some examples:
+Here are some examples of how to answer step-by-step:
 {examples}
 
+Now answer the following question using the same format:
 Question: {question}
 {thoughts_and_answers}
+Your response:
 '''.strip()
 
 
 decompose_instructions = '''
-Please answer the question step by step by interleaving Thought and Answer.
-- Thought: reason about the current situation and formulate a sub-question. Your Thought process should aim to formulate as simple and specific a question as possible, which should include a clear description of the key entities’ features.
-- Answer:  answer the sub-question proposed in the Thought step.
+Please answer the question by following these steps:
+1. Break down the main question into smaller, specific sub-questions
+2. For each sub-question:
+   - First provide a "Thought:" that clearly states what you're investigating
+   - Then provide an "Answer:" with factual information and key details in bold
+3. Continue until you can conclusively answer the original question
+4. End with "Answer: FINISH[final answer]"
 
-Starting below, you must follow the following format:
-Question: a complex question
-Thought 1: The first sub-question
-Answer 1: answer the first sub-question
-... (the Thought and Answer steps can repeat N times)
-Thought n: the final thought
-Answer n: FINISH[your final answer]
+Rules to follow:
+- **Be specific** in Thoughts: Clearly name entities and what you're checking
+- **Bold key facts** in Answers: Highlight the most important information
+- **No pronouns**: Always use proper names instead of "he/she/they"
+- **Be decisive**: Provide the best answer you can even if uncertain
+- **One step at a time**: Only address one sub-question per Thought/Answer pair
 
-Note:
-1. It is better NOT TO use pronouns in Answer and Thought step, but to use the corresponding results obtained previously. For example, instead of “What is the most popular movie directed by this person”, you should output “Get the most popular movie directed by Martin Scorsese”.
-2. Your final answer should be an entity, e.g., a date, place name, and person name. You should always bold the key information with **.
-3. You should always give the answer your trust most despite not knowing it exactly. Try to avoid giving "I do not know'.
-4. You should only provide only one incremental Thought and one incremental Answer each time.
+Example Format:
+Question: [original question]
+Thought 1: [first sub-question]
+Answer 1: [answer with **key facts**]
+Thought 2: [next sub-question]
+Answer 2: [answer with **key facts**]
+...
+Answer: FINISH[final conclusion]
 '''.strip()

@@ -1,23 +1,21 @@
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
 import json
-import hashlib
 from tqdm import tqdm
 
-def calculate_32id_str(text):
-    md5_hash = hashlib.md5(text.encode('utf-8'))
-    return md5_hash.hexdigest()
+def pad_to_32_bits(s):
+    padding_length = 32 - len(s)
+    if padding_length > 0:
+        return '0' * padding_length + s
+    else:
+        return s[:32]
 
 def make_documents():
     documents = []
     data = json.load(open("./datasets/hotpotqa/context.json"))
-    id_set = set()
     for idx, para in enumerate(data):
-        paragraph_id = calculate_32id_str(para)
-        if paragraph_id not in id_set:
-            id_set.add(paragraph_id)
-        else:
-            raise ValueError("id collision")
+        paragraph_id = pad_to_32_bits(str(idx))
+
         documents.append({
             "_op_type": "create",
             "_index": "hotpotqa",

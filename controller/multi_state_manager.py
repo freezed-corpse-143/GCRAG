@@ -4,14 +4,22 @@ import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 class MultiStateManager:
-    def __init__(self, datasets, corpus_name):
+    def __init__(self, datasets, corpus_name, 
+                 max_iterations=5, retrieval_num=3,
+                 skip_ground=False, beta=1):
         self.datasets = datasets
         self.corpus_name = corpus_name
         self.test_results = []
+        self.max_iterations = max_iterations
+        self.retrieval_num = retrieval_num
+        self.skip_ground = skip_ground
+        self.beta = beta
 
     def serial_test(self):
         for row in tqdm(self.datasets, total=len(self.datasets)):
-            state_manager = StateManager(row['question'], self.corpus_name)
+            state_manager = StateManager(row['question'], self.corpus_name,
+                                         self.max_iterations, self.retrieval_num,
+                                         self.skip_ground, self.beta)
             state_manager.run_full_cycle()
             self.test_results.append({
                 "question": state_manager.question,
@@ -39,7 +47,9 @@ class MultiStateManager:
                     pbar.update(1)
                     
     def _process_row(self, row):
-        state_manager = StateManager(row['question'], self.corpus_name)
+        state_manager = StateManager(row['question'], self.corpus_name,
+                                         self.max_iterations, self.retrieval_num,
+                                         self.skip_ground, self.beta)
         state_manager.run_full_cycle()
         return {
             "question": state_manager.question,

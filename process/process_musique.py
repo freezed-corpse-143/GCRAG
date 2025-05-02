@@ -1,5 +1,5 @@
 import jsonlines
-import json
+import ujson
 import os
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -32,7 +32,7 @@ def format_musique(input_path, output_path, max_workers=12):
         with open(output_path, "w", encoding="utf-8") as f:
             for future in tqdm(as_completed(futures), total=len(data)):
                 processed_item = future.result()
-                f.write(json.dumps(processed_item, ensure_ascii=False) + "\n")
+                f.write(ujson.dumps(processed_item, ensure_ascii=False) + "\n")
 
 if __name__  == "__main__":
     os.makedirs("./datasets/musique", exist_ok=True)
