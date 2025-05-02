@@ -66,7 +66,7 @@ class StateManager:
         # print(self.thought)
         # print(self.iteration_info)
         # print("start to retrieve")
-        retrieved_results = retrieve(self.corpus_name, self.question + (" " +self.thought) * self.beta)
+        retrieved_results = retrieve(self.question + (" " +self.thought) * self.beta)
         # retrieved_results = retrieve(self.corpus_name, (" " +self.thought) * self.beta)
         # print("retrieved time:", retrieved_results['time_in_seconds'])
         self.retrieved_docs = retrieved_results['retrieval'][:self.retrieval_num]

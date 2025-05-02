@@ -4,9 +4,9 @@ import os
 from typing import List, Dict
 from collections import OrderedDict
 
-os.makedirs("./retriever/cache", exist_ok=True)
+os.makedirs("./retriever/cache/elasticsearch_cache", exist_ok=True)
 
-cache = Cache("./retriever/cache")
+cache = Cache("./retriever/elasticsearch_cache")
 
 retriever = Elasticsearch(["localhost"], scheme="http", port=9200, timeout=30)
 
