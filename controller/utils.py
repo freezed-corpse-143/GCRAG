@@ -45,6 +45,7 @@ def extract_answer(input_string):
         return ""
 
 
+
 def parse_json(text, max_attempts = 3):
     attempts = 0
     last_error = None
