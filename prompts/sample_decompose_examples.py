@@ -15,16 +15,18 @@ Let's think step by step.
 Format:
 Question: a complex question
 Thought 1: The first sub-question
-Answer 1: answer the first sub-question
+Answer 1: Answer the first sub-question
 ... (the Thought and Answer steps can repeat N times)
-Thought n: the final thought
-Answer n: FINISH[the final answer]
+Thought n: The n-th sub-question
+Answer n:  Answer the n-th sub-question
+Thought n+1: the final thought
+Answer n+1: FINISH[the final answer]
 
 Please read the input question, answer and supporting facts, follow these instructions:
 1. Your output should be in the format above.
 2. Question be filled with input quesiton.
 3. Each supporting fact should be used to generate "Thought" and "Answer".
-4. Last thought should foucs on the question. Last Answer should be in the format of "Answer n: FINISH[<input answer>]", which is filled with the input answer.
+4. Last thought should foucs on the original question. Last Answer should be in the format of "Answer n: FINISH[<input answer>]", which is filled with the input answer.
 '''
 
 def _format_row(row):
@@ -35,6 +37,14 @@ def _format_row(row):
         if ct['is_supporting']:
             result += f"\n<supporing fact>{ct['content']}</supporing fact>"
     return result
+
+def check_answer_pattern(text):
+    pattern = r'Answer \d+: FINISH\[.*\]'
+    matches = re.findall(pattern, text)
+    if matches:
+        return True
+    else:
+        return False
 
 def main():
     parser = argparse.ArgumentParser(description='Sample a dataset and generate examples.')
@@ -70,10 +80,20 @@ def main():
 
         result.append(generated_text)
     
-    with open(f"./prompts/{args.dataset}.txt", 'w') as f:
-        f.write("\n\n".join(result))
-    
+    valid_data = []
+    for idx, item in enumerate(result):
+        if not check_answer_pattern(item):
+            continue
+        lines = item.strip().split("\n")
+        question = sample_data[idx]['question']
+        lines[0] = f"Question: {question}"
+        final_answer = sample_data[idx]['answer']
+        lines[-1] = lines[-1][:len("Answer 3: ")] + f"FINISH[{final_answer}]"
+        valid_data.append("\n".join(lines))
 
+    with open(f"./prompts/decompose_{args.dataset}.txt", 'w') as f:
+        f.write("\n\n".join(valid_data))
+    
 
 if __name__ == "__main__":
     main()

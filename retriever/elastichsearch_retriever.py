@@ -6,14 +6,22 @@ from collections import OrderedDict
 
 os.makedirs("./retriever/cache/elasticsearch_cache", exist_ok=True)
 
-cache = Cache("./retriever/elasticsearch_cache")
+cache = Cache("./retriever/cache/elasticsearch_cache")
 
 retriever = Elasticsearch(["localhost"], scheme="http", port=9200, timeout=30)
 
 CORPUS_NAME = os.environ['CORPUS_NAME']
 
-@cache.memoize()
 def retrieve_from_elasticsearch(
+    query_text: str,
+    max_hits_count: int = 25,
+) -> List[Dict]:
+    return _retrieve(CORPUS_NAME, query_text, max_hits_count)
+    
+
+@cache.memoize()
+def _retrieve(
+    corpus_name: str,
     query_text: str,
     max_hits_count: int = 25,
 ) -> List[Dict]:
@@ -30,7 +38,7 @@ def retrieve_from_elasticsearch(
 
     query["query"]["bool"]["should"].append({"match": {"paragraph_text": query_text}})
 
-    result = retriever.search(index=CORPUS_NAME, body=query)
+    result = retriever.search(index=corpus_name, body=query)
 
     retrieval = []
     if result.get("hits") is not None and result["hits"].get("hits") is not None:
@@ -48,6 +56,6 @@ def retrieve_from_elasticsearch(
     retrieval = [e["_source"] for e in retrieval]
 
     for retrieval_ in retrieval:
-        retrieval_["corpus_name"] = CORPUS_NAME
+        retrieval_["corpus_name"] = corpus_name
 
     return retrieval
