@@ -5,9 +5,8 @@ import json
 retrieval_url = "http://127.0.0.1:8000/retrieve/"
 generate_url = "http://127.0.0.1:8010/generate/"
 
-def retrieve(corpus_name: str, query_text: str):
+def retrieve(query_text: str):
     params = {
-        "corpus_name": corpus_name,
         "query_text": query_text,
     }
     response = requests.post(retrieval_url, json=params, proxies={"http": None, "https": None, "all": None})
@@ -29,21 +28,13 @@ def format_retrieved_documents(retrieved_documents):
 def extract_thought_answer(text):
     # Pattern that matches both numbered and unnumbered Thought/Answer pairs
     pattern = r"Thought(?:\s*(\d+))?: (.*?)\nAnswer(?:\s*\1)?: (.*?)(?=\nThought(?:\s*\d+)?:|$)"
+    result = []
     matches = re.findall(pattern, text, re.DOTALL)
-    results = []
-    for match in matches:
-        thought_num, thought, answer = match
-        results.append((
-            thought.replace("\n"," ").strip(),
-            answer.replace("\n", " ").strip()
-        ))
-    return results
-
-def format_retr_docs(retr_docs):
-    result = ""
-    for idx, d in enumerate(retr_docs):
-        result += f"Document {idx+1}: " + d['paragraph_text'] + "\n"
-    return result.strip()
+    if matches:
+        thought_num, thought, answer = matches[0]
+        result.append(thought.replace("\n"," ").strip())
+        result.append(answer.replace("\n", " ").strip())
+    return result
 
 def extract_answer(input_string):
     # print(input_string)
@@ -52,6 +43,7 @@ def extract_answer(input_string):
         return match.group(1)
     else:
         return "Unknown"
+
 
 def parse_json(text, max_attempts = 3):
     attempts = 0

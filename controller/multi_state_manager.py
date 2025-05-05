@@ -5,8 +5,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 class MultiStateManager:
     def __init__(self, datasets, corpus_name, 
-                 max_iterations=5, retrieval_num=3,
-                 skip_ground=False, beta=1):
+                 max_iterations=6, retrieval_num=9,
+                 skip_ground=False, beta=2):
         self.datasets = datasets
         self.corpus_name = corpus_name
         self.test_results = []
@@ -26,7 +26,7 @@ class MultiStateManager:
                 "pred_answer": state_manager.answer,
                 "gold_answer": row['answer'],
                 "iteration_info": state_manager.iteration_info,
-                "pred_sp_id": state_manager.supporting_fact_id,
+                "pred_sp_id": state_manager.supporting_fact_ids,
                 "gold_sp_id": row['supporting_id'],
             })
             
@@ -56,6 +56,6 @@ class MultiStateManager:
             "pred_answer": state_manager.answer,
             "gold_answer": row['answer'],
             "iteration_info": state_manager.iteration_info,
-            "pred_sp_id": state_manager.supporting_fact_id,
+            "pred_sp_id": state_manager.supporting_fact_ids,
             "gold_sp_id": row['supporting_id'],
         }

@@ -5,9 +5,9 @@ import os
 
 RETRIEVAL_METHOD = os.environ["RETRIEVAL_METHOD"]
 if RETRIEVAL_METHOD == "elasticsearch":
-    from elastichsearch_retriever import retrieve_from_elasticsearch as retrieve
+    from elastichsearch_retriever import retrieve_from_elasticsearch as retrieve_method
 elif RETRIEVAL_METHOD == "colbert":
-    from colbert_retriever import retrieve_from_colbert as retrieve
+    from colbert_retriever import retrieve_from_colbert as retrieve_method
 
 
 
@@ -22,7 +22,7 @@ async def index():
 async def retrieve(arguments: Request):  # see the corresponding method in unified_retriever.py
     arguments = await arguments.json()
     start_time = perf_counter()
-    retrieval = retrieve(**arguments)
+    retrieval = retrieve_method(**arguments)
     end_time = perf_counter()
     time_in_seconds = round(end_time - start_time, 1)
     return {"retrieval": retrieval, "time_in_seconds": time_in_seconds}

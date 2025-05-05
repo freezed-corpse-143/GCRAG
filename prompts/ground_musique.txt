@@ -1,0 +1,473 @@
+Question: Who founded the publisher of Journal of Bisexuality?
+Thought 1: Who is the publisher of the Journal of Bisexuality?
+Answer 1: The Journal of Bisexuality is published by the Taylor & Francis Group under the Routledge imprint.
+Thought 2: Who founded the Routledge imprint?
+Answer 2: George Routledge founded the publishing house Routledge.
+Thought 3: Is the Routledge imprint part of the original Routledge publishing house?
+Answer 3: Yes, the Routledge imprint is part of the original Routledge publishing house, which was founded by George Routledge.
+Thought 4: Given that the Journal of Bisexuality is published under the Routledge imprint, which was founded by George Routledge, who founded the publisher of the Journal of Bisexuality?
+Answer 4: FINISH[George Routledge]
+Document : The Journal of Bisexuality is a peer-reviewed academic journal published quarterly by the Taylor & Francis Group under the Routledge imprint. It is the official journal of the American Institute of Bisexuality. It covers a wide range of topics on bisexuality including new bisexuality research, bisexual issues in therapy, differences from the straight, lesbian and gay communities, growth of the bisexual movement, bisexuality and the media, bisexual history, and different bisexual lifestyles.
+Document : George Routledge (23 September 1812 – 13 December 1888) was a British publisher, the founder of the publishing house Routledge.
+Wrong answer 1: The Journal of Bisexuality is published by the Oxford University Press.  
+Wrong answer 2: The publishing house Routledge was founded by John Murray.  
+Wrong answer 3: No, the Routledge imprint is a completely separate entity from the original Routledge publishing house.  
+Wrong answer 4: FINISH[William Routledge]
+
+Question: Where is the headquarters of located of the 48th Highlanders of the country which released the performer of As Seen Through Windows?
+Thought 1: What country released the performer of "As Seen Through Windows"?
+Answer 1: The performer of "As Seen Through Windows" is Bell Orchestre, a band from Montreal, Quebec, Canada. Therefore, the country is Canada.
+Thought 2: What is the headquarters location of the 48th Highlanders of Canada?
+Answer 2: The 48th Highlanders of Canada is based in Toronto and parades out of Moss Park Armoury. Therefore, the headquarters is Moss Park Armoury.
+Thought 3: Combining the answers, what is the final answer to the original question?
+Answer 3: FINISH[Moss Park Armoury]
+Document : The 48th Highlanders of Canada is a Canadian Forces Primary Reserve (i.e., part-time militia) infantry regiment based in Toronto, parading out of Moss Park Armoury. The regiment is part of 4th Canadian Division's 32 Canadian Brigade Group.
+Document : As Seen Through Windows is the second album by Canadian band Bell Orchestre. It was recorded at Soma Electric Studios in Chicago, IL.
+Document : Bell Orchestre is a six-piece instrumental band from Montreal, Quebec, Canada. In late 2003, they recorded their first album, at the same time and in the same studio that Arcade Fire recorded "Funeral". However, Arcade Fire's popularity was just beginning to break when they asked Bell Orchestre to tour with them in the fall of 2005, delaying the release of their album. Regarding finishing the album, Bell Orchestre said: "We regrouped and we did this residency at an arts center in Canada in the mountains. We actually finished [the record] there, we did a few overdubs and went home and sequenced it and mastered it."
+Wrong answer 1: The performer of "As Seen Through Windows" is Arcade Fire, a band from Berlin, Germany. Therefore, the country is Germany.  
+Wrong answer 2: The 48th Highlanders of Canada is based in Vancouver and parades out of Beatty Street Drill Hall. Therefore, the headquarters is Beatty Street Drill Hall.  
+Wrong answer 3: FINISH[Beatty Street Drill Hall]
+
+Question: Who is the spouse of the director of The Yellow Ticket?
+Thought 1: Who is the director of The Yellow Ticket?
+Answer 1: The director of The Yellow Ticket is Raoul Walsh, as mentioned in the supporting fact about the film.
+Thought 2: Who is the spouse of Raoul Walsh?
+Answer 2: According to the supporting fact about the film "Betrayed," Raoul Walsh worked with Miriam Cooper, who is his spouse. This is inferred from the context of their collaboration and historical records.
+Answer 3: FINISH[Miriam Cooper]
+Document : Betrayed (1917) is a silent drama film directed and written by Raoul Walsh, starring Hobart Bosworth, Miriam Cooper, and Monte Blue, and released by Fox Film Corporation. It is not known if the film currently survives, which suggests that it is a lost film.
+Document : The Yellow Ticket is a 1931 pre-Code American drama film based on the 1914 play of the same name by Michael Morton, produced by the Fox Film Corporation and directed by Raoul Walsh. The film stars Elissa Landi, Lionel Barrymore and features Boris Karloff. The film is also noted for its brief glimpse of nudity.
+Wrong answer 1: The director of The Yellow Ticket is Alfred Hitchcock, as mentioned in the supporting fact about the film.  
+Wrong answer 2: According to the supporting fact about the film "Betrayed," Raoul Walsh worked with Gloria Swanson, who is his spouse. This is inferred from the context of their collaboration and historical records.  
+Wrong answer 3: FINISH[Mary Pickford]
+
+Question: Where is the district in which Latrigg is located in the UK?
+Thought 1: What is the county where Latrigg is located?  
+Answer 1: Latrigg is located entirely within the county of Cumbria, as mentioned in the first supporting fact.
+Thought 2: Is Latrigg part of a larger district or national park?  
+Answer 2: The first supporting fact also states that all the land in England higher than 3,000 feet (910 m) above sea level lies within the National Park, which includes the Lake District. Latrigg is part of the Lake District, as it is one of the fells there.
+Thought 3: What is the final answer to the question based on the supporting facts?  
+Answer 3: FINISH[county of Cumbria]
+Document : Latrigg is one of the lowest fells in the Lake District, but is a popular climb due to its convenient location overlooking the town of Keswick and the beautiful views down the valley of Borrowdale from the summit. It is the least mountainous of the Skiddaw fells, the summit being almost entirely devoid of rock. The slopes of Latrigg are partially wooded, and logging work is currently being undertaken. One lone tree just south of the summit is prominently viewed in silhouette when approaching Keswick from the west along the A66. it also has petrified trees on top!
+Document : It is located entirely within the county of Cumbria, and all the land in England higher than 3,000 feet (910 m) above sea level lies within the National Park, including Scafell Pike, the highest mountain in England. It also contains the deepest and longest bodies of water in England, respectively Wast Water and Windermere.
+Wrong answer 1: Latrigg is located entirely within the county of Yorkshire, as mentioned in the first supporting fact.  
+Wrong answer 2: The first supporting fact also states that all the land in England higher than 3,000 feet (910 m) above sea level lies within the Peak District. Latrigg is part of the Peak District, as it is one of the fells there.  
+Wrong answer 3: FINISH[county of Lancashire]
+
+Question: How much rain does the city where WNJN-FM is located receive annually?
+Thought 1: Where is WNJN-FM located?  
+Answer 1: WNJN-FM is located in Atlantic City, New Jersey, as it is licensed to that city.  
+Thought 2: What is the annual precipitation in Atlantic City, New Jersey?  
+Answer 2: The annual precipitation in Atlantic City is 40 inches (1,020 mm), which is fairly spread throughout the year.  
+Thought 3: Does the question ask for the annual rainfall in the city where WNJN-FM is located?  
+Answer 3: Yes, the question asks for the annual rainfall in Atlantic City, where WNJN-FM is located.  
+Answer 3: FINISH[40 inches]
+Document : Annual precipitation is 40 inches (1,020 mm) which is fairly spread throughout the year. Owing to its proximity to the Atlantic Ocean and its location in South Jersey, Atlantic City receives less snow than a good portion of the rest of New Jersey. Even at the airport, where low temperatures are often much lower than along the coast, snow averages only 16.5 inches (41.9 cm) each winter. It is very common for rain to fall in Atlantic City while the northern and western parts of the state are receiving snow.
+Document : WNJN-FM (89.7 FM) is a radio station licensed to Atlantic City, New Jersey. The station is owned by WHYY, Inc., and simulcasts the public radio news and talk programming of WHYY-FM in Philadelphia, Pennsylvania.
+Wrong answer 1: WNJN-FM is located in Newark, New Jersey, as it is licensed to that city.  
+Wrong answer 2: The annual precipitation in Atlantic City is 60 inches (1,520 mm), with most rainfall concentrated in the summer months.  
+Wrong answer 3: No, the question asks for the annual snowfall in Atlantic City, where WNJN-FM is located.  
+Wrong answer for FINISH: FINISH[25 inches]
+
+Question: What county shares a border with the county where Bill Short was born?
+Thought 1: Where was Bill Short born?
+Answer 1: Bill Short was born in Kingston, New York, as stated in the supporting fact.
+Thought 2: Which county is Kingston, New York located in?
+Answer 2: Kingston is a town in Ulster County, New York, according to the supporting fact.
+Thought 3: Which county shares a border with Ulster County, New York?
+Answer 3: The supporting fact mentions that the hamlet of Chichester, New York, is right next to the borderline between Ulster County and Greene County, indicating that Greene County shares a border with Ulster County.
+Thought 4: What county shares a border with the county where Bill Short was born?
+Answer 4: FINISH[Greene County]
+Document : Kingston is a town in Ulster County, New York, United States. The Town of Kingston is in the northeast part of Ulster County, north of the City of Kingston. Kingston is inside the Catskill Park. The population was 889 at the 2010 census.
+Document : The hamlet of Chichester, New York, formerly referred to as Chichesterville, is one of the northernmost communities in the town of Shandaken, New York, being right next to the borderline between Ulster County and Greene County.
+Document : William Ross Short (born November 27, 1937 at Kingston, New York) is an American retired professional baseball pitcher. During his 15-year pro career, he played all or part of six seasons in Major League Baseball between 1960 and 1969.
+Wrong answer 1: Bill Short was born in Albany, New York, as stated in the supporting fact.  
+Wrong answer 2: Kingston is a town in Dutchess County, New York, according to the supporting fact.  
+Wrong answer 3: The supporting fact mentions that the hamlet of Chichester, New York, is right next to the borderline between Ulster County and Columbia County, indicating that Columbia County shares a border with Ulster County.  
+Wrong answer 4: FINISH[Delaware County]
+
+Question: How many states are there in the country that Ghee is from?
+Thought 1: Where did Ghee originate from?
+Answer 1: Ghee originated in ancient India, as mentioned in the supporting fact.
+Thought 2: What is the current political structure of India in terms of states and union territories?
+Answer 2: According to the supporting fact, the Government of India is the authority over 29 states and seven union territories.
+Thought 3: How many states are there in India, the country where Ghee originated?
+Answer 3: FINISH[29]
+Document : Ghee (Sanskrit: Ghṛta), is a class of clarified butter that originated in ancient India. It is commonly used in Middle Eastern cuisine, cuisine of the Indian subcontinent, Southeast Asian cuisine, traditional medicine, and religious rituals.
+Document : The Government of India (ISO: Bhārat Sarkār), often abbreviated as GoI, is the union government created by the constitution of India as the legislative, executive and judicial authority of the union of 29 states and seven union territories of a constitutionally democratic republic. It is located in New Delhi, the capital of India.
+Wrong answer 1: Ghee originated in ancient China, as mentioned in the supporting fact.  
+Wrong answer 2: According to the supporting fact, the Government of India is the authority over 25 states and five union territories.  
+Wrong answer 3: FINISH[50]
+
+Question: What is the highest elevation on the island country where the islet of Avalau is found?
+Thought 1: Where is the islet of Avalau located?
+Answer 1: Avalau is an islet within the atoll of Funafuti, Tuvalu.
+Thought 2: What is the highest elevation in Tuvalu?
+Answer 2: The highest elevation in Tuvalu is 4.6 metres (15 ft) above sea level on Niulakita.
+Thought 3: Is there any additional context about the elevation in Tuvalu?
+Answer 3: Tuvalu has the second-lowest maximum elevation of any country (after the Maldives). The highest elevations are typically in narrow storm dunes on the ocean side of the islands, which are prone to overtopping in tropical cyclones.
+Thought 4: What is the final answer to the question?
+Answer 4: FINISH[4.6 metres]
+Document : Avalau is an islet within the atoll of Funafuti, Tuvalu. Charles Hedley described Avalau in 1896 "this islet is said to possess a spring of fresh water".
+Document : Because of the low elevation, the islands that make up this nation are vulnerable to the effects of tropical cyclones and by the threat of current and future sea level rise. The highest elevation is 4.6 metres (15 ft) above sea level on Niulakita, which gives Tuvalu the second-lowest maximum elevation of any country (after the Maldives). The highest elevations are typically in narrow storm dunes on the ocean side of the islands which are prone to overtopping in tropical cyclones, as occurred with Cyclone Bebe, which was a very early-season storm that passed through the Tuvaluan atolls in October 1972. Cyclone Bebe submerged Funafuti, eliminating 90% of structures on the island. Sources of drinking water were contaminated as a result of the system's storm surge and the flooding of the sources of fresh water.
+Wrong answer 1: Avalau is an islet within the atoll of Nukufetau, Tuvalu.  
+Wrong answer 2: The highest elevation in Tuvalu is 8.2 metres (27 ft) above sea level on Funafuti.  
+Wrong answer 3: Tuvalu has the lowest maximum elevation of any country, with no point exceeding 3 metres above sea level.  
+Wrong answer 4: FINISH[10.5 metres]
+
+Question: Where are the badlands located in the state where Aurora County exists?
+Thought 1: Where is Aurora County located?  
+Answer 1: Aurora County is located in South Dakota, as indicated by the supporting fact about South Dakota Highway 258 being in Aurora County, South Dakota.
+Thought 2: Where are the badlands located in South Dakota?  
+Answer 2: The badlands are located in southwestern South Dakota, as stated in the supporting fact about Badlands National Park being in southwestern South Dakota.
+Thought 3: Are the badlands and Aurora County in the same state?  
+Answer 3: Yes, both the badlands and Aurora County are in South Dakota, as confirmed by the supporting facts.
+Thought 4: What is the final answer to the question based on the supporting facts?  
+Answer 4: FINISH[southwestern South Dakota]
+Document : Badlands National Park (Lakota: Makȟóšiča) is a national park of the United States located in southwestern South Dakota. It protects 242,756 acres (379.306 sq mi; 98,240 ha) of sharply eroded buttes, pinnacles, and spires blended with the largest undisturbed mixed grass prairie in the United States. The park is managed by the National Park Service.
+Document : South Dakota Highway 258 (SD 258) is a state highway in Aurora County, South Dakota. It runs from Interstate 90 (I-90) to U.S. Route 281 (US 281), and is maintained by the South Dakota Department of Transportation (SDDOT). The route is not a part of the National Highway System.
+Wrong answer 1: Aurora County is located in North Dakota, as indicated by the supporting fact about South Dakota Highway 258 being in Aurora County, North Dakota.  
+Wrong answer 2: The badlands are located in northeastern South Dakota, as stated in the supporting fact about Badlands National Park being in northeastern South Dakota.  
+Wrong answer 3: No, the badlands are in South Dakota, but Aurora County is in Nebraska, as confirmed by the supporting facts.  
+Wrong answer 4: FINISH[northwestern South Dakota]
+
+Question: When was the city where Howdy Holmes was born founded?
+Thought 1: Where was Howdy Holmes born?
+Answer 1: Howdy Holmes was born in Ann Arbor, Michigan, according to the supporting fact.
+Thought 2: When was Ann Arbor founded?
+Answer 2: Ann Arbor was founded in 1824, as stated in the supporting fact.
+Thought 3: What is the final answer to the question based on the above information?
+Answer 3: FINISH[1824]
+Document : Ann Arbor was founded in 1824, named for wives of the village's founders and the stands of Bur Oak trees. The University of Michigan moved from Detroit to Ann Arbor in 1837, and the city grew at a rapid rate in the early to mid-20th century. During the 1960s and 1970s, the city gained a reputation as a center for left-wing politics. Ann Arbor became a focal point for political activism and served as a hub for the civil-rights movement and anti-Vietnam War movement, as well as various student movements.
+Document : Howard "Howdy" S. Holmes (born December 14, 1947, Ann Arbor, Michigan), is a former driver in the CART Championship Car series. He began racing in the early 1970s and was based in Stockbridge, Michigan, about northeast of Chelsea, Michigan where his family owned a milling company.
+Wrong answer 1: Howdy Holmes was born in Detroit, Michigan, according to the supporting fact.  
+Wrong answer 2: Ann Arbor was founded in 1837, as stated in the supporting fact.  
+Wrong answer 3: FINISH[1805]
+
+Question: Where did Chopin live with his family in the city where Andrzej Strug died?
+Thought 1: Where did Andrzej Strug die?
+Answer 1: Andrzej Strug died in Warsaw, as mentioned in the supporting fact about his life and career.
+Thought 2: Where did Chopin live with his family in Warsaw?
+Answer 2: Chopin lived with his family in the Saxon Palace in Warsaw, as stated in the supporting fact about his early life and family.
+Thought 3: Is there any connection between the Saxon Palace and Andrzej Strug's death in Warsaw?
+Answer 3: The question focuses on the city where Andrzej Strug died (Warsaw) and where Chopin lived with his family in that city. The supporting facts confirm both events occurred in Warsaw, with Chopin residing in the Saxon Palace.
+Answer 3: FINISH[Saxon Palace.]
+Document : Andrzej Strug, real name Tadeusz (or Stefan) Gałecki (sources vary; 28 November 1871/1873 in Lublin – 9 December 1937 in Warsaw) was a Polish socialist politician, publicist and activist for Poland's independence. He was also a freemason and declined the offer to join the prestigious Polish Academy of Literature, upset by official criticism of the movement.
+Document : In October 1810, six months after Fryderyk's birth, the family moved to Warsaw, where his father acquired a post teaching French at the Warsaw Lyceum, then housed in the Saxon Palace. Fryderyk lived with his family in the Palace grounds. The father played the flute and violin; the mother played the piano and gave lessons to boys in the boarding house that the Chopins kept. Chopin was of slight build, and even in early childhood was prone to illnesses.
+Here are the wrong answers corresponding to each correct answer:  
+**Wrong answer 1:** Andrzej Strug died in Kraków, as mentioned in the supporting fact about his life and career.  
+**Wrong answer 2:** Chopin lived with his family in the Royal Castle in Warsaw, as stated in the supporting fact about his early life and family.  
+**Wrong answer 3:** FINISH[Łazienki Palace.]
+
+Question: When does it get cold in the state where The White Foliage was formed?
+Thought 1: In which state was The White Foliage formed?  
+Answer 1: The White Foliage was formed in North Dakota, as mentioned in the supporting fact about the band's history.
+Thought 2: What are the typical cold periods in North Dakota?  
+Answer 2: According to the supporting fact about North Dakota's climate, the state experiences extremely cold temperatures and blizzards during the winter months.
+Thought 3: When does it get cold in North Dakota, where The White Foliage was formed?  
+Answer 3: FINISH[winter months]
+Document : Being 1,000 miles (1,609 km) from any large body of water (with the exception of Lake Superior), temperatures and precipitation in North Dakota can vary widely. North Dakota is far enough north to experience − 60 ° F (− 51 ° C) temperatures and blizzards during the winter months, but far enough south to experience 121 ° F (49 ° C) temperatures and tornado outbreaks in the summer. The 181 ° F degree (100 ° C) variation between North Dakota's highest and lowest temperature is the 3rd largest variation of any U.S. State, and the largest of any non-mountainous state.
+Document : Secret Cities is an independent rock band from North Dakota. Its founding members, Charles Gokey and Marie J. Parker, met at a band camp in July 2001, while in high school. Although the two lived 500 km apart, in Fargo, North Dakota and Williston, North Dakota, respectively, the two started making music by exchanging tapes in the mail and composing using four-track recorders. They continued in this fashion until February 2004, when the pair changed their name to The Foliage and put out their first release on Fall Records, a split with In Ink Please entitled "How to Make Better Love." In July 2005 the band released a mini-LP, "Zurich" on Fall Records under the moniker The White Foliage. The group also added a third member, Alex Abnos, during a tour of the Midwest in that year.
+Wrong answer 1: The White Foliage was formed in Florida, as mentioned in the supporting fact about the band's history.  
+Wrong answer 2: According to the supporting fact about North Dakota's climate, the state experiences extremely cold temperatures and blizzards during the summer months.  
+Wrong answer 3: FINALL[spring months]
+
+Question: Who is the son of the painter of The Last Sleep of Arthur in Avalon?
+Thought 1: Who is the painter of The Last Sleep of Arthur in Avalon?
+Answer 1: The painter of The Last Sleep of Arthur in Avalon is Edward Burne-Jones, as stated in the first supporting fact.
+Thought 2: Who is the son of Edward Burne-Jones?
+Answer 2: According to the second supporting fact, Edward Burne-Jones's son is Philip Burne-Jones.
+Thought 3: Is Philip Burne-Jones the son of the painter of The Last Sleep of Arthur in Avalon?
+Answer 3: Yes, since Edward Burne-Jones is the painter of The Last Sleep of Arthur in Avalon, and Philip Burne-Jones is his son.
+Answer 3: FINISH[Philip Burne-Jones]
+Document : Georgiana Burne-Jones, Lady Burne-Jones (Birmingham, 21 July 1840 – 2 February 1920), the second oldest of the Macdonald sisters, was the wife of Pre-Raphaelite Brotherhood artist Edward Burne-Jones, mother of painter Philip Burne-Jones, aunt of novelist Rudyard Kipling, confidante and friend of George Eliot, William Morris, and John Ruskin something of a painter and engraver in her own right. She was a Trustee of the South London Gallery and was elected to the parish Council of Rottingdean, near Brighton in Sussex.
+Document : The Last Sleep of Arthur in Avalon is a painting by Edward Burne-Jones, started in 1881. The massive painting measures 279 cm × 650 cm, and is widely considered to be Burne-Jones's "magnum opus".
+Wrong answer 1: The painter of *The Last Sleep of Arthur in Avalon* is Dante Gabriel Rossetti.  
+Wrong answer 2: According to the second supporting fact, Edward Burne-Jones's son is John William Waterhouse.  
+Wrong answer 3: No, because the painter of *The Last Sleep of Arthur in Avalon* is William Morris, and his son is May Morris.  
+Wrong answer 3: FINISH[May Morris]
+
+Question: What county was Suzanne Reynolds born in?
+Thought 1: Where was Suzanne Reynolds born?
+Answer 1: Suzanne Reynolds was born in Lexington, North Carolina.
+Thought 2: Is Lexington, North Carolina located in a specific county?
+Answer 2: Lexington is located in Davidson County, North Carolina, as mentioned in the supporting fact about the Churchland community.
+Thought 3: Based on the above, in which county was Suzanne Reynolds born?
+Answer 3: FINISH[Davidson County]
+Document : Churchland is an unincorporated community in Boone Township, Davidson County, North Carolina located along North Carolina Highway 150 southwest of Lexington, North Carolina. Churchland Baptist Church and Churchland Elementary School are centered in the Churchland community. Churchland is protected by Churchland Volunteer Fire Department.
+Document : Suzanne Reynolds (born 1949, in Lexington, North Carolina) is a law professor and dean at Wake Forest University School of Law. She is the first woman to head the school, and was named dean after serving four years as executive associate dean for academic affairs.
+Wrong answer 1: Suzanne Reynolds was born in Charlotte, North Carolina.  
+Wrong answer 2: Lexington is located in Mecklenburg County, North Carolina.  
+Wrong answer 3: FINISH[Rowan County]
+
+Question: Since what time has the creator of Swift remained profitable?
+Thought 1: What is the key event mentioned in the supporting facts that relates to Apple's profitability?
+Answer 1: The supporting facts mention that Apple has remained profitable since Steve Jobs' return and the company's subsequent reorganization.
+Thought 2: Is there any direct connection between the creator of Swift (Apple) and Steve Jobs' return in terms of profitability?
+Answer 2: Yes, the supporting facts explicitly state that Apple has remained profitable since Steve Jobs' return, which includes the period when Swift was created.
+Thought 3: What is the final answer to the question based on the supporting facts?
+Answer 3: FINISH[Steve Jobs' return]
+Document : Apple intended Swift to support many core concepts associated with Objective-C, notably dynamic dispatch, widespread late binding, extensible programming and similar features, but in a "safer" way, making it easier to catch software bugs; Swift has features addressing some common programming errors like null pointer dereferencing and provides syntactic sugar to help avoid the pyramid of doom. Swift supports the concept of protocol extensibility, an extensibility system that can be applied to types, structs and classes, which Apple promotes as a real change in programming paradigms they term "protocol-oriented programming" (similar to traits).
+Document : By March 2011, the market share of OS X in North America had increased to slightly over 14%. Whether the size of the Mac's market share and installed base is relevant, and to whom, is a hotly debated issue. Industry pundits have often called attention to the Mac's relatively small market share to predict Apple's impending doom, particularly in the early and mid-1990s when the company's future seemed bleakest. Others argue that market share is the wrong way to judge the Mac's success. Apple has positioned the Mac as a higher-end personal computer, and so it may be misleading to compare it to a budget PC. Because the overall market for personal computers has grown rapidly, the Mac's increasing sales numbers are effectively swamped by the industry's expanding sales volume as a whole. Apple's small market share, then, gives the impression that fewer people are using Macs than did ten years ago, when exactly the opposite is true. Soaring sales of the iPhone and iPad mean that the portion of Apple's profits represented by the Macintosh has declined in 2010, dropping to 24% from 46% two years earlier. Others try to de-emphasize market share, citing that it is rarely brought up in other industries. Regardless of the Mac's market share, Apple has remained profitable since Steve Jobs' return and the company's subsequent reorganization. Notably, a report published in the first quarter of 2008 found that Apple had a 14% market share in the personal computer market in the US, including 66% of all computers over $1,000. Market research indicates that Apple draws its customer base from a higher-income demographic than the mainstream personal computer market.
+Wrong answer 1: The supporting facts mention that Apple has remained profitable since the release of the first iPhone.  
+Wrong answer 2: Yes, the supporting facts explicitly state that Apple has remained profitable since the launch of macOS.  
+Wrong answer 3: FINISH[The introduction of the App Store]
+
+Question: When did the country Luis Villafane is from become independent from Spain?
+Thought 1: Where is Luis Villafane from?
+Answer 1: Luis Villafane is from San Juan, Puerto Rico, as stated in the supporting fact.
+Thought 2: Did Puerto Rico become independent from Spain?
+Answer 2: According to the supporting fact, Puerto Rico was invaded and became a possession of the United States in 1898 during the Spanish-American War, but it did not become independent from Spain. Instead, it transitioned from Spanish rule to U.S. control.
+Thought 3: What is the final answer to the question based on the facts?
+Answer 3: FINISH[1898]
+Document : In 1898, during the Spanish -- American War, Puerto Rico was invaded and subsequently became a possession of the United States. The first years of the 20th century were marked by the struggle to obtain greater democratic rights from the United States. The Foraker Act of 1900, which established a civil government, and the Jones Act of 1917, which made Puerto Ricans U.S. citizens, paved the way for the drafting of Puerto Rico's Constitution and its approval by Congress and Puerto Rican voters in 1952. However, the political status of Puerto Rico, a Commonwealth controlled by the United States, remains an anomaly.
+Document : Luis Villafañe (born June 21, 1981 in San Juan, Puerto Rico) is a Puerto Rican professional basketball player who plays with Caciques de Humacao of the Puerto Rican Baloncesto Superior Nacional. He also is a member of the Puerto Rico National Basketball Team.
+Wrong answer 1: Luis Villafane is from Madrid, Spain, as stated in the supporting fact.  
+Wrong answer 2: According to the supporting fact, Puerto Rico declared independence from Spain in 1821, but it was later invaded by the United States in 1898.  
+Wrong answer 3: FINISH[1821]
+
+Question: What is the county of the location of formation of A Different Breed of Killer?
+Thought 1: Where was A Different Breed of Killer formed?  
+Answer 1: A Different Breed of Killer was formed in Knoxville, Tennessee, as stated in the supporting fact.
+Thought 2: What county is Knoxville, Tennessee located in?  
+Answer 2: Knoxville is located in Knox County, Tennessee, as indicated by the Knoxville City-County Building's description in the supporting fact.
+Thought 3: Combining the information, what is the county of the location of formation of A Different Breed of Killer?  
+Answer 3: FINISH[Knox County]
+Document : The Knoxville City-County Building is a building at 400 Main Street in Knoxville, Tennessee that houses the offices of the city government of Knoxville and the county government of Knox County, Tennessee. It also houses the Knox County Jail. The building stands ten stories, and contains of office space. At the time it was built it was said to be the largest office building in Tennessee.
+Document : A Different Breed of Killer is an American deathcore band from Knoxville, Tennessee. They released their debut album, "I, Colossus", on April 29, 2008.
+Wrong answer 1: A Different Breed of Killer was formed in Nashville, Tennessee, as stated in the supporting fact.  
+Wrong answer 2: Knoxville is located in Davidson County, Tennessee, as indicated by the Knoxville City-County Building's description in the supporting fact.  
+Wrong answer 3: FINISH[Davidson County]
+
+Question: What county shares a border with the community of Dean, in the province where Chignecto Bay can be found?
+Thought 1: Where is the community of Dean located, and which county borders it?
+Answer 1: Dean is located in the Musquodoboit Valley along the Halifax Regional Municipality/Colchester County county line in the Canadian province of Nova Scotia. The county that shares a border with Dean is Colchester County.
+Thought 2: In which province is Chignecto Bay located?
+Answer 2: Chignecto Bay is located between the Canadian provinces of New Brunswick and Nova Scotia. Since Dean is in Nova Scotia, the province where Chignecto Bay can be found is Nova Scotia.
+Thought 3: Combining the information, which county shares a border with Dean in the province where Chignecto Bay is located?
+Answer 3: FINISH[Colchester County]
+Document : Chignecto Bay is an inlet of the Bay of Fundy located between the Canadian provinces of New Brunswick and Nova Scotia and separated from the waters of the Northumberland Strait by the Isthmus of Chignecto. It is a unit within the greater Gulf of Maine Watershed. Chignecto Bay forms the northeastern part of the Bay of Fundy which splits at Cape Chignecto and is delineated on the New Brunswick side by Martin Head. Chignecto bay was also the site of an unsuccessful railway and canal project of the 1880s and 1890s that would have intersected the landmass, thereby providing a transit passage between New England and Prince Edward Island. After several investigations into the feasibility of a new canal project, including most importantly by the Chignecto Canal Commission, the proposed Chignecto Canal was deemed commercially and economically unjustifiable and the project was abandoned. Some of the physical remnants of the 1880s project still continue to dot the landscape of Chignecto Bay today.
+Document : Dean is a small farming & forestry community in the North Branch Musquodoboit in the Musquodoboit Valley along the Halifax Regional Municipality/Colchester County county line, in the Canadian province of Nova Scotia, along Route 336. Other communities in the North Branch include Elmsvale, Greenwood, Upper Musquodoboit, and Moose River Gold Mines, among others.
+Wrong answer 1: Dean is located in the Annapolis Valley along the Kings County/Lunenburg County line in the Canadian province of Nova Scotia. The county that shares a border with Dean is Kings County.  
+Wrong answer 2: Chignecto Bay is located entirely within the Canadian province of New Brunswick. Since Dean is in Nova Scotia, the province where Chignecto Bay can be found is New Brunswick.  
+Wrong answer 3: FINISH[Pictou County]
+
+Question: What war was the Battle of Jackson, in the state where the film O Brother, Where Art Thou is set, a part of?
+Thought 1: What is the setting of the film O Brother, Where Art Thou?  
+Answer 1: The film is set in 1937 rural Mississippi during the Great Depression.  
+Thought 2: Where did the Battle of Jackson take place?  
+Answer 2: The Battle of Jackson was fought on May 14, 1863, in Jackson, Mississippi.  
+Thought 3: What war was the Battle of Jackson a part of?  
+Answer 3: The Battle of Jackson was part of the Vicksburg Campaign in the American Civil War.  
+Thought 4: Combining the above, what war was the Battle of Jackson, in the state where the film O Brother, Where Art Thou is set, a part of?  
+Answer 4: FINISH[American Civil War]
+Document : The Battle of Jackson, fought on May 14, 1863, in Jackson, Mississippi, was part of the Vicksburg Campaign in the American Civil War. Union commander Maj. Gen. Ulysses S. Grant and the Army of the Tennessee defeated elements of the Confederate Department of the West, commanded by General Joseph E. Johnston, seizing the city, cutting supply lines, and opening the path to the west and the Siege of Vicksburg.
+Document : The film is set in 1937 rural Mississippi during the Great Depression, and its story is a modern satire loosely based on Homer's epic poem The Odyssey that incorporates mythology from the American South. The title of the film is a reference to the 1941 film Sullivan's Travels, in which the protagonist is a director who wants to film O Brother, Where Art Thou?, a fictional book about the Great Depression.
+Wrong answer 1: The film is set in 1937 rural Alabama during the Great Depression.  
+Wrong answer 2: The Battle of Jackson was fought on July 4, 1863, in Jackson, Tennessee.  
+Wrong answer 3: The Battle of Jackson was part of the Battle of New Orleans in the War of 1812.  
+Wrong answer 4: FINISH[World War II]
+
+Question: Who is the author of the biography of the same name as the artist who played Eva Peron in Evita?
+Thought 1: Who played Eva Peron in the 1996 film Evita?
+Answer 1: According to the supporting fact, Madonna played Eva Peron in the 1996 film Evita.
+Thought 2: What is the name of the biography about Madonna?
+Answer 2: The supporting fact states that the biography is titled "Madonna," which is the same name as the artist who played Eva Peron.
+Thought 3: Who is the author of the biography "Madonna"?
+Answer 3: The supporting fact confirms that the author of the biography "Madonna" is Andrew Morton.
+Thought 4: Combining the information, who is the author of the biography of the same name as the artist who played Eva Peron in Evita?
+Answer 4: FINISH[Andrew Morton]
+Document : Madonna is a biography by English author Andrew Morton, chronicling the life of American recording artist Madonna. The book was released in November 2001 by St. Martin's Press in the United States and in April 2002 by Michael O'Mara Books in the United Kingdom. Morton decided to write a biography on Madonna in 2000. The release was announced in April 2001 by St. Martin's Press. President and publisher Sally Richardson described the biography to contain details about Madonna's ambitions, her relationships and her lifestyle.
+Document : Evita is a 1996 American musical drama film based on the 1976 concept album of the same name produced by Tim Rice and Andrew Lloyd Webber, which also inspired a 1978 musical. The film depicts the life of Eva Perón, detailing her beginnings, rise to fame, political career and death at the age of 33. Directed by Alan Parker, and written by Parker and Oliver Stone, Evita stars Madonna as Eva, Jonathan Pryce as Eva's husband Juan Perón, and Antonio Banderas as Ché, an everyman who acts as the film's narrator.
+Wrong answer 1: According to the supporting fact, Jennifer Lopez played Eva Peron in the 1996 film Evita.  
+Wrong answer 2: The supporting fact states that the biography is titled "Like a Prayer," which is the same name as the artist who played Eva Peron.  
+Wrong answer 3: The supporting fact confirms that the author of the biography "Madonna" is J.K. Rowling.  
+Wrong answer 4: FINISH[Lucy O'Brien]
+
+Question: What county shares a border with the other county that contains Springfield Township?
+Thought 1: Where is Springfield Township located?
+Answer 1: Springfield Township is located in Jefferson County, Ohio, United States.
+Thought 2: Which other county is mentioned in the supporting facts that shares a connection with Jefferson County?
+Answer 2: The supporting facts mention Punxsutawney Area School District, which is located in both Jefferson County, Pennsylvania, and Indiana County, Pennsylvania.
+Thought 3: Does Jefferson County, Pennsylvania, share a border with Indiana County, Pennsylvania?
+Answer 3: Yes, Jefferson County, Pennsylvania, shares a border with Indiana County, Pennsylvania, as they are both part of the Punxsutawney Area School District.
+Thought 4: What county shares a border with the other county (Jefferson County, Pennsylvania) that contains Springfield Township?
+Answer 4: FINISH[Indiana County]
+Document : Springfield Township is one of the fourteen townships of Jefferson County, Ohio, United States. The 2010 census found 2,367 people in the township, 1,192 of whom lived in the unincorporated portions of the township.
+Document : Punxsutawney Area School District is a midsized, rural/suburban public school district located in Jefferson County, Pennsylvania and Indiana County, Pennsylvania. Punxsutawney Area School District encompasses approximately . In Indiana County, Canoe, Banks, and North Mahoning Townships are part of district boundaries. Punxsutawney, Worthville, Big Run, and Timblin are Jefferson County boroughs that are served. The townships of Bell, Gaskill, Young, Perry, Porter, Ringgold, Olver, McCalmont, and Henderson are also part of the district. According to 2000 federal census data, it serves a resident population of 22,055 people. According to District officials, in school year 2007-08, Punxsutawney Area School District provided basic educational services to 2,589 pupils. Punxsutawney Area School District employed: 213 teachers, 203 full-time and part-time support personnel, and 14 administrators. Punxsutawney Area School District received more than $21.1 million in state funding in school year 2007-08.
+Wrong answer 1: Springfield Township is located in Hamilton County, Ohio, United States.  
+Wrong answer 2: The supporting facts mention Punxsutawney Area School District, which is located in both Jefferson County, Pennsylvania, and Allegheny County, Pennsylvania.  
+Wrong answer 3: No, Jefferson County, Pennsylvania, does not share a border with Indiana County, Pennsylvania, as they are in different school districts.  
+Wrong answer 4: FINISH[Clearfield County]
+
+Question: Which episode of Doctor Who had the creator of La Mousmé?
+Thought 1: Who is the creator of La Mousmé?
+Answer 1: The creator of La Mousmé is Vincent van Gogh, as he painted it in 1888 while living in Arles.
+Thought 2: Which episode of Doctor Who features Vincent van Gogh?
+Answer 2: The episode of Doctor Who that features Vincent van Gogh is "Vincent and the Doctor," which is the tenth episode in the fifth series of the show.
+Thought 3: Does "Vincent and the Doctor" match the input answer?
+Answer 3: Yes, the input answer is "Vincent and the Doctor," which aligns with the supporting facts.
+Answer 3: FINISH[``Vincent and the Doctor '']
+Document : ``Vincent and the Doctor ''is the tenth episode in the fifth series of British science fiction television series Doctor Who, first broadcast on BBC One on 5 June 2010. It was written by Richard Curtis and directed by Jonny Campbell and featured an uncredited guest appearance from actor Bill Nighy.
+Document : La Mousmé also known as La Mousmé, Sitting in a Cane Chair, Half-Figure (with a branch of oleander) was painted by Vincent van Gogh in 1888 while living in Arles, which van Gogh dubbed "the Japan of the south". Retreating from the city, he hoped that his time in Arles would evoke in his work the simple, yet dramatic expression of Japanese art.
+Wrong answer 1: The creator of La Mousmé is Pablo Picasso, as he painted it in 1905 during his Rose Period.  
+Wrong answer 2: The episode of Doctor Who that features Vincent van Gogh is "The Girl in the Fireplace," which is the fourth episode in the second series of the show.  
+Wrong answer 3: No, the input answer is "The Pandorica Opens," which does not align with the supporting facts.
+
+Question: In which country did the performer of Burning hold citizenship?
+Thought 1: Who is the performer of the song "Burning"?
+Answer 1: The performer of "Burning" is Maria Arredondo, as stated in the second supporting fact.
+Thought 2: What is Maria Arredondo's nationality or citizenship?
+Answer 2: Maria Arredondo is Norwegian, as indicated in the first supporting fact, which describes her as a "Norwegian singer."
+Thought 3: Is there any conflicting information about Maria Arredondo's citizenship?
+Answer 3: No, both supporting facts consistently refer to Maria Arredondo as Norwegian, with no mention of any other citizenship.
+Thought 4: Based on the information, what is the final answer to the question?
+Answer 4: FINISH[Norway]
+Document : Maria Arredondo is the first album by Norwegian singer Maria Arredondo, released in Norway on March 17, 2003, with a second edition released on June 30, 2003. The album was the most successful album by Arredondo either in critics or sales. It has 12 songs with the second edition and 5 singles were released. One of the singles, "In Love With An Angel", a duet with Christian Ingebrigtsen, was nominated for the 2003 Norwegian Grammy Awards as 'Song Of The Year'.
+Document : "Burning" is the second single released from Maria Arredondo's album "Not Going Under". It was released in September 2004 and was the second Arredondo single to become a video.
+Wrong answer 1: The performer of "Burning" is Celine Dion, as stated in the second supporting fact.  
+Wrong answer 2: Maria Arredondo is Swedish, as indicated in the first supporting fact, which describes her as a "Swedish singer."  
+Wrong answer 3: Yes, the supporting facts mention that Maria Arredondo holds dual citizenship in Norway and Denmark.  
+Wrong answer 4: FINISH[Sweden]
+
+Question: When did Britain withdraw from the country where Barbar is located?
+Thought 1: Where is Barbar located?
+Answer 1: Barbar is a village in the north of Bahrain, lying between Diraz and Jannusan. The Dilmun era Barbar Temple is located near the village.
+Thought 2: When did Britain withdraw from Bahrain?
+Answer 2: Britain withdrew from Bahrain in 1971, as part of their broader withdrawal from major military bases East of Suez, which included the Middle East.
+Thought 3: What is the final answer to the question based on the supporting facts?
+Answer 3: FINISH[1971]
+Document : Barbar () is a village in the north of Bahrain. It lies between Diraz and Jannusan. The Dilmun era Barbar Temple is located near the village.
+Document : While the Suez Crisis caused British power in the Middle East to weaken, it did not collapse. Britain again deployed its armed forces to the region, intervening in Oman (1957), Jordan (1958) and Kuwait (1961), though on these occasions with American approval, as the new Prime Minister Harold Macmillan's foreign policy was to remain firmly aligned with the United States. Britain maintained a military presence in the Middle East for another decade. In January 1968, a few weeks after the devaluation of the pound, Prime Minister Harold Wilson and his Defence Secretary Denis Healey announced that British troops would be withdrawn from major military bases East of Suez, which included the ones in the Middle East, and primarily from Malaysia and Singapore. The British withdrew from Aden in 1967, Bahrain in 1971, and Maldives in 1976.
+Wrong answer 1: Barbar is a city in the southern region of Saudi Arabia, near the border with Yemen.  
+Wrong answer 2: Britain withdrew from Bahrain in 1965, following the end of their colonial rule in the Persian Gulf.  
+Wrong answer 3: FINISH[1981]
+
+Question: When did the civil war start in the country where Ana Maria is a citizen?
+Thought 1: What is the country of citizenship for Ana Maria?
+Answer 1: According to the supporting fact, Ana Maria was a member of the FPL, which was part of the FMLN in El Salvador. Therefore, Ana Maria is a citizen of El Salvador.
+Thought 2: When did the civil war start in El Salvador?
+Answer 2: The supporting fact states that the Salvadoran Civil War began after a coup on October 15, 1979, which led to violent clashes between the government and guerrilla groups, marking the tipping point toward civil war.
+Thought 3: Is the answer to the question about the start of the civil war in El Salvador confirmed by the supporting facts?
+Answer 3: FINISH[October 15, 1979]
+Document : The Salvadoran Civil War was a conflict between the military - led government of El Salvador and the Farabundo Martí National Liberation Front (FMLN), a coalition or ``umbrella organization ''of several left - wing groups. A coup on October 15, 1979, led to the killings of anti-coup protesters by the government as well as anti-disorder protesters by the guerrillas, and is widely seen as the tipping point toward civil war.
+Document : Ana María (17 May 1929 – 6 April 1983) was the "nom de guerre" of Mélida Anaya Montes, the second in command of the Fuerzas Populares de Liberación Farabundo Martí (FPL), the oldest of the five guerilla organizations making up the FMLN, in El Salvador.
+Wrong answer 1: Ana Maria is a citizen of Guatemala, as the FPL was part of the FMLN in Guatemala.  
+Wrong answer 2: The Salvadoran Civil War began on March 15, 1980, when a major protest turned violent, escalating into full-scale war.  
+Wrong answer 3: FINISH[January 10, 1981]
+
+Question: Who does the cast member of Michael Collins play in Star Wars I?
+Thought 1: Who is the cast member of Michael Collins?  
+Answer 1: The cast member of Michael Collins is Liam Neeson, who played the titular character, Michael Collins, in the 1996 film.
+Thought 2: What character does Liam Neeson play in Star Wars: Episode I -- The Phantom Menace?  
+Answer 2: Liam Neeson portrays Qui-Gon Jinn, one of the main protagonists in Star Wars: Episode I -- The Phantom Menace.
+Thought 3: What is the connection between the cast member of Michael Collins and their role in Star Wars I?  
+Answer 3: The connection is that Liam Neeson, who starred in Michael Collins, also played Qui-Gon Jinn in Star Wars: Episode I -- The Phantom Menace.
+Answer 3: FINISH[Qui-Gon Jinn]
+Document : Qui - Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as one of the main protagonists of the 1999 film Star Wars: Episode I -- The Phantom Menace.
+Document : Michael Collins is a 1996 historical biopic written and directed by Neil Jordan and starring Liam Neeson as Michael Collins, the Irish patriot and revolutionary who died in the Irish Civil War. It won the Golden Lion at the Venice Film Festival.
+Wrong answer 1: The cast member of Michael Collins is Daniel Day-Lewis, who played the titular character, Michael Collins, in the 1996 film.  
+Wrong answer 2: Liam Neeson portrays Obi-Wan Kenobi, one of the main protagonists in Star Wars: Episode I -- The Phantom Menace.  
+Wrong answer 3: The connection is that Liam Neeson, who starred in Michael Collins, also played Darth Maul in Star Wars: Episode I -- The Phantom Menace.  
+Wrong answer 4: FINISH[Anakin Skywalker]
+
+Question: Where can you find the show ESPN College Football on the original broadcaster of The Bachelor?
+Thought 1: Who is the original broadcaster of The Bachelor?
+Answer 1: The original broadcaster of The Bachelor is ABC, as indicated by the supporting fact about Catherine Ligaya Lowe winning the seventeenth season of ABC's "The Bachelor."
+Thought 2: On which network is ESPN College Football broadcast?
+Answer 2: ESPN College Football is broadcast on ABC, as stated in the supporting fact that describes "ESPN College Football on ABC" as the branding used for broadcasts of NCAA Division I FBS college football games produced by ESPN and televised on ABC.
+Thought 3: What is the final answer to the question based on the above information?
+Answer 3: FINISH[American Broadcasting Company]
+Document : Catherine Ligaya Lowe (née Mejia Giudici; born April 1986), is an American graphic designer, reality television star and the winner of the seventeenth season of ABC's "The Bachelor". She is married to the former bachelor, Sean Lowe.
+Document : ESPN College Football on ABC (branded for sponsorship purposes as ESPN College Football on ABC presented by Walmart or Kay Jewelers) is the branding used for broadcasts of National Collegiate Athletic Association (NCAA) Division I Football Bowl Subdivision (FBS) college football games that are produced by ESPN, and televised on the American Broadcasting Company (ABC) in the United States. ABC first began broadcasting regular season college football games in 1950 and has aired them on an annual basis since 1966. The network features games from The American, Atlantic Coast, Big Ten, Big 12, and Pac-12 conferences. In addition, ESPN also produces a separate prime time regular-season game package for ABC, under the umbrella brand "Saturday Night Football". (ESPN and ABC are both owned by The Walt Disney Company).
+Wrong answer 1: The original broadcaster of The Bachelor is NBC, as indicated by the supporting fact about Catherine Ligaya Lowe winning the seventeenth season of NBC's "The Bachelor."  
+Wrong answer 2: ESPN College Football is broadcast on CBS, as stated in the supporting fact that describes "ESPN College Football on CBS" as the branding used for broadcasts of NCAA Division I FBS college football games produced by ESPN and televised on CBS.  
+Wrong answer 3: FINISH[National Broadcasting Company]
+
+Question: Who is the mother of the singer of Just Like?  
+Thought 1: Who is the singer of the song "Just Like"?  
+Answer 1: The singer of "Just Like" is Marvin Gaye, as it is a song recorded by him in 1978 and released posthumously in 1985.  
+Thought 2: Who is Marvin Gaye's mother?  
+Answer 2: Marvin Gaye's mother is Alberta Gay (née Cooper), as stated in the supporting facts. She was a domestic worker and the wife of Marvin Gay Sr.  
+Thought 3: Is there any additional information needed to confirm the answer?  
+Answer 3: No, the supporting facts clearly identify Alberta Gay as Marvin Gaye's mother, and Marvin Gaye is confirmed as the singer of "Just Like."  
+Thought 4: What is the final answer to the original question?  
+Answer 4: FINISH[Alberta Gay]
+Document : Gaye was born Marvin Pentz Gay Jr. on April 2, 1939, at Freedman's Hospital in Washington, D.C., to church minister Marvin Gay Sr., and domestic worker Alberta Gay (née Cooper). His first home was in a public housing project, the Fairfax Apartments (now demolished) at 1617 1st Street SW in the Southwest Waterfront neighborhood. Although one of the city's oldest neighborhoods, with many elegant Federal-style homes, Southwest was primarily a vast slum. Most buildings were small, in extensive disrepair, and lacked both electricity and running water. The alleys were full of one- and two-story shacks, and nearly every dwelling was overcrowded. Gaye and his friends nicknamed the area "Simple City", owing to its being "half-city, half country".
+Document : "Just Like" is a song recorded by Marvin Gaye in 1978 but wasn't released until after the release of Gaye's posthumous 1985 album "Romantically Yours".
+Wrong answer 1: The singer of "Just Like" is Stevie Wonder, as it is a song recorded by him in 1975.  
+Wrong answer 2: Marvin Gaye's mother is Aretha Franklin, as stated in some unofficial sources.  
+Wrong answer 3: Yes, additional information is needed because there are conflicting reports about Marvin Gaye's mother.  
+Wrong answer 4: FINISH[Diana Ross]
+
+Question: Who is the original broadcaster of Benson and NHL?
+Thought 1: What is the original broadcaster of the NHL games mentioned in the supporting facts?  
+Answer 1: The original broadcaster of NHL games mentioned is the American Broadcasting Company (ABC), which first broadcast NHL games during the 1992–93 season and resumed regular season game telecasts on February 6, 2000.
+Thought 2: What is the original broadcaster of the sitcom "Benson" mentioned in the supporting facts?  
+Answer 2: The original broadcaster of "Benson" is the American Broadcasting Company (ABC), which aired the show from September 13, 1979, to April 19, 1986.
+Thought 3: Based on the answers to the sub-questions, who is the original broadcaster of both "Benson" and NHL?  
+Answer 3: FINISH[American Broadcasting Company]
+Document : The NHL on ABC is the branding formerly used for broadcasts of National Hockey League (NHL) games televised on the American Broadcasting Company (ABC) in the United States. The network first broadcast NHL games during the 1992–93 season under a time-buy agreement with ESPN; ABC resumed regular season game telecasts on February 6, 2000, as part of a joint contract with ESPN that also gave ABC the rights to select games from each round of the Stanley Cup playoffs.
+Document : Benson is an American sitcom that originally aired on ABC from September 13, 1979, to April 19, 1986. The series was a spin-off of "Soap" in which the character Benson, portrayed by Robert Guillaume, first appeared as the wise-cracking yet level-headed African-American butler for the highly dysfunctional Tate family. However, "Benson" eschewed the soap opera format of its parent series for a more conventional sitcom structure, and the lead character eventually moved from his service position to a role as lieutenant governor. The series was created by Susan Harris, and produced by Witt/Thomas/Harris Productions. In 1985, Guillaume won an Emmy Award for Outstanding Lead Actor in a Comedy Series for his role in the series.
+Wrong answer 1: The original broadcaster of NHL games mentioned is the National Broadcasting Company (NBC), which first broadcast NHL games during the 1992–93 season and resumed regular season game telecasts on February 6, 2000.  
+Wrong answer 2: The original broadcaster of "Benson" is the Columbia Broadcasting System (CBS), which aired the show from September 13, 1979, to April 19, 1986.  
+Wrong answer 3: FINISH[Fox Broadcasting Company]
+
+Question: Who is the General Treasurer of Providence Plantations, and the state that was founded by the individual, who started the first Baptist group in what is now the United States?
+Thought 1: Who started the first Baptist group in what is now the United States?  
+Answer 1: Roger Williams established the first Baptist congregation in the North American colonies in 1638.  
+Thought 2: Which state was founded by Roger Williams?  
+Answer 2: Roger Williams founded the colony of Rhode Island.  
+Thought 3: Who is the current General Treasurer of Rhode Island?  
+Answer 3: Seth Magaziner is the current General Treasurer of the State of Rhode Island.  
+Thought 4: Combining the answers, who is the General Treasurer of Providence Plantations (Rhode Island), and the state founded by Roger Williams, who started the first Baptist group in the U.S.?  
+Answer 4: FINISH[Seth Magaziner]
+Document : Historians trace the earliest church labeled Baptist back to 1609 in Amsterdam, with English Separatist John Smyth as its pastor. In accordance with his reading of the New Testament, he rejected baptism of infants and instituted baptism only of believing adults. Baptist practice spread to England, where the General Baptists considered Christ's atonement to extend to all people, while the Particular Baptists believed that it extended only to the elect. In 1638, Roger Williams established the first Baptist congregation in the North American colonies. In the mid-18th century, the First Great Awakening increased Baptist growth in both New England and the South. The Second Great Awakening in the South in the early 19th century increased church membership, as did the preachers' lessening of support for abolition and manumission of slavery, which had been part of the 18th-century teachings. Baptist missionaries have spread their church to every continent.
+Document : Seth Magaziner (born July 22, 1983) is an American investment professional and the current General Treasurer of the State of Rhode Island.
+Document : The phrase "[A] hedge or wall of separation between the garden of the church and the wilderness of the world" was first used by Baptist theologian Roger Williams, the founder of the colony of Rhode Island, in his 1644 book The Bloody Tenent of Persecution. The phrase was later used by Thomas Jefferson as a description of the First Amendment and its restriction on the legislative branch of the federal government, in an 1802 letter to the Danbury Baptists (a religious minority concerned about the dominant position of the Congregationalist church in Connecticut):
+Wrong answer 1: John Clarke established the first Baptist congregation in the North American colonies in 1638.  
+Wrong answer 2: Roger Williams founded the colony of Massachusetts.  
+Wrong answer 3: Gina Raimondo is the current General Treasurer of the State of Rhode Island.  
+Wrong answer 4: FINISH[Daniel McKee]
+
+Question: Who founded the school that publishes Encyclopedia Brunoniana?
+Thought 1: Who is the founder of the school associated with Encyclopedia Brunoniana?
+Answer 1: James Manning is the founder, as he was the first president of Brown University and one of its most involved founders.
+Thought 2: What is the connection between Encyclopedia Brunoniana and the school founded by James Manning?
+Answer 2: Encyclopedia Brunoniana is a reference work about Brown University, published by the Brown University Library, which is the school founded by James Manning.
+Thought 3: Based on the above, who founded the school that publishes Encyclopedia Brunoniana?
+Answer 3: FINISH[James Manning]
+Document : Encyclopedia Brunoniana is an American reference work by Martha Mitchell covering Brown University. Published in 1993 by the Brown University Library, the encyclopedia has 629 pages. A digital version can be read free of charge on the Internet.
+Document : James Manning (October 22, 1738 – July 29, 1791) was an American Baptist minister, educator and legislator from Providence, Rhode Island best known for being the first president of Brown University and one of its most involved founders.
+Wrong answer 1: John Harvard is the founder, as he was the first president of Brown University and one of its most involved founders.  
+Wrong answer 2: Encyclopedia Brunoniana is a reference work about Harvard University, published by the Harvard University Library, which is the school founded by John Harvard.  
+Wrong answer 3: FINISH[John Harvard]
+
+Question: Who was the first Muslim elected president of the political party of Pradeep Tamta?
+Thought 1: What is the political party of Pradeep Tamta?  
+Answer 1: Pradeep Tamta is a politician of the Indian National Congress (INC) from Uttarakhand state.
+Thought 2: Who was the first Muslim president of the Indian National Congress?  
+Answer 2: The first Muslim president of the Indian National Congress was Badruddin Tayyab Ji.
+Thought 3: Is the first Muslim president of the Indian National Congress relevant to the question about Pradeep Tamta's party?  
+Answer 3: Yes, since Pradeep Tamta is a member of the Indian National Congress, the first Muslim president of the party is the answer to the question.
+Answer 3: FINISH[Badruddin Tayyab Ji]
+Document : Pradeep Tamta (born 16 June 1958) is an Indian politician of Indian National Congress (INC) from Uttarakhand state. He was a member of the Indian Parliament, and represented Almora (Lok Sabha constituency) in the 15th Lok Sabha. But he lost to Ajay Tamta in Election 2014. He also remained member of Uttarakhand Legislative Assembly (2002-2007).
+Document : Rahimtullah M Sayani was the ``Second Muslim ''to become the`` President of Indian National Congress ''. (First was Badruddin Tayyab Ji)
+Wrong answer 1: Pradeep Tamta is a politician of the Bharatiya Janata Party (BJP) from Uttarakhand state.  
+Wrong answer 2: The first Muslim president of the Indian National Congress was Maulana Abul Kalam Azad.  
+Wrong answer 3: No, since Pradeep Tamta is not a member of the Indian National Congress, the first Muslim president of the party is irrelevant to the question.
+
+Question: When did the singer of I Wanna Dance with Somebody record The Greatest Love of All?
+Thought 1: Who is the singer of "I Wanna Dance with Somebody"?
+Answer 1: The singer of "I Wanna Dance with Somebody" is Whitney Houston, as mentioned in the first supporting fact.
+Thought 2: When did Whitney Houston record "The Greatest Love of All"?
+Answer 2: Whitney Houston recorded "The Greatest Love of All" in 1985, as stated in the second supporting fact.
+Thought 3: Is there any additional information about the recording year of "The Greatest Love of All" by Whitney Houston?
+Answer 3: No, the second supporting fact clearly states that Whitney Houston's version was recorded in 1985.
+Thought 4: What is the final answer to the original question?
+Answer 4: FINISH[1985]
+Document : ``I Wanna Dance with Somebody (Who Loves Me) ''is the first single from Whitney Houston's second studio album, Whitney. It was produced by Narada Michael Walden, and written by George Merrill and Shannon Rubicam of the band Boy Meets Girl, who had previously written the number - one Whitney Houston hit`` How Will I Know.''
+Document : ``The Greatest Love of All ''is a song written by composers Michael Masser (music) and Linda Creed (lyrics). It was originally recorded in 1977 by American singer and guitarist George Benson, who made the song a substantial hit, peaking at number 2 on the R&B chart that year, the first R&B chart Top Ten hit for Arista Records. The song was written and recorded to be the main theme of the 1977 film The Greatest, a biopic of the boxer Muhammad Ali. Eight years after Benson's original recording, the song became even more well known for a version by Whitney Houston, whose 1985 cover (with the slightly amended title`` Greatest Love of All'') eventually topped the charts, peaking at number 1 in Australia, Canada, U.S. and on the R&B chart in 1986.
+Wrong answer 1: The singer of "I Wanna Dance with Somebody" is Madonna, as mentioned in the first supporting fact.  
+Wrong answer 2: Whitney Houston recorded "The Greatest Love of All" in 1990, as stated in the second supporting fact.  
+Wrong answer 3: Yes, the second supporting fact suggests that Whitney Houston's version was recorded in 1986.  
+Wrong answer 4: FINISH[1975]

@@ -2,7 +2,7 @@ deepseek-chat:
   api_key: sk-77393f428fd9428ba91b435497885c11
   base_url: https://api.deepseek.com
   max_tokens: 200
-  temperature: 1.0
+  temperature: 0.1
 
 qwen2-7b-instruct:
   api_key: sk-290ddbae9c8f41d18efdd8355a397076

@@ -1,0 +1,854 @@
+Question: What is the place of birth of the composer of film Kaayamkulam Kochunniyude Makan?
+Thought 1: Who is the composer of the film Kaayamkulam Kochunniyude Makan?
+Answer 1: The composer of the film Kaayamkulam Kochunniyude Makan is M. K. Arjunan, as mentioned in the supporting fact.
+Thought 2: What is known about M. K. Arjunan's place of birth?
+Answer 2: M. K. Arjunan is described as a Malayalam music composer from Kerala, India, in the supporting fact.
+Thought 3: Based on the information, where was M. K. Arjunan born?
+Answer 3: FINISH[Kerala]
+Document : Kayamkulam Kochunniyude Makan is a 1976 Indian Malayalam-language period drama film directed by J. Sasikumar, written by Pappanamkodu Lakshmanan and produced by Thiruppathi Chettiyar. It is a sequel to the 1966 film "Kayamkulam Kochunni". The film stars Prem Nazir, Jayabharathi, Vidhubala, KP Ummer and MG Soman in the lead roles. The film has musical score by M. K. Arjunan.
+Document : M. K. Arjunan (fondly called as Arjunan Master) is a Kerala State Award winning Malayalam music composer from Kerala, India. He is known for composing many melodies for Malayalam cinema .
+Wrong answer 1: The composer of the film Kaayamkulam Kochunniyude Makan is Ilaiyaraaja.  
+Wrong answer 2: M. K. Arjunan is a Tamil music composer from Chennai, India.  
+Wrong answer 3: FINISH[Karnataka]
+
+Question: Are Bipradash Barua and Henk Wijngaard from the same country?
+Thought 1: What is the nationality of Bipradash Barua?
+Answer 1: Bipradash Barua is a Bangladeshi novelist, as mentioned in the supporting fact.
+Thought 2: What is the nationality of Henk Wijngaard?
+Answer 2: Henk Wijngaard is a Dutch country singer, as mentioned in the supporting fact.
+Thought 3: Are Bangladesh and the Netherlands the same country?
+Answer 3: No, Bangladesh and the Netherlands are different countries.
+Thought 4: Based on the nationalities of Bipradash Barua and Henk Wijngaard, are they from the same country?
+Answer 4: FINISH[no]
+Document : Henk Wijngaard( b. Stadskanaal, June 13, 1946) is a Dutch country singer. Wijngaard's mother was a refugee from France and his father a Canadian allied soldier. He was initially employed as a truck driver. In 1978 he had his breakthrough hit with the self- penned song," Met de vlam in de pijp". After this followed 20 further Dutch Top 40 hits, many on the themes of truck driving. Wijngaard is the paternal half- brother of Charles Edwards, the father of Canadian country singer Shania Twain.
+Document : Bipradash Barua( born 1940) is a Bangladeshi novelist. He was awarded Bangla Academy Literary Award in 1991 and Ekushey Padak in 2014.
+Wrong answer 1: Bipradash Barua is an Indian novelist.  
+Wrong answer 2: Henk Wijngaard is a Belgian country singer.  
+Wrong answer 3: Yes, Bangladesh and the Netherlands are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: Are Gavlimak and Berušica located in the same country?  
+Thought 1: Where is Gavlimak located?  
+Answer 1: Gavlimak is a village in Chehel Shahid Rural District, in the Central District of Ramsar County, Mazandaran Province, Iran.  
+Thought 2: Where is Berušica located?  
+Answer 2: Berušica is a village in the municipality of Trebinje, Republika Srpska, Bosnia and Herzegovina.  
+Thought 3: Are Iran and Bosnia and Herzegovina the same country?  
+Answer 3: No, Iran and Bosnia and Herzegovina are two different countries.  
+Thought 4: Based on the locations of Gavlimak and Berušica, are they in the same country?  
+Answer 4: FINISH[no]
+Document : Gavlimak( also Romanized as Gāvlīmāk) is a village in Chehel Shahid Rural District, in the Central District of Ramsar County, Mazandaran Province, Iran. At the 2006 census, its population was 184, in 54 families.
+Document : Berušica is a village in the municipality of Trebinje, Republika Srpska, Bosnia and Herzegovina.
+Wrong answer 1: Gavlimak is a city in the Central District of Tehran Province, Iran.  
+Wrong answer 2: Berušica is a village in the municipality of Sarajevo, Federation of Bosnia and Herzegovina.  
+Wrong answer 3: Yes, Iran and Bosnia and Herzegovina are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: What is the place of birth of the director of film The Seven Madmen?
+Thought 1: Who is the director of the film "The Seven Madmen"?
+Answer 1: The director of "The Seven Madmen" is Leopoldo Torre Nilsson.
+Thought 2: Where was Leopoldo Torre Nilsson born?
+Answer 2: Leopoldo Torre Nilsson was born in Buenos Aires, as mentioned in the supporting fact that he died in his native Buenos Aires in 1978.
+Thought 3: Is there any conflicting information about Leopoldo Torre Nilsson's place of birth?
+Answer 3: No, the supporting facts consistently indicate that Buenos Aires is his place of birth and native city.
+Thought 4: What is the final answer to the question about the place of birth of the director of "The Seven Madmen"?
+Answer 4: FINISH[Buenos Aires]
+Document : Leopoldo Torre Nilsson (5 May 1924 – 8 September 1978), also known as Leo Towers and as Babsy, was an Argentine film director, producer and screenwriter. Born as Leopoldo Torres Nilsson (he later changed his paternal surname from Torres to Torre) was the son of Argentine pioneer film director Leopoldo Torres Ríos, with whom he collaborated between 1939 and 1949. He debuted in 1947 with the short "El muro". His mother was an Argentinian citizen of Swedish descent. His uncle was cinematographer Carlos Torres Ríos (1898–1956). Torre Nilsson's first full-length film, "El crimen de Oribe" (1950), was an adaptation of Adolfo Bioy Casares's novel "El perjurio de la nieve". In 1954 he directed "Días de odio", based on Jorge Luis Borges's short story "Emma Zunz". In 1956 he directed "Graciela", based on Carmen Laforet's novel "Nada", winner of Nadal Literary Prize 1944. He also directed films about icons of Argentine history and culture: "Martín Fierro" (1968), about the main character of Argentina's national poem; "El Santo de la Espada" (1970), about General José de San Martín; and (1971), about Martín Miguel de Güemes. It was entered into the 7th Moscow International Film Festival. His 1973 film "Los siete locos" won the Silver Bear at the 23rd Berlin International Film Festival. Torre Nilsson was married to writer Beatriz Guido, whose work served as inspiration and who worked alongside him in many of his scripts. He is acknowledged as the first Argentine film director to be critically acclaimed outside the country, making Argentina's film production known in important international festivals. He died of cancer in his native Buenos Aires in 1978, at the age of 54. He was buried at the Cementerio Británico in Buenos Aires. A novelized biography of Torre Nilsson, "El Gran Babsy" , by Mónica Martín, was published in 1993. Another biography, "Leopoldo Torre Nilsson: Imagen y Poesía" was published in 2006 by the newspaper "La Nación" and the Aguilar editorial house.
+Document : The Seven Madmen (also known as The Revolution of the Seven Madmen) is a 1973 Argentine drama film directed by Leopoldo Torre Nilsson and starring Alfredo Alcón, Norma Aleandro and Héctor Alterio. It was based on the novels "Los siete locosThe Seven Madmen") and "Los lanzallamasThe Flamethowers"), by Roberto Arlt. The film was entered into the 23rd Berlin International Film Festival, where it won the Silver Bear Award.
+Wrong answer 1: The director of "The Seven Madmen" is Luis Buñuel.  
+Wrong answer 2: Leopoldo Torre Nilsson was born in Montevideo, Uruguay.  
+Wrong answer 3: Yes, some sources claim he was born in Rosario, Argentina.  
+Wrong answer 4: FINISH[Madrid, Spain]
+
+Question: Was Evan Jolitz or Tomasz Kafarski born first?
+Thought 1: What is the birth date of Evan Jolitz?
+Answer 1: Evan Jolitz was born on July 26, 1951.
+Thought 2: What is the birth date of Tomasz Kafarski?
+Answer 2: Tomasz Kafarski was born on January 13, 1975.
+Thought 3: Comparing the birth dates of Evan Jolitz and Tomasz Kafarski, who was born first?
+Answer 3: FINISH[Evan Jolitz]
+Document : Tomasz Kafarski( born January 13, 1975 in Kościerzyna) is a Polish football manager and former footballer.
+Document : Evan Jolitz( born July 26, 1951) is a former American football linebacker. He played for the Cincinnati Bengals in 1974.
+Wrong answer 1: Evan Jolitz was born on January 13, 1975.  
+Wrong answer 2: Tomasz Kafarski was born on July 26, 1951.  
+Wrong answer 3: FINISH[Tomasz Kafarski]
+
+Question: What is the date of death of Quentin Metsys The Younger's father?
+Thought 1: Who is Quentin Metsys The Younger's father?
+Answer 1: Quentin Metsys The Younger's father is Jan Massijs or Jan Matsys, a Flemish Renaissance painter.
+Thought 2: What is the date of death of Jan Massijs or Jan Matsys?
+Answer 2: Jan Massijs or Jan Matsys died on 8 October 1575.
+Thought 3: Is there any other information that could confirm the date of death of Quentin Metsys The Younger's father?
+Answer 3: The supporting facts confirm that Jan Massijs or Jan Matsys is Quentin Metsys The Younger's father and that he died on 8 October 1575.
+Thought 4: What is the final answer to the question?
+Answer 4: FINISH[8 October 1575]
+Document : Jan Massijs or Jan Matsys (c.1510 – 8 October 1575) was a Flemish Renaissance painter known for his history paintings, genre scenes and landscapes. He also gained a reputation as a painter of the female nude, which he painted with a sensuality reminiscent of the school of Fontainebleau.
+Document : Quentin Metsys the Younger (Quinten or Massys; c. 1543 – 1589) was a Flemish Renaissance painter, one of several of his countrymen active as artists of the Tudor court in the reign of Elizabeth I of England. He was the son of Flemish painter Jan Massys, Matsys, or Metsys and the grandson and namesake of Quentin Massys or Metsys. The younger Quentin was born in Antwerp, where he joined the Guild of St. Luke in 1574; by c. 1581 he was living in London, likely having fled religious persecution in Antwerp as his father and uncle had done. He left England for Frankfurt in 1588 and died there the next year. He is best known for the "Sieve Portrait" of Elizabeth I, in which she is depicted as Tuccia, a Vestal Virgin who proved her chastity by carrying water from the Tiber River to the Temple of Vesta without spilling a drop. Elizabeth is surrounded by symbols of empire, including a column and a globe, iconography that would appear again and again in her portraiture of the 1580s and 1590s, most notably in the "Armada Portrait" of 1588.
+Wrong answer 1: Quentin Metsys The Younger's father is Pieter Bruegel the Elder, a famous Dutch painter.  
+Wrong answer 2: Jan Massijs or Jan Matsys died on 15 March 1568.  
+Wrong answer 3: Historical records suggest that Quentin Metsys The Younger's father died in 1589, but his identity remains uncertain.  
+Wrong answer 4: FINISH[12 June 1590]
+
+Question: Who is older, Peter Németh or P. N. Ravindran?
+Thought 1: What is Peter Németh's date of birth?
+Answer 1: Peter Németh was born on 14 September 1972.
+Thought 2: What is P. N. Ravindran's date of birth?
+Answer 2: P. N. Ravindran was born on 29 May 1956.
+Thought 3: Comparing the birth dates of Peter Németh and P. N. Ravindran, who was born earlier?
+Answer 3: FINISH[P. N. Ravindran]
+Document : P. N. Ravindran( born 29 May 1956) was a judge of Kerala High Court. The High Court of Kerala is the highest court in the Indian state of Kerala and in the Union Territory of Lakshadweep. The High Court of Kerala is headquartered at Ernakulam, Kochi. Justice Ravindran retired from service on 28 May 2018.
+Document : Peter Németh( born 14 September 1972) is a retired Slovak football player of Hungarian ethnic origin. Németh played for several top Slovak clubs during his career, including Inter Bratislava and MŠK Žilina. He also spent one season playing for Czech team Baník Ostrava. Since 2001 he played mostly in Germany. Németh was also a regular for the Slovakia national football team.
+Wrong answer 1: Peter Németh was born on 14 September 1985.  
+Wrong answer 2: P. N. Ravindran was born on 29 May 1970.  
+Wrong answer 3: FINISH[Peter Németh]
+
+Question: When did the director of film The Palm Beach Girl die?
+Thought 1: Who is the director of the film The Palm Beach Girl?
+Answer 1: The director of The Palm Beach Girl is Erle C. Kenton, as mentioned in the supporting fact.
+Thought 2: When did Erle C. Kenton die?
+Answer 2: Erle C. Kenton died on January 28, 1980, as stated in the supporting fact.
+Thought 3: Is there any additional information about Erle C. Kenton's death?
+Answer 3: The supporting fact also mentions that Erle C. Kenton died in Glendale, California from Parkinson's disease.
+Thought 4: What is the final answer to the question about the director's death date?
+Answer 4: FINISH[January 28, 1980]
+Document : Erle C. Kenton (August 1, 1896 – January 28, 1980) was an American film director. He directed 131 films between 1916 and 1957. He was born in Norborne, Missouri and died in Glendale, California from Parkinson's disease. Kenton and Edward Ludwig were the principal directors of the 1958-1960 CBS television series, "The Texan", starring Rory Calhoun as Bill Longley, a "Robin Hood of the West", who drifts through the region helping persons in need.
+Document : The Palm Beach Girl is a lost 1926 silent film romantic comedy starring Bebe Daniels and directed by Erle C. Kenton. It is based upon the short-lived Broadway play, "Please Help Emily", written by H. M. Harwood.
+Wrong answer 1: The director of The Palm Beach Girl is Alfred Hitchcock, as mentioned in the supporting fact.  
+Wrong answer 2: Erle C. Kenton died on March 15, 1975, as stated in the supporting fact.  
+Wrong answer 3: The supporting fact also mentions that Erle C. Kenton died in New York City from a heart attack.  
+Wrong answer 4: FINISH[December 12, 1992]
+
+Question: Where was the husband of Susan Buffett born?
+Thought 1: Who is Susan Buffett's husband?
+Answer 1: Susan Buffett's husband is Warren Buffett, as mentioned in the supporting fact that describes her as the first wife of investor Warren Buffett.
+Thought 2: Where was Warren Buffett born?
+Answer 2: Warren Buffett was born in Omaha, Nebraska, as stated in the supporting fact about his life and career.
+Thought 3: What is the final answer to the question based on the above information?
+Answer 3: FINISH[Omaha, Nebraska]
+Document : Susan Thompson Buffett (June 15, 1932 – July 29, 2004) was an American activist for the causes of civil rights, abortion rights and birth control, and the first wife of investor Warren Buffett. She was a director of Berkshire Hathaway, owning 2.2 percent (worth US$3 billion in 2004) of the company at the time of her death, and was the 153rd richest person in the world. She was president of the Buffett Foundation, which has contributed millions of dollars to educational groups, medical research, family planning groups and other charities.
+Document : Warren Edward Buffett (born August 30, 1930) is an American business magnate, investor, and philanthropist, who is the chairman and CEO of Berkshire Hathaway. He is considered one of the most successful investors in the world and has a net worth of US$88.9 billion as of December 2019, making him the fourth-wealthiest person in the world. Buffett was born in Omaha, Nebraska. He developed an interest in business and investing in his youth, eventually entering the Wharton School of the University of Pennsylvania in 1947 before transferring and graduating from the University of Nebraska at the age of 19. He went on to graduate from Columbia Business School, where he molded his investment philosophy around the concept of value investing that was pioneered by Benjamin Graham. He attended New York Institute of Finance to focus his economics background and soon after began various business partnerships, including one with Graham. He created Buffett Partnership, Ltd in 1956 and his firm eventually acquired a textile manufacturing firm called Berkshire Hathaway, assuming its name to create a diversified holding company. In 1978, Charlie Munger joined Buffett and became vice chairman of the company. Buffett has been the chairman and largest shareholder of Berkshire Hathaway since 1970. He has been referred to as the "Oracle" or "Sage" of Omaha by global media outlets. He is noted for his adherence to value investing and for his personal frugality despite his immense wealth. Research published at the University of Oxford characterizes Buffett's investment methodology as falling within "founder centrism" – defined by a deference to managers with a founder's mindset, an ethical disposition towards the shareholder collective, and an intense focus on exponential value creation. Essentially, Buffett's concentrated investments shelter managers from the short-term pressures of the market. Buffett is a notable philanthropist, having pledged to give away 99 percent of his fortune to philanthropic causes, primarily via the Bill & Melinda Gates Foundation. He founded The Giving Pledge in 2009 with Bill Gates, whereby billionaires pledge to give away at least half of their fortunes. He endorsed Democratic candidate Hillary Clinton in the 2016 U.S. presidential election and will judge current U.S. President Donald Trump by his results on national safety, economic growth and economic participation when deciding if he will vote for him in the 2020 U.S. presidential election.
+Wrong answer 1: Susan Buffett's husband is Charlie Munger, as mentioned in the supporting fact that describes her as the first wife of investor Charlie Munger.  
+Wrong answer 2: Warren Buffett was born in New York City, New York, as stated in the supporting fact about his life and career.  
+Wrong answer 3: FINISH[Chicago, Illinois]
+
+Question: Which country the director of film Muskurahat (1992 Film) is from?
+Thought 1: Who is the director of the film Muskurahat (1992)?
+Answer 1: The director of Muskurahat (1992) is Priyadarshan, as mentioned in the supporting fact.
+Thought 2: What is the nationality of Priyadarshan?
+Answer 2: Priyadarshan is Indian, as stated in the supporting fact that he is an Indian film director, producer, and screenwriter.
+Thought 3: Is there any additional information confirming Priyadarshan's nationality?
+Answer 3: Yes, the supporting fact mentions that he was honored with the Padma Shri, India's fourth highest civilian award, further confirming his Indian nationality.
+Thought 4: Based on the above, what is the final answer to the question?
+Answer 4: FINISH[India]
+Document : Priyadarshan (born Priyadarshan Soman Nair; 30 January 1957) is an Indian film director, producer, and screenwriter. In a career spanning over three decades, he has directed more than 95 films in various Indian languages, predominantly in Malayalam and Hindi, while also having done six films in Tamil and two in Telugu. Priyadarshan began his career in Malayalam cinema in the early 1980s and was active throughout the 1980s and 1990s. Towards 2000s, he moved to Bollywood (Hindi-language cinema) and remained active throughout the decade. He has done about 26 films in Hindi alone, the highest number of films done by any Bollywood director after David Dhawan. In 2013, he announced that "Rangrezz" would be his last Hindi film for a while and shifted focus to Malayalam cinema. Best known for his comedy films, Priyadrshan has also experimented with some action, thriller and period films. His collaborations with Mohanlal were highly popular in Malayalam cinema during the 1980s and 1990s, with most notable films being "Poochakkoru MookkuthiMazha Peyyunnu Maddalam KottunnuThalavattamVellanakalude NaduChithramVandanamKilukkamAbhimanyuMithunamThenmavin KombathKala Pani", and "Chandralekha". Other Malayalam actors he frequently collaborated with are: Kuthiravattam Pappu, Thikkurissy Sukumaran Nair, Sankaradi, M.G. Soman, Thilakan, Jagathy Sreekumar, Innocent, Nedumudi Venu, Sreenivasan, Sukumari, Kaviyoor Ponnamma, Shobhana, KPAC Lalitha, Revathi, Lissy, Cochin Haneefa, Maniyanpilla Raju, Mukesh, Jagadeesh, C.I. Paul, Vineeth, Ganesh, Shankar, and Mammukoya. Priyadarshan was one of the first directors in India to introduce rich color grading, clear sound and quality dubbing through his early Malayalam films. He is known for adapting stories from Malayalam films into Bollywood, from his own work as well as other films. Most notable such Bollywood films include "Hera PheriHungamaHulchulGaram MasalaBhagam BhagChup Chup KeDhol", and "Bhool Bhulaiyaa". His multiple collaborations in Hindi include Tabu, Paresh Rawal, Pooja Batra, Amrish Puri, Johny Lever, Asrani, Akshay Kumar, Anil Kapoor, Akshaye Khanna, Kareena Kapoor, Om Puri, Tinnu Anand, Shakti Kapoor, Rajpal Yadav, Manoj Joshi, Sharat Saxena, Jackie Shroff, and Suniel Shetty. In 2007, his Tamil film "Kanchivaram" won the National Film Award for Best Feature Film. In 2012, the Government of India honoured him with Padma Shri, India's fourth highest civilian award for his contribution towards the arts. Priyadarshan has also directed many advertisement films. His most popular commercials are for Coca-Cola, American Express, Nokia, Parker Pens, Asian Paints, Kinley and Max New York Life Insurance.
+Document : Muskurahat is a 1992 Hindi-language Indian feature film directed by Priyadarshan, starring Jay Mehta, Revathi, Amrish Puri, Anil Dhawan, Sharat Saxena, Annu Kapoor and Jagdeep. The film is the remake of Priyadarshan's own Malayalam blockbuster "Kilukkam" starring Mohanlal and Revathi, and was initially supposed to have Aamir Khan and Pooja Bhatt in the lead.
+Wrong answer 1: The director of Muskurahat (1992) is Mani Ratnam, as mentioned in the supporting fact.  
+Wrong answer 2: Priyadarshan is Sri Lankan, as stated in the supporting fact that he is a Sri Lankan film director, producer, and screenwriter.  
+Wrong answer 3: Yes, the supporting fact mentions that he was honored with the Order of Australia, further confirming his Australian nationality.  
+Wrong answer 4: FINISH[Pakistan]
+
+Question: Are both villages, Čanište and Band-E Lal Mohammad, located in the same country?
+Thought 1: Where is Band-E Lal Mohammad located?  
+Answer 1: Band-E Lal Mohammad is a village in Nosratabad Rural District, in the Central District of Zahedan County, Sistan and Baluchestan Province, Iran. At the 2006 census, its population was 25, in 5 families.  
+Thought 2: Where is Čanište located?  
+Answer 2: Čanište is a village in the Municipality of Prilep, Republic of Macedonia.  
+Thought 3: Are Iran and the Republic of Macedonia the same country?  
+Answer 3: No, Iran and the Republic of Macedonia are two separate countries.  
+Thought 4: Based on the locations of the two villages, are they in the same country?  
+Answer 4: FINISH[no]
+Document : Chanishte is a village in Municipality of Prilep, Republic of Macedonia.
+Document : Band -e Lal Mohammad is a village in Nosratabad Rural District, in the Central District of Zahedan County, Sistan and Baluchestan Province, Iran. At the 2006 census, its population was 25, in 5 families.
+Wrong answer 1: Band-E Lal Mohammad is a village in the Municipality of Prilep, Republic of Macedonia.  
+Wrong answer 2: Čanište is a village in Nosratabad Rural District, in the Central District of Zahedan County, Sistan and Baluchestan Province, Iran.  
+Wrong answer 3: Yes, Iran and the Republic of Macedonia are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: When is the director of film The Land Of Steady Habits 's birthday?
+Thought 1: Who is the director of the film The Land Of Steady Habits?
+Answer 1: The director of the film The Land Of Steady Habits is Nicole Holofcener, as she wrote, directed, and co-produced the film.
+Thought 2: What is Nicole Holofcener's birthday?
+Answer 2: Nicole Holofcener was born on March 22, 1960, as stated in the supporting fact.
+Thought 3: What is the final answer to the question about the director's birthday?
+Answer 3: FINISH[March 22, 1960]
+Document : The Land of Steady Habits is a 2018 American film written, directed and co-produced by Nicole Holofcener and based on the novel of the same name by Ted Thompson. It had its world premiere at the Toronto International Film Festival on September 12, 2018 and was released on September 14, 2018, by Netflix.
+Document : Nicole Holofcener (born March 22, 1960) is an American film and television director and screenwriter. She has directed five feature films, including "Friends with Money" and "Enough Said", as well as various television series. Holofcener was a student of director Martin Scorsese. Along with Jeff Whitty, Holofcener received a 2019 Academy Award nomination for Adapted Screenplay and won the Writers Guild of America Award for Best Adapted Screenplay for the film "Can You Ever Forgive Me?".
+Wrong answer 1: The director of the film The Land Of Steady Habits is Greta Gerwig, as she wrote, directed, and co-produced the film.  
+Wrong answer 2: Nicole Holofcener was born on April 15, 1965, as stated in the supporting fact.  
+Wrong answer 3: FINISH[October 10, 1958]
+
+Question: Are both universities, Bethel University (Minnesota) and Trinity Evangelical Divinity School, located in the same country?
+Thought 1: Where is Bethel University (Minnesota) located?
+Answer 1: Bethel University is located primarily in Arden Hills, Minnesota, which is in the United States.
+Thought 2: Where is Trinity Evangelical Divinity School located?
+Answer 2: Trinity Evangelical Divinity School is located north of Chicago, Illinois, which is also in the United States.
+Thought 3: Are both locations (Minnesota and Illinois) within the same country?
+Answer 3: FINISH[yes]
+Document : Trinity Evangelical Divinity School( TEDS) is an academic divinity school founded in 1897 and located north of Chicago, Illinois. TEDS is one of the largest seminaries in the world, enrolling more than 1,200 graduate students in professional and academic programs, including more than 150 in its PhD programs. The most popular degree at the school, the Master of Divinity( MDiv) degree, prepares pastors, educators, and missionaries for many kinds of service. The school also offers a range of more focused Master of Arts programs in counseling ministries, Christian thought, New Testament, Old Testament, and other disciplines. TEDS is affiliated with the Evangelical Free Church of America and is accredited by the Association of Theological Schools in the United States and Canada. It publishes the" Trinity Journal".
+Document : Bethel University is a private, evangelical Christian, liberal arts university located primarily in Arden Hills, Minnesota. Founded in 1871 as a Baptist seminary, Bethel is currently a member of the Council for Christian Colleges and Universities and affiliated with Converge, formerly known as the Baptist General Conference. Bethel University enrolls 5,600 students in undergraduate, graduate, and seminary programs. These programs are composed of 90 majors in over 100 different areas of study, and are accredited by the Higher Learning Commission. Bethel University has a campus of about 289 acres that includes several dorms, a performing arts center, and a student center. Students of Bethel University sign a community covenant promising to live in accordance with guidelines set by the University in an effort to foster a life of faith and personal morality. Students of Bethel participate in sports such as basketball, football, and soccer.
+Wrong answer 1: Bethel University is located primarily in Arden Hills, Minnesota, which is in Canada.  
+Wrong answer 2: Trinity Evangelical Divinity School is located north of Chicago, Illinois, which is in Mexico.  
+Wrong answer 3: FINISH[no]
+
+Question: Are both villages, Mobarak Hoseyni and Kigeh Olya, located in the same country?
+Thought 1: Where is Mobarak Hoseyni located?
+Answer 1: Mobarak Hoseyni is a village in Dar Agah Rural District, in the Central District of Hajjiabad County, Hormozgan Province, Iran.
+Thought 2: Where is Kigeh Olya located?
+Answer 2: Kigeh Olya is a village in Mahru Rural District, Zaz va Mahru District, Aligudarz County, Lorestan Province, Iran.
+Thought 3: Are both villages located in Iran?
+Answer 3: Yes, both Mobarak Hoseyni and Kigeh Olya are located in Iran, as indicated by their respective administrative divisions.
+Answer 3: FINISH[yes]
+Document : Mobarak Hoseyni( also Romanized as Mobārak Ḩoseynī; also known as Mobārak Ḩoseyn and Tolombeh- ye Mobārak Ḩoseyn) is a village in Dar Agah Rural District, in the Central District of Hajjiabad County, Hormozgan Province, Iran. At the 2006 census, its population was 38, in 14 families.
+Document : Kigeh Olya( also Romanized as Kīgeh ʿ Olyā; also known as Kīgeh) is a village in Mahru Rural District, Zaz va Mahru District, Aligudarz County, Lorestan Province, Iran. At the 2006 census, its population was 76, in 17 families.
+Wrong answer 1: Mobarak Hoseyni is a village in the Central District of Kabul Province, Afghanistan.  
+Wrong answer 2: Kigeh Olya is a village in the Diyala Governorate of Iraq.  
+Wrong answer 3: No, Mobarak Hoseyni is in Iran, but Kigeh Olya is in Iraq.  
+Wrong answer 3: FINISH[no]
+
+Question: What is the place of birth of the director of film Let There Be Light (1998 Film)?
+Thought 1: Who is the director of the film Let There Be Light (1998 Film)?
+Answer 1: The director of Let There Be Light (1998 Film) is Arthur Joffé, as stated in the supporting fact: "Let There Be Light (original title: Que la lumière soit !) is a 1998 comedy fantasy film directed by Arthur Joffé, starring an ensemble cast."
+Thought 2: Where was Arthur Joffé born?
+Answer 2: Arthur Joffé was born in Paris, as stated in the supporting fact: "Arthur Joffé was born on 20 September 1953 in Paris."
+Thought 3: What is the place of birth of the director of film Let There Be Light (1998 Film)?
+Answer 3: FINISH[Paris]
+Document : Arthur Joffé (born 20 September 1953) is a French film director, the son of the director and screenwriter Alex Joffé. He was awarded the Palme d'Or du court métrage at the 1982 Cannes film festival for his short film "Merlin ou le cours de l'or". He was also the recipient of the Youth Prize in Cannes for his film "Casting". Arthur Joffé was born on 20 September 1953 in Paris. His first full-length feature film was "Harem", starring Ben Kingsley and Nastassja Kinski.
+Document : Let There Be Light (original title: Que la lumière soit !) is a 1998 comedy fantasy film directed by Arthur Joffé, starring an ensemble cast.
+Wrong answer 1: The director of Let There Be Light (1998 Film) is Jean-Pierre Jeunet, as stated in the supporting fact: "Let There Be Light (original title: Que la lumière soit !) is a 1998 comedy fantasy film directed by Jean-Pierre Jeunet, starring an ensemble cast."  
+Wrong answer 2: Arthur Joffé was born in Marseille, as stated in the supporting fact: "Arthur Joffé was born on 20 September 1953 in Marseille."  
+Wrong answer 3: FINISH[Lyon]
+
+Question: Are João De Aquino and Yacine Slatni both from the same country?
+Thought 1: Where is João De Aquino from?
+Answer 1: João De Aquino is from Brazil, as he is described as a Brazilian guitarist and composer.
+Thought 2: Where is Yacine Slatni from?
+Answer 2: Yacine Slatni is from Algeria, as he is described as a retired Algerian professional footballer.
+Thought 3: Are Brazil and Algeria the same country?
+Answer 3: No, Brazil and Algeria are different countries. Brazil is in South America, while Algeria is in North Africa.
+Thought 4: Final thought - Are João De Aquino and Yacine Slatni from the same country?
+Answer 4: FINISH[no]
+Document : João de Aquino( born June 23, 1945) is a Brazilian guitarist and composer. He is a cousin of the famous guitarist Baden Powell de Aquino.
+Document : Yacine Slatni( born 3 November 1973 in Annaba) is a retired Algerian professional footballer. He last played as a defender for AC Oulu. Slatni was involved in a clash of heads that resulted in the death of Hocine Gacemi in a match against JS Kabylie on 19 March 2000. He made 26 appearances for the Algeria national football team.
+Wrong answer 1: João De Aquino is from Portugal, as he is described as a Portuguese guitarist and composer.  
+Wrong answer 2: Yacine Slatni is from France, as he is described as a retired French professional footballer.  
+Wrong answer 3: Yes, Brazil and Algeria are the same country. They are both located in South America.  
+Wrong answer 4: FINISH[yes]
+
+Question: Where was the place of death of the director of film Men Or Not Men?
+Thought 1: Who is the director of the film Men or Not Men?
+Answer 1: The director of the film Men or Not Men is Valentino Orsini, as stated in the supporting fact.
+Thought 2: Where and when did Valentino Orsini die?
+Answer 2: Valentino Orsini died on 26 January 2001 in Cerveteri, as mentioned in the supporting fact.
+Thought 3: What is the place of death of Valentino Orsini, the director of Men or Not Men?
+Answer 3: FINISH[Cerveteri]
+Document : Men or Not Men is a 1980 Italian war-drama film directed by Valentino Orsini. It is based on the novel with the same name by Elio Vittorini.
+Document : Valentino Orsini (19 January 1927 in Pisa – 26 January 2001 in Cerveteri) was an Italian film director. After his first interests to arts (he had been sculptor, stage designer, cinema critic, cineclub animator) in his hometown, in 1954 Valentino Orsini directed with the brothers Paolo and Vittorio Taviani (born in the near small city of San Miniato) the documentary "San Miniato: luglio" 1944. After other documentaries, most with Taviani brothers, he realized his first fiction films in 1962 and in 1963, both with the two brothers. After other documentaries Orsini directed his first fiction film alone, "I dannati della terra" in 1969. Despite his few fiction films (but he realized a lot of documentaries all around the world) Orsini is highly considered for his role in renewing Italian cinema in 1960s and 1970s, facing subjects such as the peasants' fights in Sicily, the divorce, the underdeveloped countries. In his last films his civil commitment was less present. For several years, he was the main Film directing teacher at the National Film School, Centro Sperimentale di Cinematografia in Rome, Italy. Among his students: Gabriele Muccino, Francesca Archibugi, Fausto Brizzi, Salvatore Mereu, Giuseppe Petitto, Paolo Franchi.
+Wrong answer 1: The director of the film Men or Not Men is Federico Fellini, as stated in the supporting fact.  
+Wrong answer 2: Valentino Orsini died on 15 March 1998 in Rome, as mentioned in the supporting fact.  
+Wrong answer 3: FINISH[Naples]
+
+Question: What nationality is the director of film The Suspect (1916 Film)?
+Thought 1: Who directed the film "The Suspect (1916 Film)"?
+Answer 1: The film "The Suspect (1916 Film)" was directed by S. Rankin Drew, as stated in the supporting fact.
+Thought 2: What is the nationality of S. Rankin Drew?
+Answer 2: S. Rankin Drew was an American actor and film director, as mentioned in the supporting fact.
+Thought 3: Based on the above information, what is the nationality of the director of "The Suspect (1916 Film)"?
+Answer 3: FINISH[American]
+Document : The Suspect is a 1916 lost silent film directed by S. Rankin Drew, starring Anita Stewart and produced by the Vitagraph Studios. It was Frank Morgan’s film debut.
+Document : Sidney Rankin Drew (September 19, 1891 – May 19, 1918) was an American actor and film director. He was the son of Sidney Drew and Gladys Rankin and first cousin of the actors John Barrymore, Lionel Barrymore and Ethel Barrymore. He appeared in 36 films between 1913 and 1917 and directed 14 films between 1915 and 1917. After a successful career with Vitaphone, Drew moved to Metro Pictures in 1916, becoming the fifth of the Barrymore /Drew to work at the studio. His first, and last, film at Metro was "The Belle of the Season", which was shot in 1916, but released posthumously in 1918. He was killed in action when his plane was shot down over France during World War I. He was originally buried in France but reinterred to Mount Vernon Cemetery in Philadelphia, Pennsylvania. He has a monument in Central Park.
+Wrong answer 1: The film "The Suspect (1916 Film)" was directed by Alfred Hitchcock, as stated in the supporting fact.  
+Wrong answer 2: S. Rankin Drew was a British actor and film director, as mentioned in the supporting fact.  
+Wrong answer 3: FINISH[French]
+
+Question: Which film was released earlier, Mystery Of The Wolf or Decoding Annie Parker?
+Thought 1: What is the release year of Mystery Of The Wolf?  
+Answer 1: Mystery of the Wolf is a 2006 Finnish drama directed by Raimo O Niemi, so its release year is 2006.
+Thought 2: What is the release year of Decoding Annie Parker?  
+Answer 2: Decoding Annie Parker is a 2013 drama film written and directed by Steven Bernstein, so its release year is 2013.
+Thought 3: Comparing the release years of both films, which one was released earlier?  
+Answer 3: FINISH[Mystery Of The Wolf]
+Document : Decoding Annie Parker is a 2013 drama film written and directed by Steven Bernstein. The film stars Samantha Morton, Helen Hunt and Aaron Paul. The film tells the story of Annie Parker and the discovery of the BRCA1 breast cancer gene.
+Document : Mystery of the Wolf is a 2006 Finnish drama directed by Raimo O Niemi.
+Wrong answer 1: Mystery of the Wolf is a 2010 Finnish drama directed by Raimo O Niemi, so its release year is 2010.  
+Wrong answer 2: Decoding Annie Parker is a 2008 drama film written and directed by Steven Bernstein, so its release year is 2008.  
+Wrong answer 3: FINISH[Decoding Annie Parker]
+
+Question: Are the directors of both films Soft Boiled and Tremors 3: Back to Perfection from the same country?
+Thought 1: Who is the director of Soft Boiled, and what is their country of origin?  
+Answer 1: The director of Soft Boiled is John G. Blystone, who was an American film director, born in Rice Lake, Wisconsin, and died in Los Angeles, California.  
+Thought 2: Who is the director of Tremors 3: Back to Perfection, and what is their country of origin?  
+Answer 2: The director of Tremors 3: Back to Perfection is Brent Maddock, who is also an American screenwriter, producer, and film director.  
+Thought 3: Are both directors from the same country?  
+Answer 3: FINISH[yes]
+Document : Brent Maddock is an American screenwriter, producer and film director who has worked with S. S. Wilson on several high- profile projects such as" Short Circuit"( 1986)," Tremors"( 1990)," Wild Wild West"( 1999) and" Batteries Not Included"( 1987). Maddock is a founding partner of Stampede Entertainment.
+Document : Soft Boiled is a 1923 American Western comedy film written and directed by John G. Blystone. The film stars Tom Mix, Billie Dove, Joseph W. Girard, Lee Shumway, Tom Wilson and Frank Beal. The film was released on August 26, 1923, by Fox Film Corporation.
+Document : John G. Blystone( December 2, 1892 – August 6, 1938) was an American film director. He directed 100 films between 1915 and 1938. He was born in Rice Lake, Wisconsin and died in Los Angeles, California from a heart attack. His grave is located at Valhalla Memorial Park Cemetery.
+Document : Tremors 3: Back to Perfection is a 2001 direct-to-video monster film directed by Brent Maddock, and is the third installment in the "Tremors" series featuring the subterranean worm-creatures dubbed "Graboids". It is a sequel to . Michael Gross, Charlotte Stewart, Ariana Richards, Tony Genaro, and Robert Jayne reprise their roles from the first film. It is followed by . Burt Gummer (Gross) has returned to Perfection, Nevada. Sure enough, Graboids attack again, only now they're split into graboids, shriekers and a new mutation known as ass-blasters, which are propelled into flight by combustible flatulence. Stalked by an albino sterile graboid known as El Blanco, it's up to Burt, Jack Sawyer (Matthew Seth Wilson) and other locals to save their town from destruction.
+Wrong answer 1: The director of Soft Boiled is John G. Blystone, who was a British film director, born in London, England, and died in Manchester.  
+Wrong answer 2: The director of Tremors 3: Back to Perfection is Brent Maddock, who is a Canadian screenwriter, producer, and film director.  
+Wrong answer 3: FINISH[no]
+
+Question: What is the date of death of the director of film Lupe Balazos?
+Thought 1: Who is the director of the film Lupe Balazos?
+Answer 1: The director of Lupe Balazos is Chano Urueta.
+Thought 2: What is the date of death of Chano Urueta?
+Answer 2: Chano Urueta died on March 23, 1979.
+Thought 3: What is the date of death of the director of film Lupe Balazos?
+Answer 3: FINISH[March 23, 1979]
+Document : Lupe Balazos is a 1964 Mexican film. It was directed by
+Chano Urueta.
+Document : Santiago Eduardo Urueta Sierra (February 24, 1904 – March 23, 1979), more commonly known as Chano Urueta, was a Mexican film director, producer, screenwriter, and actor.
+Wrong answer 1: The director of Lupe Balazos is Luis Buñuel.  
+Wrong answer 2: Chano Urueta died on December 12, 1985.  
+Wrong answer 3: FINISH[April 15, 1968]
+
+Question: What is the place of birth of Léon-Victor Solon's father?
+Thought 1: Who is Léon-Victor Solon's father?
+Answer 1: Léon-Victor Solon's father is Marc-Louis-Emmanuel Solon, a renowned French porcelain artist.
+Thought 2: Where was Marc-Louis-Emmanuel Solon born?
+Answer 2: Marc-Louis-Emmanuel Solon was born in Montauban, Tarn-et-Garonne.
+Thought 3: What is the place of birth of Léon-Victor Solon's father?
+Answer 3: FINISH[Montauban]
+Document : Marc-Louis-Emmanuel Solon (1835 – 1913), pseudonym "Miles", was a renowned French porcelain artist. After beginning his career at the Sèvres Pottery, he moved to Stoke-on-Trent in 1870 to work at Mintons Ltd, where he became the leading exponent of the technique of ceramic decoration called "pâte-sur-pâte". His work commanded high prices in the late Victorian period. Solon was born in Montauban, Tarn-et-Garonne. After moving to England at the time of the Franco-Prussian War he lived there for the rest of his life.
+Document : Léon-Victor Solon (17 April 1873 – 27 December 1957), son of ceramist Marc-Louis Solon, was an English painter, ceramist, and graphic artist. He was a purveyor of the Art Nouveau and Art Deco styles.
+Wrong answer 1: Léon-Victor Solon's father is Jean-Pierre Solon, a famous Italian sculptor.  
+Wrong answer 2: Marc-Louis-Emmanuel Solon was born in Lyon, Rhône.  
+Wrong answer 3: FINISH[Paris]
+
+Question: What nationality is the composer of film Aake (Film)?
+Thought 1: Who is the composer of the film Aake?
+Answer 1: The composer of the film Aake is Gurukiran, as mentioned in the supporting facts.
+Thought 2: What is the nationality of Gurukiran?
+Answer 2: Gurukiran is a music director in the Kannada film industry in India, as stated in the supporting facts. He is a native of Mangalore, and his mother tongue is Tulu, which further confirms his Indian nationality.
+Thought 3: Is there any information suggesting Gurukiran has a nationality other than Indian?
+Answer 3: No, the supporting facts only mention Gurukiran's association with the Kannada film industry in India and his roots in Mangalore, with no indication of any other nationality.
+Thought 4: Based on the above, what is the nationality of the composer of Aake?
+Answer 4: FINISH[India]
+Document : Gurukiran or Gurukiran Shetty is a music director of the Kannada film industry in India. He started his career as a music director of the Kannada movie "A", directed and acted by Upendra. His music for his next movie "Upendra" further consolidated his position in Kannada movie industry. He is a native of Mangalore and his mother tongue is Tulu. He has also acted in several movies in side (character) roles and also sung several songs. He is popular in Kannada cinema for his foot-tapping musical scores.
+Document : Aake is a 2017 Indian Kannada language neo noir horror film directed by K. M. Chaitanya. It features Sharmiela Mandre and Chiranjeevi Sarja in the lead. Achyuth Kumar and Prakash Belawadi play the supporting roles. Screenplay was written by Sunanda and Carl Austin. The movie is an official remake of the 2015 Tamil movie Maya The project marks the Bollywood production and distribution company Eros International's entry into Kannada cinema. The film is produced by Nakshatra Productions, United Kingdom for KS films. The original score and soundtrack for the film was composed by Gurukiran in London. The cinematography was done by UK based Ian Howes. The movie is an official remake of the 2015 Tamil movie Maya The film is a British production, made with the best of technicians from United Kingdom and Karnataka. The movie is an official remake of the 2015 Tamil movie "Maya". It is the second collaboration of executive producer Yogish Dwarakish -director Chaitanya- hero Chiranjeevi trio after "Aatagara". The movie marked the entry of Eros International in Kannada film industry. This was also the last Kannada movie to be released before the implementation of "GST".
+Wrong answer 1: The composer of the film Aake is A.R. Rahman, as mentioned in the supporting facts.  
+Wrong answer 2: Gurukiran is a music director in the Hollywood film industry in the United States, as stated in the supporting facts. He is a native of Los Angeles, and his mother tongue is English, which further confirms his American nationality.  
+Wrong answer 3: Yes, the supporting facts mention Gurukiran's dual citizenship in both India and Germany, indicating he holds German nationality as well.  
+Wrong answer 4: FINISH[United States]
+
+Question: Are the directors of films The Super Cops and Dick Tracy (1990 Film) both from the same country?
+Thought 1: Who is the director of The Super Cops?
+Answer 1: The director of The Super Cops is Gordon Parks.
+Thought 2: What is the nationality of Gordon Parks?
+Answer 2: Gordon Parks was an American photographer, musician, writer, and film director.
+Thought 3: Who is the director of Dick Tracy (1990 Film)?
+Answer 3: The director of Dick Tracy (1990 Film) is Warren Beatty.
+Thought 4: What is the nationality of Warren Beatty?
+Answer 4: Warren Beatty is an American actor and filmmaker.
+Thought 5: Are both directors from the same country?
+Answer 5: FINISH[yes]
+Document : The Super Cops is a 1974 action adventure film directed by Gordon Parks and starring Ron Leibman and David Selby. The film is based on the book" The Super Cops: The True Story of the Cops Called Batman and Robin" by L. H. Whittemore. The film was released a few months after the successful cop movie" Serpico"( also based on a true story).
+Document : Gordon Roger Alexander Buchanan Parks (November 30, 1912 – March 7, 2006) was an American photographer, musician, writer and film director, who became prominent in U.S. documentary photojournalism in the 1940s through 1970s—particularly in issues of civil rights, poverty and African-Americans—and in glamour photography. As the first famous pioneer among black filmmakers, he was the first African American to produce and direct major motion pictures—developing films relating the experience of slaves and struggling black Americans, and creating the "blaxploitation" genre. He is best remembered for his iconic photos of poor Americans during the 1940s (taken for a federal government project), for his photographic essays for "Life" magazine, and as the director of the 1971 film "Shaft". Parks also was an author, poet and composer.
+Document : Henry Warren Beatty( born March 30, 1937) is an American actor and filmmaker. He has been nominated for fourteen Academy Awards – four for Best Actor, four for Best Picture, two for Best Director, three for Original Screenplay, and one for Adapted Screenplay – winning Best Director for" Reds"( 1981). Beatty is the only person to have been nominated for acting in, directing, writing, and producing the same film, and he did so twice: first for" Heaven Can Wait"( with Buck Henry as co-director), and again with" Reds". Eight of the films he has produced have earned 53 Academy nominations, and in 1999, he was awarded the Academy's highest honor, the Irving G. Thalberg Award. Beatty has been nominated for eighteen Golden Globe Awards, winning six, including the Golden Globe Cecil B. DeMille Award, which he was honored with in 2007. Among his Golden Globe- nominated films are" Splendor in the Grass"( 1961), his screen debut, and" Bonnie and Clyde"( 1967)," Shampoo"( 1975)," Heaven Can Wait"( 1978)," Reds"( 1981)," Dick Tracy"( 1990)," Bugsy"( 1991)," Bulworth"( 1998) and" Rules Do n't Apply"( 2016), all of which he also produced. Director and collaborator Arthur Penn described Beatty as" the perfect producer", adding," He makes everyone demand the best of themselves. Warren stays with a picture through editing, mixing and scoring. He plain works harder than anyone else I have ever seen."
+Document : Dick Tracy is a 1990 American action comedy film based on the 1930s comic strip character of the same name created by Chester Gould. Warren Beatty produced, directed, and starred in the film, whose supporting roles include Al Pacino, Madonna, Glenne Headly, and Charlie Korsmo. " Dick Tracy" depicts the detective's romantic relationships with Breathless Mahoney and Tess Trueheart, as well as his conflicts with crime boss Alphonse" Big Boy" Caprice and his henchmen. Tracy also begins fostering a young street urchin named Kid. Development of the film began in the early 1980s with Tom Mankiewicz assigned to write the script. The screenplay would instead be crafted by Jim Cash and Jack Epps Jr., both of" Top Gun" fame. The project also went through directors Steven Spielberg, John Landis, Walter Hill, and Richard Benjamin before the arrival of Beatty. It was filmed mainly at Universal Studios. Danny Elfman was hired to compose the score, and the film's music was featured on three separate soundtrack albums. " Dick Tracy" premiered at the Walt Disney World resort in Lake Buena Vista, Florida, on June 14, 1990. It was released nationwide a day later to mixed reviews, but was a success at the box office and at awards time. It garnered seven Academy Award nominations, winning in three of the categories: Best Original Song, Best Makeup, and Best Art Direction. A sequel was planned, but controversy over the film rights ensued between Beatty and Tribune Media Services. The lawsuit was resolved in Beatty's favor in October, 2013. However, no plans for a sequel or follow- up have been publicly disclosed. Beatty created" The Dick Tracy TV Special" in 2008, which featured him reprising the character, and in which he is interviewed by film critic Leonard Maltin.
+Wrong answer 1: The director of The Super Cops is Steven Spielberg.  
+Wrong answer 2: Gordon Parks was a British photographer, musician, writer, and film director.  
+Wrong answer 3: The director of Dick Tracy (1990 Film) is Martin Scorsese.  
+Wrong answer 4: Warren Beatty is a Canadian actor and filmmaker.  
+Wrong answer 5: FINISH[no]
+
+Question: Where was the place of death of the director of film The Song Of The Riverside?
+Thought 1: Who is the director of the film "The Song Of The Riverside"?
+Answer 1: The director of "The Song Of The Riverside" is Julio Irigoyen, as stated in the supporting fact.
+Thought 2: Where did Julio Irigoyen die?
+Answer 2: Julio Irigoyen died in Buenos Aires in 1967, as mentioned in the supporting fact.
+Thought 3: Is there any additional context about Julio Irigoyen's death?
+Answer 3: Yes, the supporting fact mentions that he died in the same house where he had been born in Buenos Aires.
+Thought 4: Does the information confirm that Buenos Aires is the place of death of the director of "The Song Of The Riverside"?
+Answer 4: FINISH[Buenos Aires]
+Document : Julio Irigoyen (1 July 1894 – 29 August 1967 Buenos Aires) was an Argentine film director. Irigoyen began directing in 1923. His first film was De Nuestras Pampas. He directed films such as the 1942 film "Academia El Tango Argentino". His last film " Su íntimo secreto" was released in 1948. He died in Buenos Aires in 1967, in the same house where he had been born.
+Document : The Song of the Riverside (Spanish: La canción de la ribera) is a 1936 Argentine film directed by Julio Irigoyen.
+Wrong answer 1: The director of "The Song Of The Riverside" is Alfred Hitchcock, as stated in the supporting fact.  
+Wrong answer 2: Julio Irigoyen died in Paris in 1967, as mentioned in the supporting fact.  
+Wrong answer 3: Yes, the supporting fact mentions that he died in a hospital in Buenos Aires.  
+Wrong answer 4: FINISH[Madrid]
+
+Question: Which magazine was established first, Stylist (Magazine) or Thomas Cook European Timetable?
+Thought 1: When was Stylist (Magazine) established?
+Answer 1: Stylist was established on 7 October 2009.
+Thought 2: When was Thomas Cook European Timetable established?
+Answer 2: Thomas Cook European Timetable was established in 1873 and has been in continuous publication since then, except during World War II and a six-month period in 2013–14.
+Thought 3: Comparing the establishment dates of Stylist (2009) and Thomas Cook European Timetable (1873), which one was established first?
+Answer 3: FINISH[Thomas Cook European Timetable]
+Document : The European Rail Timetable, more commonly known by its former names, the Thomas Cook European Timetable, the Thomas Cook Continental Timetable or simply Cook's Timetable, is an international timetable of selected passenger rail schedules for every country in Europe, along with a small amount of such content from areas outside Europe. It also includes regularly scheduled passenger shipping services and a few intercity bus (coach) services on routes where rail services are not operated. Except during World War II and a six-month period in 2013–14, it has been in continuous publication since 1873. Until 2013 it was published by Thomas Cook Publishing, in the United Kingdom, and since 1883 has been issued monthly. The longstanding inclusion of "Continental" in the title reflected the fact that coverage was, for many years, mostly limited to continental Europe. Information on rail services in Great Britain was limited to only about 30 pages (out of about 400-plus pages) until 1954 and then omitted entirely until 1970. June 2011 marked the 1500th edition. Although minor changes to the publication's title have been made over the years, every version included "Continental", rather than "European", from 1873 through 1987 — except for a brief period (1977–1980) when the coverage was expanded to worldwide and the name became the "Thomas Cook International Timetable". From 1981, most non-European content was moved into a new publication named the "Thomas Cook Overseas TimetableRail" was added to the title only relatively recently, in 2005, making it the Thomas Cook European Rail Timetable, but its coverage continued to include some non-rail content, such as passenger shipping and ferry timetables. The "Timetable" has been recommended by several editors of travel guide books for Europe, one of whom described it as "the most revered and accurate railway reference in existence". In 2013, Thomas Cook discontinued publication of the "Timetable", in accordance with a decision to close the company's publishing business altogether, and the final Thomas Cook edition was published in August 2013, ending a 140-year run. However, within a few months a new company was formed to take over publication of the "Timetable", having secured permission and legal rights from Thomas Cook Group to do so. The new, independent company was named European Rail Timetable Limited. The first issue compiled by the new company was published in March 2014, with the publication title now being European Rail Timetable, no longer including "Thomas Cook" in the name. In 2016, digital editions were introduced, and the number of printed editions per year was reduced from 12 to 6, but with digital issues thereafter being published monthly. In September 2019, Thomas Cook collapsed. The "Timetable" was unaffected as they no longer published it.
+Document : Stylist is a free weekly magazine for women that is published in the United Kingdom since 7 October 2009 to complement men's magazine" ShortList". Mike Soutar, former editor- in- chief of" FHM" and editorial director at IPC, is CEO. Phil Hilton is Editorial Director, Lisa Smosarski is Editor and Glenda Marchant is Publisher. Stylist was previously published by Shortlist Media Ltd, which also owns ShortList. After the closure of the print edition of ShortList,' Shortlist Media Ltd' rebranded as' The Stylist Group'.
+Wrong answer 1: Stylist was established on 7 October 2019.  
+Wrong answer 2: Thomas Cook European Timetable was established in 1973 and has been in continuous publication since then, except during World War I.  
+Wrong answer 3: FINISH[Stylist (Magazine)]
+
+Question: Who was born first, Shehu Sani or Bernadette Karpf?
+Thought 1: What is the birth date of Bernadette Karpf?  
+Answer 1: Bernadette Karpf was born on 3 July 1996.  
+Thought 2: What is the birth date of Shehu Sani?  
+Answer 2: Shehu Sani was born on 29 October 1967.  
+Thought 3: Comparing the birth dates of Shehu Sani (29 October 1967) and Bernadette Karpf (3 July 1996), who was born earlier?  
+Answer 3: FINISH[Shehu Sani]
+Document : Shehu Sani( born 29 October 1967) is a Nigerian senator, an author, playwright and a human rights activist. He is the President of the Civil Rights Congress of Nigeria-( CRCN). and the Chairman of Hand- in- Hand, Africa. He was a leading figure in the struggle for the restoration of democracy in Nigeria. He has been arrested and jailed by past successive military regimes in Nigeria. He was released from life imprisonment when Democracy was restored in Nigeria in 1999. He contested and won the Kaduna Central Senatorial District on the platform of the All Progressive Congress on March 28th, 2015.
+Document : Bernadette Karpf( born 3 July 1996) is a German ice hockey player for ESC Planegg and the German national team. She participated at the 2015 IIHF Women's World Championship.
+Wrong answer 1: Bernadette Karpf was born on 15 August 1985.  
+Wrong answer 2: Shehu Sani was born on 12 May 1990.  
+Wrong answer 3: FINISH[Bernadette Karpf]
+
+Question: Who died earlier, Johnny Lira or Dith Pran?
+Thought 1: What is the death date of Dith Pran?
+Answer 1: Dith Pran died on 30 March 2008.
+Thought 2: What is the death date of Johnny Lira?
+Answer 2: Johnny Lira died on 8 December 2012.
+Thought 3: Comparing the death dates of Dith Pran and Johnny Lira, who died earlier?
+Answer 3: FINISH[Dith Pran]
+Document : Dith Pran( 27 September 1942 – 30 March 2008) was a Cambodian photojournalist. He was a refugee and survivor of the Cambodian genocide and the subject of the film" The Killing Fields"( 1984).
+Document : Johnny Lira (1951 – December 8, 2012) was a professional lightweight and welterweight boxing contender who was born and died in Chicago, Illinois. Lira won the Chicago Novice Golden Gloves championship at middleweight. As a professional, Lira went on to win the United States Boxing Association lightweight title by knocking out undefeated, Andrew Ganigan in the sixth round in August 1978, having started his pro career undefeated in his first 18 professional bouts. In August 1979, Lira fought for the World Boxing Association Lightweight title and lost to then champion Ernesto Espana in his only world title opportunity. Before losing, Lira had knocked Espana down to the canvas, but was unable to finish him. Lira boxed professionally from 1976 to 1984, compiling a record of 29 wins, 6 losses, and 1 draw, with 16 knockouts. Lira retired at age 34 after a ten round decision loss to Russell Mitchell in Illinois in 1984.
+Wrong answer 1: Dith Pran died on 30 March 2010.  
+Wrong answer 2: Johnny Lira died on 8 December 2010.  
+Wrong answer 3: FINISH[Johnny Lira]
+
+Question: Where did the director of film Sweet Daddies die?
+Thought 1: Who is the director of the film Sweet Daddies?
+Answer 1: The director of Sweet Daddies is Alfred Allen Santell, also known as Al Santell.
+Thought 2: Where did Alfred Allen Santell die?
+Answer 2: Alfred Allen Santell died on June 19, 1981 in Salinas, California.
+Thought 3: What is the final answer to the question based on the supporting facts?
+Answer 3: FINISH[Salinas]
+Document : Sweet Daddies is a 1926 American silent comedy crime film directed by Alfred Santell and starring George Sidney, Charles Murray, and Vera Gordon.
+Document : Alfred Allen Santell, also known as Al Santell (1895–1981), was an American film director and film producer. Santell directed over 60 films, beginning in 1917, most of which were two-reel comedy short subjects for Hal Roach and other productions companies. Taking up feature films from about 1924, Santell worked for several major studios. In 1934, he was married to actress Jane N. Keithley; they remained married until her death. He left the business in 1947 after a contract dispute with Republic Studios. Santell died on June 19, 1981 in Salinas, California.
+Wrong answer 1: The director of Sweet Daddies is Alfred Hitchcock.  
+Wrong answer 2: Alfred Allen Santell died on June 19, 1981 in Los Angeles, California.  
+Wrong answer 3: FINISH[New York]
+
+Question: Are both Qowsheh-Ye Sofla and Thorn, Netherlands located in the same country?
+Thought 1: Where is Qowsheh-Ye Sofla located?  
+Answer 1: Qowsheh-Ye Sofla is a village in Arshaq-e Shomali Rural District, Arshaq District, Meshgin Shahr County, Ardabil Province, Iran.  
+Thought 2: Where is Thorn, Netherlands located?  
+Answer 2: Thorn is a town in the municipality of Maasgouw, in the Dutch province of Limburg, Netherlands.  
+Thought 3: Are Iran and the Netherlands the same country?  
+Answer 3: No, Iran and the Netherlands are two different countries.  
+Thought 4: Based on the locations of Qowsheh-Ye Sofla and Thorn, are they in the same country?  
+Answer 4: FINISH[no]
+Document : Thorn is a town in the municipality of Maasgouw, in the Dutch province of Limburg. It lies on the rivers Meuse and Witbeek. It is known as' the white village' for it s white- washed brick houses in the centre of town.
+Document : Qowsheh- ye Sofla( also Romanized as Qowsheh- ye Soflá and Qūsheh- ye Soflá; also known as Qosheh, Qowsheh- ye Pā'īn, and Qūsheh) is a village in Arshaq -e Shomali Rural District, Arshaq District, Meshgin Shahr County, Ardabil Province, Iran. At the 2006 census, its population was 664, in 154 families.
+Wrong answer 1: Qowsheh-Ye Sofla is a city in the province of Limburg, Netherlands.  
+Wrong answer 2: Thorn is a village in Ardabil Province, Iran.  
+Wrong answer 3: Yes, Iran and the Netherlands are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: Are both director of film Our Beautiful Days and director of film Your Three Minutes Are Up from the same country?
+Thought 1: Who is the director of the film Our Beautiful Days, and what is their country of origin?  
+Answer 1: The director of Our Beautiful Days is Helmy Halim, who is Egyptian, as stated in the supporting facts.  
+Thought 2: Who is the director of the film Your Three Minutes Are Up, and what is their country of origin?  
+Answer 2: The director of Your Three Minutes Are Up is Douglas Schwartz, who is American, as stated in the supporting facts.  
+Thought 3: Are Egypt and America the same country?  
+Answer 3: No, Egypt and America are different countries.  
+Thought 4: Based on the directors' countries of origin, are the directors of the two films from the same country?  
+Answer 4: FINISH[no]
+Document : Our Beautiful Days or Our Best Days( translit. Ayyamna al- Holwa) is a 1955 Egyptian romance/ musical film directed and co-written by the Egyptian film director and writer Helmy Halim. It starred Abdel Halim Hafez, Ahmed Ramzy, Omar Sharif, and Faten Hamama. In 1996, during the Egyptian Cinema centennial, this film was selected one of the best 150 Egyptian film productions.
+Document : Your Three Minutes Are Up is a 1973 American romantic comedy-drama film directed by Douglas Schwartz and starring Beau Bridges.
+Document : Helmy Halim( 1916 – 1971) was an Egyptian film director, screenwriter and film producer. He has worked with many stars like Omar Sharif, Ahmed Ramzy, Faten Hamama and Abdel Halim Hafez. In the 1955 he discovered Ahmed Ramzy and cast him as Ramzy in Ayyamna al- Holwa
+Document : Douglas Schwartz is an American television screenwriter and series creator who, along with Michael Berk, worked as a writer on the television series Manimal, and multiple made for television movies. He is most famous for creating co-producing, and writing The Wizard( TV series), as well as creating and writing the earlier scripts of" Baywatch", a series which exceeded a global audience of 1 billion people. He also developed" Sheena", based on the comic book of the same name.
+Wrong answer 1: The director of Our Beautiful Days is Youssef Chahine, who is Lebanese, as stated in the supporting facts.  
+Wrong answer 2: The director of Your Three Minutes Are Up is Alejandro González Iñárritu, who is Mexican, as stated in the supporting facts.  
+Wrong answer 3: Yes, Egypt and America are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: Which film has the director born later, Stingray Sam or The Kickback (Film)?
+Thought 1: Who directed Stingray Sam and when were they born?
+Answer 1: Stingray Sam was directed by Cory McAbee, who was born on August 29, 1961, in Santa Venetia, California, USA.
+Thought 2: Who directed The Kickback and when were they born?
+Answer 2: The Kickback was directed by Val Paul, who was born on April 10, 1886, in Denver, Colorado, USA.
+Thought 3: Comparing the birth years of the two directors, which director was born later?
+Answer 3: Cory McAbee (born 1961) was born later than Val Paul (born 1886).
+Thought 4: Based on the directors' birth years, which film has the director born later?
+Answer 4: FINISH[Stingray Sam]
+Document : Cory McAbee( born August 29, 1961, Santa Venetia, California, USA) is an American writer, director, singer and songwriter.
+Document : Stingray Sam is a 2009 space- western/ musical serial film, directed by and starring Cory McAbee. The film premiered on January 20, 2009 at the 2009 Sundance Film Festival as part of the New Frontier program. It is Cory McAbee's latest film after he was not able to secure financing for what was to be his second feature" Werewolf Hunters of the Midwest".
+Document : The Kickback is a 1922 American silent Western film directed by Val Paul and starring Harry Carey and Henry B. Walthall.
+Document : Val Paul( April 10, 1886 – March 23, 1962), was an American actor and director of the silent era. He appeared in 99 films between 1913 and 1922. He also directed 10 films between 1920 and 1932. He was born in Denver, Colorado and died in Hollywood, California.
+Wrong answer 1: Stingray Sam was directed by Cory McAbee, who was born on August 29, 1975, in Santa Venetia, California, USA.  
+Wrong answer 2: The Kickback was directed by Val Paul, who was born on April 10, 1920, in Denver, Colorado, USA.  
+Wrong answer 3: Val Paul (born 1886) was born later than Cory McAbee (born 1961).  
+Wrong answer 4: FINISH[The Kickback]
+
+Question: When was the director of film Veeramani (Film) born?
+Thought 1: Who is the director of the film Veeramani?
+Answer 1: The director of the film Veeramani is Prem Menon, as stated in the supporting fact.
+Thought 2: When was Prem Menon born?
+Answer 2: Prem Menon was born on 15 October 1953, as mentioned in the supporting fact.
+Thought 3: What is the final answer to the question based on the supporting facts?
+Answer 3: FINISH[1953]
+Document : Veeramani is a 1994 Tamil action film directed by Prem Menon. The film features Prem Menon and Yuvarani in the lead roles, with Prakash, Vinu Chakravarthy, V. K. Ramasamy, Jaiganesh and Charle playing supporting roles. The film, produced by Indira Prem, had musical score by Ekandhan and was released on 16 September 1994.
+Document : Prem Menon (Born 15 October 1953) is an Indian businessman, film actor and director, who has appeared in Tamil films. He rose to fame with his role in the film "Krodham" (1982) and has since regularly produced and made his own projects.
+Wrong answer 1: The director of the film Veeramani is Mani Ratnam, as stated in the supporting fact.  
+Wrong answer 2: Prem Menon was born on 20 December 1960, as mentioned in the supporting fact.  
+Wrong answer 3: FINISH[1975]
+
+Question: What is the date of death of the director of film Three Tough Guys?
+Thought 1: Who is the director of the film "Three Tough Guys"?
+Answer 1: The director of "Three Tough Guys" is Duccio Tessari, as mentioned in the second supporting fact.
+Thought 2: What is the date of death of Duccio Tessari?
+Answer 2: Duccio Tessari died on 6 September 1994, as stated in the first supporting fact.
+Thought 3: Is there any additional information about Duccio Tessari's death?
+Answer 3: The first supporting fact also mentions that he died of cancer in Rome at the age of 68.
+Thought 4: Does the answer align with the question about the date of death of the director of "Three Tough Guys"?
+Answer 4: FINISH[6 September 1994]
+Document : Three Tough Guys (also known as "Tough Guys") is a 1974 crime-action film directed by Duccio Tessari. It may be regarded as an example of the Blaxploitation genre. It stars Lino Ventura, Fred Williamson and Isaac Hayes, who also composed the soundtrack. It is a coproduction between United States, Italy (where it was released "Uomini duri") and France (where is known as "Les Durs"). The film was shot in Chicago.
+Document : Duccio Tessari (11 October 1926 – 6 September 1994) was an Italian director, screenwriter and actor, considered one of the fathers of spaghetti westerns. Born in Genoa, Tessari started in the fifties as documentarist and as screenwriter of peplum films. In 1964 he co-wrote Sergio Leone's "A Fistful of Dollars", one year later he gained an impressive commercial success and launched the Giuliano Gemma's career with "A Pistol for Ringo" and its immediate sequel, "The Return of Ringo". He later touched different genres and worked in RAI TV, directing some successful TV-series. He died of cancer in Rome, at 68. He was married to actress Lorella De Luca.
+Wrong answer 1: The director of "Three Tough Guys" is Sergio Leone, as mentioned in the second supporting fact.  
+Wrong answer 2: Duccio Tessari died on 15 March 1997, as stated in the first supporting fact.  
+Wrong answer 3: The first supporting fact also mentions that he died of a heart attack in Milan at the age of 72.  
+Wrong answer 4: FINISH[12 October 1989]
+
+Question: Do both films Doctor Crippen (1942 Film) and The Island Of Forbidden Kisses have the directors that share the same nationality?
+Thought 1: Who directed the film Doctor Crippen (1942 Film)?
+Answer 1: Doctor Crippen (1942 Film) was directed by Erich Engels, who was a German screenwriter, producer, and film director.
+Thought 2: Who directed the film The Island Of Forbidden Kisses?
+Answer 2: The Island Of Forbidden Kisses was directed by Georg Jacoby, who was a German film director and screenwriter.
+Thought 3: What is the nationality of the directors of both films?
+Answer 3: Both Erich Engels and Georg Jacoby were German directors.
+Thought 4: Do the directors of both films share the same nationality?
+Answer 4: FINISH[yes]
+Document : The Island of Forbidden Kisses( German: Die Insel der verbotenen Küsse) is a 1927 German silent adventure film directed by Georg Jacoby and starring Stewart Rome, Marietta Millner and Elga Brink. The film's art direction was by Franz Schroedter and Hermann Warm.
+Document : Georg Jacoby( 23 July 1882 – 21 February 1964) was a German film director and screenwriter.
+Document : Erich Engels( 1889–1971) was a German screenwriter, producer and film director. He should not be confused with another contemporary German director Erich Engel.
+Document : Doctor Crippen or Doctor Crippen on Board is a 1942 German crime film directed by Erich Engels and starring Rudolf Fernau, René Deltgen and Anja Elkoff. It was shot at the Barrandov and Hostivar Studios in Prague. The film's sets were designed by the art directors Artur Günther and Willi Eplinius.
+Wrong answer 1: Doctor Crippen (1942 Film) was directed by Alfred Hitchcock, who was a British screenwriter, producer, and film director.  
+Wrong answer 2: The Island Of Forbidden Kisses was directed by Federico Fellini, who was an Italian film director and screenwriter.  
+Wrong answer 3: Erich Engels was German, while Georg Jacoby was Austrian.  
+Wrong answer 4: FINISH[no]
+
+Question: Are Mumu (1959 Film) and Hell Bound (1931 Film) both from the same country?
+Thought 1: What is the country of origin for Hell Bound (1931 Film)?
+Answer 1: Hell Bound is a 1931 American Pre-Code drama film directed by Walter Lang, so its country of origin is the United States.
+Thought 2: What is the country of origin for Mumu (1959 Film)?
+Answer 2: Mumu is a 1959 Soviet drama film directed by and, so its country of origin is the Soviet Union.
+Thought 3: Are the United States and the Soviet Union the same country?
+Answer 3: FINISH[no]
+Document : Hell Bound is a 1931 American Pre-Code drama film directed by Walter Lang.
+Document : Mumu is a 1959 Soviet drama film directed by and.
+Wrong answer 1: Hell Bound is a 1931 British Pre-Code drama film directed by Walter Lang, so its country of origin is the United Kingdom.  
+Wrong answer 2: Mumu is a 1959 French drama film directed by and, so its country of origin is France.  
+Wrong answer 3: FINISH[yes]
+
+Question: When was the director of film Man At Bath born?
+Thought 1: Who is the director of the film "Man At Bath"?
+Answer 1: The director of the film "Man At Bath" is Christophe Honoré, as stated in the supporting fact.
+Thought 2: When was Christophe Honoré born?
+Answer 2: Christophe Honoré was born on 10 April 1970, according to the supporting fact.
+Thought 3: Is there any conflicting information about Christophe Honoré's birth date?
+Answer 3: No, the supporting fact clearly states his birth date as 10 April 1970 without any conflicting information.
+Thought 4: Does the question require any additional information beyond the director's birth date?
+Answer 4: No, the question only asks for the birth date of the director of "Man At Bath," which has been confirmed.
+Answer 4: FINISH[10 April 1970]
+Document : Christophe Honoré (born 10 April 1970) is a French writer and film director. Honoré was born in Carhaix, Finistère. After moving to Paris in 1995, he wrote articles in "Les Cahiers du Cinéma". He started writing soon after. His 1996 book "Tout contre LéoClose to Leo") talks about HIV and is aimed at young adults; he made it into a film in 2002. He wrote other books for young adults throughout the late 1990s. His first play, "Les Débutantes", was performed at Avignon's Off Festival in 1998. In 2005, he returned to Avignon to present "Dionysos impuissant" in the "In" Festival, with Joana Preiss and Louis Garrel playing the leads. A well-known director, he is considered an "auteur" in French cinema. His 2006 film "Dans Paris" has led him to be considered by French critics as the heir to the Nouvelle Vague cinema. In 2007, "Les Chansons d'amour" was one of the films selected to be in competition at the 2007 Cannes Film Festival. Honoré is openly gay, and some of his movies or screenplays (among them "Les Filles ne savent pas nagerDix-sept fois Cécile Cassard" and "Les Chansons d'amour") deal with gay or lesbian relations. Honoré has been the screenwriter for some of Gaël Morel's films. He has also directed Louis Garrel in five different films.
+Document : Man at Bath is a 2010 French film by Christophe Honoré starring François Sagat and Chiara Mastroianni. The film premiered in competition at Locarno International Film Festival in Switzerland in 2010 and was released in cinemas on 22 September 2010. This is gay pornographic actor François Sagat's second major role in general release non-pornographic film as Emmanuel after his role in "L.A. Zombie". Director Christopher Honoré told French gay website Yagg.com that he was interested in Sagat because he "redefines the notion of masculinity". Sagat was the only actor to feature in two competition entries during the festival.
+Wrong answer 1: The director of the film "Man At Bath" is François Ozon, as stated in the supporting fact.  
+Wrong answer 2: Christophe Honoré was born on 15 May 1965, according to the supporting fact.  
+Wrong answer 3: Yes, there is conflicting information about Christophe Honoré's birth date, with some sources stating it as 12 March 1972.  
+Wrong answer 4: Yes, the question also requires the director's birthplace, which is Paris, France.  
+Wrong answer 4 (for FINISH): FINISH[5 November 1968]
+
+Question: Where was the director of film Min Kone Er Uskyldig born?
+Thought 1: Who is the director of the film Min Kone Er Uskyldig?
+Answer 1: The director of the film Min Kone Er Uskyldig is Johan Jacobsen.
+Thought 2: Where was Johan Jacobsen born?
+Answer 2: Johan Jacobsen was born in Aarhus, as stated in the supporting fact: "Johan Jacobsen (born 14 March 1912 in Aarhus – died 7 July 1972 in Copenhagen) was a Danish film director."
+Thought 3: Is there any conflicting information about Johan Jacobsen's birthplace?
+Answer 3: No, the supporting facts consistently state that Johan Jacobsen was born in Aarhus.
+Thought 4: What is the final answer to the question about the director's birthplace?
+Answer 4: FINISH[Aarhus]
+Document : Johan Jacobsen (born 14 March 1912 in Aarhus – died 7 July 1972 in Copenhagen) was a Danish film director. His parents were theatre manager Jacob Jørgen Jacobsen (1865-1955) and actress Christel Holch (1886-1968). From the 1940s Jacobsen directed a number of both popular and critically acclaimed films for the film studio Palladium. From 1947 onwards he was an independent director and producer. He produced his own films and those of his partner Annelise Hovmand (1924-2016) at his own film studio Flamingo. In 1959 he was a member of the jury at the 9th Berlin International Film Festival. His A Stranger Knocks (1959) was in competition at the San Francisco International Film Festival 1960. It was distributed in the US by Trans-Lux and played a major part in bringing down the American State Film Censorship system in 1965. In his last years Jacobsen worked for tycoon Simon Spies (1921-1984) at his cinema Merkur Bio in Copenhagen.
+Document : Min kone er uskyldig ("My Wife is Innocent") is a 1950 Danish comedy film directed by Johan Jacobsen and starring Poul Reichhardt.
+Wrong answer 1: The director of the film Min Kone Er Uskyldig is Carl Theodor Dreyer.  
+Wrong answer 2: Johan Jacobsen was born in Copenhagen, as stated in the supporting fact: "Johan Jacobsen (born 14 March 1912 in Copenhagen – died 7 July 1972 in Copenhagen) was a Danish film director."  
+Wrong answer 3: Yes, some sources claim Johan Jacobsen was born in Odense, while others say Aarhus.  
+Wrong answer 4: FINISH[Copenhagen]
+
+Question: Are Merixen and Hajji Havar Kandi located in the same country?
+Thought 1: Where is Merixen located?  
+Answer 1: Merixen is a village in the commune of Debdeb, in In Amenas District, Illizi Province, Algeria, located on the southern edge of the Grand Erg Oriental.  
+Thought 2: Where is Hajji Havar Kandi located?  
+Answer 2: Hajji Havar Kandi is a village in Qeshlaq-e Sharqi Rural District, Qeshlaq Dasht District, Bileh Savar County, Ardabil Province, Iran.  
+Thought 3: Are Algeria and Iran the same country?  
+Answer 3: No, Algeria and Iran are two distinct countries.  
+Thought 4: Based on the locations of Merixen and Hajji Havar Kandi, are they in the same country?  
+Answer 4: FINISH[no]
+Document : Hajji Havar Kandi( also Romanized as Ḩājjī Hāvār Kandī) is a village in Qeshlaq -e Sharqi Rural District, Qeshlaq Dasht District, Bileh Savar County, Ardabil Province, Iran. At the 2006 census, its population was 57, in 15 families.
+Document : Merixen( also written Mariksene) is a village in the commune of Debdeb, in In Amenas District, Illizi Province, Algeria, located on the southern edge of the Grand Erg Oriental.
+Wrong answer 1: Merixen is a village in the commune of Debdeb, in In Amenas District, Illizi Province, Iran, located on the southern edge of the Grand Erg Oriental.  
+Wrong answer 2: Hajji Havar Kandi is a village in Qeshlaq-e Sharqi Rural District, Qeshlaq Dasht District, Bileh Savar County, Ardabil Province, Algeria.  
+Wrong answer 3: Yes, Algeria and Iran are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: Were both Sandra Rauch and Corenne Bruhns born in the same place?
+Thought 1: Where was Sandra Rauch born?
+Answer 1: Sandra Rauch was born in Berlin, Germany in 1967.
+Thought 2: Where was Corenne Bruhns born?
+Answer 2: Corenne Bruhns was born in Naperville, Illinois, USA on January 31, 1991.
+Thought 3: Are Berlin, Germany and Naperville, Illinois, USA the same place?
+Answer 3: No, Berlin, Germany and Naperville, Illinois, USA are different places.
+Thought 4: Final thought - Were both Sandra Rauch and Corenne Bruhns born in the same place?
+Answer 4: FINISH[no]
+Document : Corenne Bruhns( born January 31, 1991 in Naperville, Illinois) is a Mexican ice dancer. With partner Ryan Van Natten, she is the 2012 Mexican national champion.
+Document : Sandra Rauch (Berlin, 1967) is a German artist. Sandra Rauch began to study communication design in 1991 in ("Berlin Kommunikationsdesign") and she changed in 1995 to the Dresden Academy of Fine Arts to study painting and graphic techniques. From 1993 to 1998, she travelled to Italy and France. In 1998, she became a master-class pupil with Prof. Kerbach and finished in 2000. Since 2000 she works as an assistant of Prof. Kerbach in the HfBK Dresden. In her works, created with peculiar own photomechanical style, she plays didactically with the formative possibilities of digital and analogous pictures to give expression to the everyday culture in our world.
+Wrong answer 1: Sandra Rauch was born in Munich, Germany in 1967.  
+Wrong answer 2: Corenne Bruhns was born in Berlin, Germany on January 31, 1991.  
+Wrong answer 3: Yes, Berlin, Germany and Naperville, Illinois, USA are the same place.  
+Wrong answer 4: FINISH[yes]
+
+Question: Which film was released first, Poonji or The Tango Star?
+Thought 1: What is the release year of The Tango Star?  
+Answer 1: The Tango Star was released in 1940, as it is described as a 1940 Argentine musical film.
+Thought 2: What is the release year of Poonji?  
+Answer 2: Poonji was released in 1943, as it is described as a Bollywood film released in that year.
+Thought 3: Comparing the release years of The Tango Star (1940) and Poonji (1943), which film was released first?  
+Answer 3: FINISH[The Tango Star]
+Document : Poonji is a Bollywood film. It was released in 1943. The film was directed by Ravindra Dave and Vishnu R. Pancholi. It starred M. Esmail, Durga Mota, Ragini in lead roles.
+Document : The Tango Star( Spanish: El astro del tango) is a 1940 Argentine musical film directed by Luis Bayón Herrera and starring Hugo del Carril, Amanda Ledesma and Berta Aliana. A tango star enjoys a relationship with a young woman from a wealthy family.
+Wrong answer 1: The Tango Star was released in 1943, as it is described as a 1943 Argentine musical film.  
+Wrong answer 2: Poonji was released in 1940, as it is described as a Bollywood film released in that year.  
+Wrong answer 3: FINISH[Poonji]
+
+Question: Are Wives And Obscurities and The End Of The Line (1957 Film) both from the same country?
+Thought 1: What is the country of origin for The End of the Line (1957 film)?
+Answer 1: The End of the Line is a 1957 British crime film, made at Southall Studios in West London. So, it is from the United Kingdom.
+Thought 2: What is the country of origin for Wives and Obscurities?
+Answer 2: Wives and Obscurities is a 1956 Italian comedy film, directed by Leonardo De Mitri. So, it is from Italy.
+Thought 3: Are the United Kingdom and Italy the same country?
+Answer 3: No, the United Kingdom and Italy are different countries.
+Answer 4: FINISH[no]
+Document : The End of the Line is a 1957 British crime film directed by Charles Saunders and starring Alan Baxter, Barbara Shelley, Ferdy Mayne and Jennifer Jayne. The film was released in the United States in 1959. It was made at Southall Studios in West London.
+Document : Wives and Obscurities( Italian: Moglie e buoi ...) is a 1956 Italian comedy film directed by Leonardo De Mitri and starring Gino Cervi, Walter Chiari and Enrico Viarisio. The film's sets were designed by the art director Franco Lolli.
+Wrong answer 1: The End of the Line is a 1957 American crime film, produced in Hollywood. So, it is from the United States.  
+Wrong answer 2: Wives and Obscurities is a 1956 French comedy film, directed by Jean-Pierre Melville. So, it is from France.  
+Wrong answer 3: Yes, the United Kingdom and Italy are the same country.  
+Wrong answer 4: FINISH[yes]
+
+Question: Do both directors of films Memory Of Water (Film) and Sweet Sixteen (2002 Film) have the same nationality?
+Thought 1: What is the nationality of Héctor Fáver, the director of "Memory of Water"?
+Answer 1: Héctor Fáver is an Argentine film producer and director, as stated in the supporting fact.
+Thought 2: What is the nationality of Kenneth Charles Loach, the director of "Sweet Sixteen"?
+Answer 2: Kenneth Charles Loach is an English filmmaker, as stated in the supporting fact.
+Thought 3: Are the nationalities of Héctor Fáver (Argentine) and Kenneth Charles Loach (English) the same?
+Answer 3: No, Argentine and English are different nationalities.
+Thought 4: Based on the nationalities of the directors, do they share the same nationality?
+Answer 4: FINISH[no]
+Document : Memory of Water is a 1994 Spanish- Argentine drama film directed by Héctor Fáver. It was screened in the Un Certain Regard section at the 1992 Cannes Film Festival.
+Document : Héctor Fáver( born 9 September 1960) is an Argentine film producer and director. His film" Memory of Water" was screened in the Un Certain Regard section at the 1992 Cannes Film Festival.
+Document : Sweet Sixteen is a 2002 drama film directed by Ken Loach. Set in Scotland, the film tells the story of a teenage boy from a troubled background, Liam, who dreams of starting afresh with his mother as soon as she has completed her prison term. Liam's attempts to raise money for the two of them are set against the backdrop of the Inverclyde towns of Greenock, Port Glasgow and the coast at Gourock. The film is often shown with subtitles because, as with many of Loach's films, the dialogue is extensively in a local dialect, in this case the Inverclyde variant of Glaswegian( itself a mix of Scottish English and Scots with Irish and Highland influences).
+Document : Kenneth Charles Loach( born 17 June 1936) is an English filmmaker. His socially critical directing style and socialist ideals are evident in his film treatment of social issues such as poverty(" Poor Cow", 1967), homelessness(" Cathy Come Home", 1966), and labour rights(" Riff- Raff", 1991, and" The Navigators", 2001). Loach's film" Kes"( 1969) was voted the seventh greatest British film of the 20th century in a poll by the British Film Institute. Two of his films," The Wind That Shakes the Barley"( 2006) and" I, Daniel Blake"( 2016), received the Palme d' Or at the Cannes Film Festival, making him the ninth filmmaker to win the award twice. Loach, a social campaigner for most of his career, believes the current criteria for claiming benefits in the UK are" a," Catch- 22" situation designed to frustrate and humiliate the claimant to such an extent that they drop out of the system and stop pursuing their right to ask for support if necessary".
+Wrong answer 1: Héctor Fáver is a Spanish film producer and director.  
+Wrong answer 2: Kenneth Charles Loach is a Scottish filmmaker.  
+Wrong answer 3: Yes, Argentine and English are the same nationality.  
+Wrong answer 4: FINISH[yes]
+
+Question: Which country the director of film The Lion'S Den (1919 Film) is from?
+Thought 1: Who is the director of the film The Lion's Den (1919)?
+Answer 1: The director of The Lion's Den (1919) is George D. Baker, as stated in the supporting fact.
+Thought 2: What is the nationality of George D. Baker?
+Answer 2: George Duane Baker was an American motion picture director, according to the supporting fact.
+Thought 3: Based on the director's nationality, which country is he from?
+Answer 3: FINISH[American]
+Document : The Lion's Den is a surviving 1919 silent film drama directed by George D. Baker and starring Bert Lytell, Alice Lake and Edward Connelly. It was distributed by Metro Pictures.
+Document : George Duane Baker (April 22, 1868 – June 2, 1933) was an American motion picture director whose career began near the dawn of the silent film era.
+Wrong answer 1: The director of The Lion's Den (1919) is Alfred Hitchcock, as stated in the supporting fact.  
+Wrong answer 2: George Duane Baker was a British motion picture director, according to the supporting fact.  
+Wrong answer 3: FINISH[British]
+
+Question: Who died earlier, Alessandro Lami or Jeff Golub?
+Thought 1: What is the death date of Alessandro Lami?
+Answer 1: Alessandro Lami died on 8 March 2015.
+Thought 2: What is the death date of Jeff Golub?
+Answer 2: Jeff Golub died on 1 January 2015.
+Thought 3: Comparing the death dates of Alessandro Lami and Jeff Golub, who died earlier?
+Answer 3: FINISH[Jeff Golub]
+Document : Alessandro Lami (Rosignano Marittimo, 27 January 1949 - 8 March 2015) was an Italian classical philologist.
+Document : Jeff Golub( April 15, 1955 – January 1, 2015) was an American jazz guitarist who had a solo career and who led the band Avenue Blue. He worked as a sideman for a number of rock and pop musicians. He was arguably best known for his work with Rod Stewart, with whom he played from 1988 until 1995.
+Wrong answer 1: Alessandro Lami died on 8 March 2014.  
+Wrong answer 2: Jeff Golub died on 1 January 2016.  
+Wrong answer 3: FINISH[Alessandro Lami]
+
+Question: Who is older, Marco Arpino or Daniel Peev?
+Thought 1: What is the birth date of Daniel Peev?  
+Answer 1: Daniel Peev was born on 6 October 1984.  
+Thought 2: What is the birth date of Marco Arpino?  
+Answer 2: Marco Arpino was born on 11 September 1966.  
+Thought 3: Comparing the birth dates of Marco Arpino and Daniel Peev, who is older?  
+Answer 3: FINISH[Marco Arpino]
+Document : Daniel Peev( born 6 October 1984) is a Bulgarian footballer who plays as a midfielder for Vitosha Bistritsa. He is a left attacking midfielder. Daniel is also the younger brother of Georgi Peev.
+Document : Marco Arpino( born 11 September 1966) is an Italian director at the Italian National Olympic Committee and a retired fencer. He competed in the foil events at the 1992 and 1996 Summer Olympics. He won a gold medal in the team foil event at the 1994 World Fencing Championships.
+Wrong answer 1: Daniel Peev was born on 6 October 1994.  
+Wrong answer 2: Marco Arpino was born on 11 September 1976.  
+Wrong answer 3: FINISH[Daniel Peev]
+
+Question: Who lived longer, Brigid Bazlen or Harry Gast?
+Thought 1: What was Harry Gast's lifespan?
+Answer 1: Harry Gast was born on September 19, 1920, and died on July 30, 2015, which means he lived to be 94 years old.
+Thought 2: What was Brigid Bazlen's lifespan?
+Answer 2: Brigid Bazlen was born on June 9, 1944, and died on May 25, 1989, which means she lived to be 44 years old.
+Thought 3: Comparing the lifespans of Harry Gast and Brigid Bazlen, who lived longer?
+Answer 3: FINISH[Harry Gast]
+Document : Harry T. Gast, Jr.( September 19, 1920 – July 30, 2015) was a Republican politician from Michigan who served in both houses of the Michigan Legislature and in various local offices between the mid-1950s and 2002. During his final 18 years in the Senate, Gast chaired the appropriations committee. Gast's first elected office was as treasurer of Lincoln Township, an office he held for 18 years. He then became township supervisor for eight years before running for the Michigan House of Representatives. He also served as a member and president of the Evans School board. A portion of M- 63 in Berrien County was named the" Harry Gast Parkway" in 2008, and the Senate Appropriations Committee room in the Michigan State Capitol was named in his honor in 2015. Gast died on July 30, 2015, aged 94.
+Document : Brigid Mary Bazlen( June 9, 1944 – May 25, 1989) was an American film, television and stage actress. Although she made only three Hollywood films," The Honeymoon MachineKing of Kings", and" How the West Was Won", she is still remembered for the latter two. Bazlen retired from acting while she was in her late 20s( 1972), and she died from cancer at the age of 44.
+Wrong answer 1: Harry Gast was born on September 19, 1920, and died on July 30, 2015, which means he lived to be 75 years old.  
+Wrong answer 2: Brigid Bazlen was born on June 9, 1944, and died on May 25, 1989, which means she lived to be 50 years old.  
+Wrong answer 3: FINISH[Brigid Bazlen]
+
+Question: What nationality is the composer of film Jaya Janaki Nayaka?
+Thought 1: Who is the composer of the film Jaya Janaki Nayaka?
+Answer 1: The composer of the film Jaya Janaki Nayaka is Devi Sri Prasad, as mentioned in the supporting fact.
+Thought 2: What is the nationality of Devi Sri Prasad?
+Answer 2: Devi Sri Prasad is Indian, as stated in the supporting fact that describes him as "an Indian music composer, lyricist, singer, and director."
+Thought 3: Is there any conflicting information about the nationality of Devi Sri Prasad or the composer of Jaya Janaki Nayaka?
+Answer 3: No, both supporting facts consistently state that Devi Sri Prasad is Indian and that he composed the music for Jaya Janaki Nayaka.
+Thought 4: Based on the above, what is the nationality of the composer of Jaya Janaki Nayaka?
+Answer 4: FINISH[India]
+Document : Devi Sri Prasad (born 2 August 1979) is an Indian music composer, lyricist, singer, and director. He is best known for his works in the cinema of South India, especially in Telugu and Tamil cinema. He has won nine Filmfare Awards, eight of which are Filmfare Best Music Director South Awards and one Filmfare South Best Background Music five CineMAA Awards - Best Music Director, & one Nandi Award for Best Music Director. Devi also choreographed a song in the Telugu film "Kumari 21F". As of 2019, he has composed music for more than 100 films.
+Document : Jaya Janaki Nayaka is a 2017 Indian Telugu-language romantic action film directed by Boyapati Srinu and produced by M. Ravinder Reddy under Dwaraka Creations banner. It stars Bellamkonda Sreenivas, Rakul Preet Singh and Jagapathi Babu in the lead roles while Pragya Jaiswal, Suman, Tarun Arora, and Sarath Kumar play pivotal roles. The music was composed by Devi Sri Prasad. The film was released on 11 August 2017 with mixed reviews from critics and audiences. It was a moderate success at the box office.
+Wrong answer 1: The composer of the film Jaya Janaki Nayaka is A. R. Rahman.  
+Wrong answer 2: Devi Sri Prasad is Sri Lankan.  
+Wrong answer 3: Yes, some sources claim Devi Sri Prasad is of Nepalese origin.  
+Wrong answer 4: FINISH[United States]
+
+Question: When did the director of film Broadway Rhythm die?
+Thought 1: Who is the director of the film Broadway Rhythm?
+Answer 1: The director of Broadway Rhythm is Roy Del Ruth, as stated in the supporting fact.
+Thought 2: When did Roy Del Ruth die?
+Answer 2: Roy Del Ruth died on April 27, 1961, according to the supporting fact.
+Thought 3: What is the final answer to the question based on the facts?
+Answer 3: FINISH[April 27, 1961]
+Document : Roy Del Ruth (October 18, 1893, Delaware – April 27, 1961) was an American film director.
+Document : Broadway Rhythm (1944) is a Metro-Goldwyn-Mayer Technicolor musical film. It was produced by Jack Cummings and directed by Roy Del Ruth. The film was originally announced as "Broadway Melody of 1944" to follow MGM's "Broadway Melody" films of 1929, 1936, 1938, and 1940. It was originally slated to star Eleanor Powell and Gene Kelly, but Louis B. Mayer and MGM loaned Kelly out to Columbia to play opposite Rita Hayworth in "Cover Girl" (1944). The film instead starred George Murphy, who had appeared in "Broadway Melody of 1938" and "Broadway Melody of 1940. " Mayer then replaced Powell with Ginny Simms. Other cast members included Charles Winninger, Gloria DeHaven, Lena Horne, Nancy Walker, Eddie "Rochester" Anderson, the Ross Sisters, and Ben Blue, as well as Tommy Dorsey and his orchestra.
+Wrong answer 1: The director of Broadway Rhythm is Alfred Hitchcock, as stated in the supporting fact.  
+Wrong answer 2: Roy Del Ruth died on November 15, 1954, according to the supporting fact.  
+Wrong answer 3: FINISH[March 8, 1963]
+
+Question: Are both Imabari Shipbuilding and Iz3D located in the same country?
+Thought 1: Where is Imabari Shipbuilding located?
+Answer 1: Imabari Shipbuilding is located in Japan, with facilities in Imabari, Marugame, and other locations across the Seto Inland Sea region. It is Japan's largest shipbuilder.
+Thought 2: Where is Iz3D located?
+Answer 2: Iz3D, Inc. was an American company that developed and sold 3D software and stereoscopic monitors.
+Thought 3: Are Japan and the United States the same country?
+Answer 3: No, Japan and the United States are different countries.
+Thought 4: Based on the locations of Imabari Shipbuilding and Iz3D, are they in the same country?
+Answer 4: FINISH[no]
+Document : iZ3D, Inc., was an American company that developed and sold software which enabled the usage of many different 3 D techniques on NVidia and ATI graphic cards, and also sold stereoscopic monitors based on polarization technology.
+Document : It's Japan ’s largest shipbuilder both in terms of tonnage and sales revenue with design, research, construction and ship repair facilities in Imabari, Marugame and at seven other integrated dockyard and manufacturing facilities across the Seto Inland Sea region. Imabari Shipbuilding ’s products include the design, manufacture, purchase and sale of merchant ships, offshore engineering and ship life cycle services. Imabari Shipbuilding also controls various subsidiaries related to the shipbuilding and shipping industries, including one of the largest Japanese ship owning, managing and leasing(' chartering') company, i.e. Shoei Kisen Kaisha, Ltd( http://www.shoei-kisen.com/), which manages and provides ships to shipping companies under long term Charterparty agreements. The company is privately held and tightly controlled and run by the Higaki family. In 2016 it reported commercial vessel production as measured by cargo- carrying capacity for a total of about 4 million tons, six times more than Mitsubishi Heavy and seven times more than Mitsui Engineering. Its revenue in that year totaled 373.4 billion yen($ 3.43 billion). Globally, it boasts the fourth- largest market share, after South Korean rivals Hyundai Heavy Industries and Daewoo Shipbuilding& Marine Engineering.
+Wrong answer 1: Imabari Shipbuilding is located in South Korea, with facilities in Busan and other coastal regions.  
+Wrong answer 2: Iz3D, Inc. was a Japanese company that specialized in virtual reality gaming technology.  
+Wrong answer 3: Yes, Japan and the United States are the same country under a shared economic union.  
+Wrong answer 4: FINISH[yes]
+
+Question: Was Keith Tkachuk or Ignatz Gresser born first?
+Thought 1: What is Keith Tkachuk's birth date?
+Answer 1: Keith Tkachuk was born on March 28, 1972.
+Thought 2: What is Ignatz Gresser's birth date?
+Answer 2: Ignatz Gresser was born on August 15, 1835.
+Thought 3: Comparing the birth dates of Keith Tkachuk (March 28, 1972) and Ignatz Gresser (August 15, 1835), who was born first?
+Answer 3: FINISH[Ignatz Gresser]
+Document : Ignatz Gresser (August 15, 1835 - August 1, 1919) was an American soldier and member of the 128th Pennsylvania Infantry who fought in the American Civil War and was awarded the Medal of Honor for carrying a wounded Union soldier from the field of battle at Antietam. Gresser was born in Germany and emigrated to the United States in 1851 at the age of 15. He was a cobbler before and after the war. The soldier he saved was William Henry Sowden, who would go on to serve in the U.S. House of Representatives.
+Document : Keith Matthew Tkachuk( born March 28, 1972) is an American former professional ice hockey player who played in the National Hockey League( NHL) in a 19- year career with the Winnipeg Jets, Phoenix Coyotes, St. Louis Blues and Atlanta Thrashers, retiring in 2010. His sons Matthew and Brady play for the Calgary Flames and the Ottawa Senators, respectively. He is one of five American- born players to score 500 goals, and is the sixth American player to score 1,000 points. He is considered to be one of the greatest U.S.- born players in NHL history.
+Wrong answer 1: Keith Tkachuk was born on March 28, 1975.  
+Wrong answer 2: Ignatz Gresser was born on August 15, 1850.  
+Wrong answer 3: FINISH[Keith Tkachuk]
+
+Question: When did the director of film Let's Live Again die?
+Thought 1: Who is the director of the film Let's Live Again?
+Answer 1: The director of Let's Live Again is Herbert I. Leeds, as mentioned in the supporting fact.
+Thought 2: When did Herbert I. Leeds die?
+Answer 2: Herbert I. Leeds died on May 15, 1954, according to the supporting fact.
+Thought 3: What is the final answer to the question about the director's death date?
+Answer 3: FINISH[May 15, 1954]
+Document : Herbert I. Leeds (1900 – May 15, 1954) was an American film director.
+Document : Let's Live Again is a 1948 American comedy film directed by Herbert I. Leeds and written by Rodney Carlisle and Robert Smiley. The film stars John Emery, Hillary Brooke, Taylor Holmes, Diana Douglas, James Millican and Charles D. Brown. The film was released on February 27, 1948, by 20th Century Fox.
+Wrong answer 1: The director of Let's Live Again is Alfred Hitchcock, as mentioned in the supporting fact.  
+Wrong answer 2: Herbert I. Leeds died on December 25, 1960, according to the supporting fact.  
+Wrong answer 3: FINISH[October 31, 1949]
+
+Question: Were both Brian Burke (Wisconsin Politician) and Alexander Kastalsky, born in the same place?
+Thought 1: Where was Alexander Kastalsky born?
+Answer 1: Alexander Kastalsky was born in Moscow to protoiereus Dmitri Ivanovich Kastalsky.
+Thought 2: Where was Brian Burke born?
+Answer 2: Brian Burke was born in Milwaukee, Wisconsin.
+Thought 3: Are Moscow and Milwaukee the same place?
+Answer 3: No, Moscow is the capital of Russia, while Milwaukee is a city in the United States.
+Thought 4: Based on their birthplaces, were Brian Burke and Alexander Kastalsky born in the same place?
+Answer 4: FINISH[no]
+Document : Brian Burke( born April 19, 1958) is a Wisconsin politician and legislator. Born in Milwaukee, Wisconsin, Burke graduated from Washington High School( Milwaukee, Wisconsin) in 1975 and Marquette University in 1978. In 1984, he was elected to the Milwaukee Common Council. From 1988 until 2003, Burke served in the Wisconsin State Senate. Burke now works in the Milwaukee office of the Wisconsin State Public Defender as an assistant state public defender. He received his law degree in 1981 from Georgetown University.
+Document : Alexand( e) r Dmitriyevich Kastalsky( – 17 December 1926) was a Russian composer and folklorist. Kastalsky was born in Moscow to protoiereus Dmitri Ivanovich Kastalsky( 1820– 1891). He studied music theory, composition and the piano at the Moscow Conservatory. In 1887 he started teaching piano at Moscow Synodal School, and in 1891 became assistant precentor of the Moscow Synodal Choir. He was director of both from 1910 – 1918 until the school was dissolved and merged with the choral faculty of the Conservatory, and the choir was forced to move from sacred to folk repertory. He wrote his first choral works in 1896. Up to 1917 he wrote over 130 works and established himself as an important composer of the neo-Russian style with an influence on choral composers such as Sergei Rachmaninov, Victor Kalinnikov, Alexander Grechaninov and Pavel Chesnokov. After the 1917 Revolution, he devoted himself to the study of folksongs. This resulted in many choral works from which the most important are" The Village Symphony"( 1923) and" Rural Work in Folksongs"( 1924).
+Wrong answer 1: Alexander Kastalsky was born in St. Petersburg to protoiereus Dmitri Ivanovich Kastalsky.  
+Wrong answer 2: Brian Burke was born in Madison, Wisconsin.  
+Wrong answer 3: Yes, Moscow and Milwaukee are the same place.  
+Wrong answer 4: FINISH[yes]
+
+Question: Who is the spouse of the director of film Ships Of The Night?
+Thought 1: Who is the director of the film Ships of the Night?  
+Answer 1: The director of Ships of the Night is Duke Worne, as stated in the supporting fact: "Ships of the Night is a 1928 American silent adventure film directed by Duke Worne and starring Jacqueline Logan, Sôjin Kamiyama and Jack Mower."
+Thought 2: Who is the spouse of Duke Worne?  
+Answer 2: The spouse of Duke Worne is Virginia Brown Faire, as stated in the supporting fact: "In 1930, Worne married silent film actress Virginia Brown Faire, to whom he remained married until his death three years later in 1933."
+Thought 3: What is the final answer to the question?  
+Answer 3: FINISH[Virginia Brown Faire]
+Document : Ships of the Night is a 1928 American silent adventure film directed by Duke Worne and starring Jacqueline Logan, Sôjin Kamiyama and Jack Mower.
+Document : Howard "Duke" Worne (December 14, 1888 – October 13, 1933) was an American director and actor of the silent era. He directed 74 films between 1919 and 1931. He also appeared in 27 films between 1914 and 1928. He was born in Philadelphia, Pennsylvania and died in Los Angeles, California. In 1930, Worne married silent film actress Virginia Brown Faire, to whom he remained married until his death three years later in 1933.
+Wrong answer 1: The director of Ships of the Night is Alfred Hitchcock.  
+Wrong answer 2: The spouse of Duke Worne is Mary Pickford.  
+Wrong answer 3: FINISH[Clara Bow]
+
+Question: Do Archie Palmer and Umar Cheema have the same nationality?
+Thought 1: What is Archie Palmer's nationality?
+Answer 1: Archie Palmer was an American educator and academic administrator, as stated in the supporting fact. Therefore, his nationality is American.
+Thought 2: What is Umar Cheema's nationality?
+Answer 2: Umar Cheema is an investigative reporter for the Pakistani newspaper "The News" and has been involved in events and organizations primarily based in Pakistan, such as the Chevening Scholarship and the Daniel Pearl Journalism Fellowship. This suggests his nationality is Pakistani.
+Thought 3: Do Archie Palmer (American) and Umar Cheema (Pakistani) share the same nationality?
+Answer 3: FINISH[no]
+Document : Umar Cheema is an investigative reporter for the Pakistani newspaper" The News". In 2008, he won a Daniel Pearl Journalism Fellowship, becoming the first Pearl fellow to work at" The New York Times". He also attended London School of Economics as a Chevening Scholar( Chevening Scholarship) doing M.Sc. in Comparative Politics( Conflict studies). On 4 September 2010, he was abducted, beaten, flogged and sexually assaulted by a group of assailants. They also shaved his head, eyebrows, and mustache. Cheema reported that his attackers asked him if he was trying to discredit the government with his reporting, leading him to believe that they were from Pakistan's Inter- Services Intelligence agency. Following the incident," The New York Times" issued an editorial calling on the Pakistani government to find out who abducted Mr. Cheema and bring them to justice." The Committee to Protect Journalists echoed the call, describing the attack as" a message sent to all journalists in Pakistan" that must be answered. For his brave journalism and willingness to publicly speak about the attack at risk of his own life, the CPJ awarded Cheema its 2011 International Press Freedom Award," an annual recognition of courageous journalism". In his acceptance speech, Cheema thanked the group for its" recognition of the bold work Pakistani media is doing". On 14 April 2011, Cheema also received the Tully Center Free Speech Award of Syracuse University. Cheema is a father of a son and a daughter. Adil, his son, was two years old when Cheema was abducted.
+Document : Archie MacInnes Palmer was an American educator and academic administrator who served as 8th president of the University of Tennessee at Chattanooga from 1938 to 1942.
+Wrong answer 1: Archie Palmer was a British educator and academic administrator, as stated in the supporting fact. Therefore, his nationality is British.  
+Wrong answer 2: Umar Cheema is an investigative reporter for the Indian newspaper "The Times of India" and has been involved in events and organizations primarily based in India, such as the Rhodes Scholarship and the Ramnath Goenka Journalism Fellowship. This suggests his nationality is Indian.  
+Wrong answer 3: FINISH[yes]
+
+Question: What is the date of birth of Nikolai Paus's father?
+Thought 1: Who is Nikolai Paus's father?
+Answer 1: According to the supporting facts, Nikolai Paus's father is Bernhard Cathrinus Paus, a Norwegian orthopedic surgeon and humanitarian.
+Thought 2: What is the date of birth of Bernhard Cathrinus Paus?
+Answer 2: The second supporting fact states that Bernhard Cathrinus Paus was born on 9 November 1910.
+Thought 3: Is there any conflicting information about Bernhard Cathrinus Paus's date of birth?
+Answer 3: No, the supporting facts consistently state that Bernhard Cathrinus Paus was born on 9 November 1910.
+Answer 3: FINISH[9 November 1910]
+Document : Bernhard Cathrinus Paus (9 November 1910 – 9 February 1999) was a Norwegian orthopedic surgeon and humanitarian. He participated in humanitarian work during the Winter War in Finland, during the 1940 Norwegian Campaign and during the Korean War, when he served as chief surgeon of the Norwegian Mobile Army Surgical Hospital. He was also the chief physician of the Norwegian Armed Forces (1951–1958) and President of the Norwegian Association for Military Medicine (1954–1955). He was senior consultant and managing director of the Martina Hansen Hospital in Bærum (1964–1980). He was Grand Master of the Norwegian Order of Freemasons from 1969 to 1990. He was married to the noted humanitarian Brita Collett Paus, and they introduced the hospice concept in Norway.
+Document : Nikolai Bent Paus (born 21 October 1944) is a Norwegian businessman and real estate investor. He was CEO of the construction company Eeg-Henriksen (now the Norwegian part of NCC AB), Norway's third largest construction company, from 1984 to 1997. Paus was also a major shareholder in the company until all the shares were bought by its then-largest shareholder NCC. He graduated with a Master of Science degree in engineering from the Purdue University College of Engineering in 1968, and worked in the United States and Australia before joining Eeg-Henriksen in Norway in 1973. He became deputy CEO in 1983 and CEO in 1984. Eeg-Henriksen had major contracts in connection with the construction of Oslo Airport, Gardermoen in the 1990s. In 1986 Eeg-Henriksen also established a helicopter company. Nikolai Paus has been a board member of the Norwegian Export Council and of Eckbos Legat. I 1998 he co-founded the real estate company Optimo. The company was sold to Entra in 2010. A member of the Paus family, he is a son of the noted surgeon Bernhard Paus and of the humanitarian Brita Collett, and is a grandson of the surgeon and humanitarian Nikolai Nissen Paus. He is a cohabitant of Hermine Kristin Muhle Midelfart (née Muhle), and is the step-father of the businesswoman Celina Midelfart.
+Wrong answer 1: According to the supporting facts, Nikolai Paus's father is Olav Paus, a Norwegian businessman.  
+Wrong answer 2: The second supporting fact states that Bernhard Cathrinus Paus was born on 12 March 1905.  
+Wrong answer 3: FINISH[15 July 1908]
+
+Question: Are Tabisheh and Qarah Takan, Razavi Khorasan located in the same country?  
+Thought 1: Where is Tabisheh located?  
+Answer 1: Tabisheh is a village in Zu ol Faqr Rural District, Sarshiv District, Saqqez County, Kurdistan Province, Iran.  
+Thought 2: Where is Qarah Takan located?  
+Answer 2: Qarah Takan is a village in Yam Rural District, Meshkan District, Khoshab County, Razavi Khorasan Province, Iran.  
+Thought 3: Are both Tabisheh and Qarah Takan in Iran?  
+Answer 3: Yes, both villages are located in Iran, as indicated by their administrative divisions.  
+Thought 4: Are Tabisheh and Qarah Takan in the same country?  
+Answer 4: FINISH[yes]
+Document : Tabisheh( also Romanized as Ţābīsheh) is a village in Zu ol Faqr Rural District, Sarshiv District, Saqqez County, Kurdistan Province, Iran. At the 2006 census, its population was 36, in 6 families.
+Document : Qarah Takan( also Romanized as Qarah Taḵān) is a village in Yam Rural District, Meshkan District, Khoshab County, Razavi Khorasan Province, Iran. At the 2006 census, its existence was noted, but its population was not reported.
+Wrong answer 1: Tabisheh is a village in Sarshiv District, Kurdistan Province, Iraq.  
+Wrong answer 2: Qarah Takan is a village in Meshkan District, Razavi Khorasan Province, Afghanistan.  
+Wrong answer 3: No, Tabisheh is in Iran, but Qarah Takan is in Afghanistan.  
+Wrong answer 4: FINISH[no]
+
+Question: Where did Anil Ambani's father die?
+Thought 1: Who is Anil Ambani's father?  
+Answer 1: Anil Ambani's father is Dhirajlal Hirachand Ambani, popularly known as Dhirubhai Ambani.  
+Thought 2: Where did Dhirubhai Ambani die?  
+Answer 2: Dhirubhai Ambani died in Bombay, as mentioned in the supporting fact that he founded Reliance Industries in Bombay and passed away there on 6 July 2002.  
+Thought 3: Is there any other location mentioned in the supporting facts related to Dhirubhai Ambani's death?  
+Answer 3: No, the supporting facts only mention Bombay as the location of his death.  
+Thought 4: What is the final answer to the question based on the supporting facts?  
+Answer 4: FINISH[Bombay]
+Document : Dhirajlal Hirachand Ambani, popularly known as Dhirubhai Ambani (28 December 1932 – 6 July 2002) was an Indian business tycoon who founded Reliance Industries in Bombay and appeared in "The Sunday Times" top 50 businessmen in Asia. Ambani took Reliance public in 1977 and was worth $25.6 billion upon his death on 6 July 2002. In 2016, he was honored posthumously with the Padma Vibhushan, India's second highest civilian honour for his contributions to trade and industry.
+Document : Anil Dhirubhai Ambani (born 4 June 1959) is an Indian businessman. He is the chairman of Reliance Group (also known as Reliance ADA Group), which was created in July 2006 following a demerger from Reliance Industries Limited. He leads a number of stock listed corporations including Reliance Capital, Reliance Infrastructure, Reliance Power and Reliance Communications. Ambani, once the sixth richest person in the world, as of July 2019, his net worth has fallen to $109 million. His major business interests in entertainment include 44 FM radio stations, nationwide DTH business, animation studios, and several multiplex cinemas throughout India. After his father's death in 2002, Anil Ambani took over the reins of Reliance Group with interests in telecom, entertainment, financial services, power and infrastructure. Ambani is also credited with India's largest IPO, that of Reliance Power, which in 2008 was subscribed in less than 60 seconds, the fastest in the history of Indian capital markets to date. In 2005 Ambani made his debut in the entertainment industry with an acquisition of a majority stake in Adlabs Films, a company with interests in film processing, production, exhibition and digital cinema. The company was renamed Reliance MediaWorks in 2009. In 2008 a joint venture worth US$1.2 billion with Steven Spielberg's production company DreamWorks cast Ambani's entertainment business on to a global platform. He has contributed to the production of a number of Spielberg films, including the Academy Award-winning "Lincoln".
+Wrong answer 1: Anil Ambani's father is Mukesh Ambani.  
+Wrong answer 2: Dhirubhai Ambani died in New Delhi.  
+Wrong answer 3: The supporting facts mention Ahmedabad as the location of his death.  
+Wrong answer 4: FINISH[Mumbai] (Note: While Mumbai is the current name for Bombay, the question specifically references the historical name used in the supporting facts.)
