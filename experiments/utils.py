@@ -5,11 +5,11 @@ import smtplib
 
 def send_email(text, subject="hints"):
     mail_host = "smtp.163.com"
-    mail_user = "jiujiuli2030@163.com"
-    mail_pass = "KEVTPRUKUMSQPSSS"
+    mail_user = "xxx@163.com"
+    mail_pass = "xxx"
 
-    sender = 'jiujiuli2030@163.com'
-    receivers = ['jiujiuli2030@163.com']
+    sender = 'xxx@163.com'
+    receivers = ['xxx@163.com']
 
     message = MIMEText(text, 'plain', 'utf-8')
     message['From'] = Header("system monitor", 'utf-8')
