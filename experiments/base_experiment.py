@@ -33,7 +33,6 @@ def main():
 
     with jsonlines.open(f"./datasets/{dataset_name}/{test_filename}") as reader:
         dataset = list(reader)[:test_size]
-
     ms_manager = MultiStateManager(dataset, dataset_name, retrieval_num=args.retrieval_num, skip_ground=args.skip_ground)
 
     # ms_manager.serial_test()
@@ -53,7 +52,7 @@ def main():
         json.dump(ms_manager.test_results, f, ensure_ascii=False)
     eval_result = evaluate(ms_manager.test_results)
     print(eval_result)
-    send_email(f"your experiments finished:")
+    # send_email(f"your experiments finished:")
 
 if __name__ == "__main__":
     main()

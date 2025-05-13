@@ -1,4 +1,6 @@
 import re, string
+from utils.serve import generate
+from tqdm import tqdm
 
 def normalize_answer(s):
     """Normalize answer for comparison."""
@@ -16,6 +18,17 @@ def normalize_answer(s):
         return text.lower()
 
     return white_space_fix(remove_articles(remove_punc(lower(s))))
+
+
+em_eva_prompt = '''
+You will be provided with a question, a golden answer, and a predicted answer. 
+Please judge whether the predicted answer is semantically equivalent to the golden answer. 
+You only need to respond with True or False.
+
+Question: {question}
+golden answer: {gold_answer}
+predicted answer: {pred_answer}
+'''.strip()
     
 def evaluate(info):
     result = {
@@ -35,7 +48,7 @@ def evaluate(info):
     
     total_items = len(info)
     
-    for item in info:
+    for item in tqdm(info, total=total_items):
         # Answer evaluation
         pred_answer = item['pred_answer']
         pred_answer_tokens = set(normalize_answer(item['pred_answer']).split())
@@ -55,10 +68,20 @@ def evaluate(info):
             
             if f1 > best_answer_f1:
                 best_answer_f1 = f1
-                best_answer_em = int(pred_answer == gold_answer)
+                # best_answer_em = int(pred_answer == gold_answer)
+                eval_result = generate(em_eva_prompt.format(
+                    question=item['question'],
+                    gold_answer=gold_answer,
+                    pred_answer=pred_answer,
+                ))['generated_text']
+                best_answer_em = int("true" in eval_result.lower())
                 best_answer_precision = precision
                 best_answer_recall = recall
-        
+            
+            
+            
+
+        # print(best_answer_em)
         # Supporting facts evaluation
         pred_sp = set(item['pred_sp_id'])
         gold_sp = set(item['gold_sp_id'])

@@ -1,7 +1,7 @@
 from rapidfuzz import fuzz
 from tqdm import tqdm
 import jsonlines
-from .utils import generate
+from utils.serve import generate
 import argparse
 
 wrong_answer_prompt = '''

@@ -1,6 +1,7 @@
 import random
 import jsonlines
-from .utils import query, clean_text
+from utils.serve import retrieve
+from utils.string import clean_text
 import argparse
 from tqdm import tqdm
 
@@ -15,9 +16,10 @@ def subsample(dataset_name, split='dev', sample_size=100):
 
     for item in tqdm(data_sample, total=sample_size):
         item["supporting_id"] = []
+        item['supporting_fact'] = []
         for para in item['context']:
             if para['is_supporting']:
-                query_result = query(dataset_name, para['content'])
+                query_result = retrieve(para['content'])
                 error_count = 2
                 find_sp = False
                 for i in range(error_count):
@@ -27,6 +29,7 @@ def subsample(dataset_name, split='dev', sample_size=100):
                     if content == top_para_content or clean_text(content) == clean_text (top_para_content):
                         para['content'] = top_para_content
                         item['supporting_id'].append(top_para['id'])
+                        item['supporting_fact'].append(top_para_content)
                         find_sp = True
                         break
                 if not find_sp:

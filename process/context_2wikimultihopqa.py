@@ -1,5 +1,5 @@
 import ujson
-from .utils import clean_text
+from utils.string import clean_text
 
 
 def context_2wikimultihopqa(json_path_list):

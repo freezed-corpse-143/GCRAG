@@ -1,7 +1,10 @@
 from typing import Dict
-from .utils import retrieve, generate, extract_thought_answer, extract_answer, format_sp
-from prompts.template import decompose_prompt, answer_format_prompt
-from prompts.examples import decompose_examples, ground_examples
+from .utils import (
+    retrieve, 
+    generate, 
+    extract_thought_answer, 
+    extract_answer, format_sp)
+
 from rerank.tournament_filter import tournament_filter
 
 
@@ -9,7 +12,7 @@ from rerank.ner_filter import ner_filter
 from rerank.llm_filter import ground_step
 
 
-class StateManager:
+class IRCoT:
     def __init__(self, question: str, corpus_name: str, max_iterations: int = 6, 
                  retrieval_num: int = 3, skip_ground: bool = False, 
                  beta: int = 1):
@@ -21,8 +24,8 @@ class StateManager:
         self.beta = beta
 
         self.iteration_info= dict()
-        self.decompose_examples_prompt = decompose_examples[corpus_name]
-        self.ground_examples_prompt = ground_examples[corpus_name]
+        self.decompose_examples_prompt = ""
+        self.ground_examples_prompt = ""
         self.supporting_fact_ids = []
         self.supporting_fact_docs = []
         self.supporting_fact_ids = []
@@ -35,7 +38,7 @@ class StateManager:
         self.is_terminated = False
         self.retrieved_docs = None
         
-    def generate_thought_answer(self):
+    def reason(self):
         current_iter = self.current_iter
         prompt = decompose_prompt.format(
             examples = self.decompose_examples_prompt,
@@ -93,14 +96,9 @@ class StateManager:
         if self._should_terminate():
             self.is_terminated = True
     
-    def retrieve_documents(self):
+    def retrieve(self):
         current_iter = self.current_iter
-        # print(self.thought)
-        # print(self.iteration_info)
-        # print("start to retrieve")
         retrieved_results = retrieve(self.question + (" " +self.thought) * self.beta)
-        # retrieved_results = retrieve(self.corpus_name, (" " +self.thought) * self.beta)
-        # print("retrieved time:", retrieved_results['time_in_seconds'])
         self.retrieved_docs = retrieved_results['retrieval']
         self.retrieved_docs = retrieved_results['retrieval']
         self.iteration_info[current_iter]['retrieved_docs'] = self.retrieved_docs
@@ -175,18 +173,11 @@ class StateManager:
     def run_full_cycle(self):
         
         while not self.is_terminated:
-            self.generate_thought_answer()
+            self.retrieve()
+
+            self.reason()
             
-            self.retrieve_documents()
-            if not self.skip_ground:
-                self.ground_truth()
             self.current_iter += 1
-        
-        if self.skip_ground:
-            for item in self.iteration_info.values():
-                for d in item['retrieved_docs']:
-                    self.supporting_fact_ids.append(d['id'])
-                    self.supporting_fact_ids.append(d['id'])
         
         # except Exception as e:
         #     print(f"Error during multi-hop QA: {str(e)}")

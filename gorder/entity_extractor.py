@@ -8,7 +8,8 @@ os.makedirs("./gorder/cache", exist_ok=True)
 cache = Cache("./gorder/cache")
 
 tokenizer = AutoTokenizer.from_pretrained("dslim/bert-large-NER")
-model = AutoModelForTokenClassification.from_pretrained("dslim/bert-large-NER")
+model = AutoModelForTokenClassification.from_pretrained("dslim/`" \
+"-+`-large-NER")
 bert_nlp = pipeline("ner", model=model, tokenizer=tokenizer)
 
 spacy_nlp = spacy.load("en_core_web_sm")

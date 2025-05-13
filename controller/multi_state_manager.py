@@ -1,4 +1,4 @@
-from .state_manager import StateManager
+from .GenGround import GenGround
 from tqdm import tqdm
 import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -17,7 +17,7 @@ class MultiStateManager:
 
     def serial_test(self):
         for row in tqdm(self.datasets, total=len(self.datasets)):
-            state_manager = StateManager(row['question'], self.corpus_name,
+            state_manager = GenGround(row['question'], self.corpus_name,
                                          self.max_iterations, self.retrieval_num,
                                          self.skip_ground, self.beta)
             state_manager.run_full_cycle()
@@ -28,11 +28,13 @@ class MultiStateManager:
                 "iteration_info": state_manager.iteration_info,
                 "pred_sp_id": state_manager.supporting_fact_ids,
                 "gold_sp_id": row['supporting_id'],
+                'supporting_fact': row['supporting_fact'],
+                'elapsed_time': state_manager.elapsed_time,
             })
             
     def parallel_test(self):
-        max_workers = max(1, (os.cpu_count() or 1) - 12)
-        max_workers = min(max_workers, 4)
+        max_workers = max(1, (os.cpu_count() or 1) - 13)
+        max_workers = min(max_workers, 3)
         
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {
@@ -47,10 +49,11 @@ class MultiStateManager:
                     pbar.update(1)
                     
     def _process_row(self, row):
-        state_manager = StateManager(row['question'], self.corpus_name,
+        state_manager = GenGround(row['question'], self.corpus_name,
                                          self.max_iterations, self.retrieval_num,
                                          self.skip_ground, self.beta)
         state_manager.run_full_cycle()
+        # print(state_manager.answer)
         return {
             "question": state_manager.question,
             "pred_answer": state_manager.answer,
@@ -58,4 +61,6 @@ class MultiStateManager:
             "iteration_info": state_manager.iteration_info,
             "pred_sp_id": state_manager.supporting_fact_ids,
             "gold_sp_id": row['supporting_id'],
+            'supporting_fact': row['supporting_fact'],
+            'elapsed_time': state_manager.elapsed_time,
         }

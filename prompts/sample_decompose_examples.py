@@ -1,6 +1,6 @@
 import random
 import jsonlines
-from .utils import generate
+from utils.serve import generate
 import argparse
 from tqdm import tqdm
 import re
