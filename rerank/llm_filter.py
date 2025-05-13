@@ -1,22 +1,25 @@
 from prompts.GenGround import (
     ground_prompt,
+    ground_examples_prompt,
     ground_single_prompt,
     ground_single_examples,
 )
 
-from .utils import (
-    format_retr_docs, 
-    generate, 
+from utils.string import (
     extract_from_ground_answer,
-    single_f1_score
+    format_retr_docs,
 )
+
+from utils.serve import generate
+from metrics.evaluate import single_f1_score
+
 import copy
 from collections import defaultdict
 import random
 
 random.seed(42)
 
-def ground_step(examples, question, retrieved_documents,
+def ground_step(question, retrieved_documents,
                 thought, answer, top_k=1, shuffle_times=3):
     if len(retrieved_documents) == 0:
         return "", []
@@ -27,7 +30,7 @@ def ground_step(examples, question, retrieved_documents,
         random.shuffle(retrieved_documents)
         
         prompt = ground_prompt.format(
-            examples=examples,
+            examples=ground_examples_prompt,
             question=question,
             retrieved_documents=format_retr_docs(retrieved_documents),
             thought=thought,
@@ -66,14 +69,14 @@ def ground_step(examples, question, retrieved_documents,
     return new_answer, top_k_docs
 
 def batch_ground_step(
-        examples, question, retrieved_documents,
-        thought, answer, batch_size=10, top_k=2, shuffle_times=3):
+        question, retrieved_documents,
+        thought, answer, batch_size=10, 
+        top_k=2, shuffle_times=3):
     tmp = copy.deepcopy(retrieved_documents)
 
     temp_answer = answer
     while len(tmp) >= batch_size:
         temp_answer, docs = ground_step(
-            examples=examples,
             question=question,
             retrieved_documents=tmp[:batch_size],
             thought=thought,

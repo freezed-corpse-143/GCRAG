@@ -16,7 +16,6 @@ from prompts.GenGround import (
     decompose_prompt, 
     answer_format_prompt,
     decompose_examples_prompt,
-    ground_examples
 )
 
 from rerank.llm_filter import batch_ground_step
@@ -34,7 +33,6 @@ class GenGround:
 
         self.iteration_info= dict()
         self.decompose_examples_prompt = decompose_examples_prompt
-        self.ground_examples_prompt = ground_examples[corpus_name]
         self.supporting_fact_ids = []
         self.supporting_fact_docs = []
         self.supporting_fact_ids = []
@@ -99,6 +97,7 @@ class GenGround:
     def retrieve(self):
         # print('retrieve')
         current_iter = self.current_iter
+        # retrieved_results = retrieve(self.thought)
         retrieved_results = retrieve(self.question+(" " +self.thought) * self.beta)
         self.retrieved_docs = retrieved_results['retrieval']
         self.iteration_info[current_iter]['retrieved_docs'] = self.retrieved_docs
@@ -108,7 +107,6 @@ class GenGround:
         current_iter = self.current_iter
 
         answer, sp_docs, = batch_ground_step(
-            examples=self.ground_examples_prompt,
             question=self.question,
             retrieved_documents = self.retrieved_docs[:self.retrieval_num],
             thought=self.thought,
