@@ -25,6 +25,7 @@ def ground_step(question, retrieved_documents,
         return "", []
     # Initialize a dictionary to store the total scores for each document
     total_scores = defaultdict(float)
+    answer_results = []
     for _ in range(shuffle_times):
         # Shuffle the retrieved documents
         random.shuffle(retrieved_documents)
@@ -36,7 +37,6 @@ def ground_step(question, retrieved_documents,
             thought=thought,
             answer=answer,
         ).strip()
-        
         new_answer = answer
         try:
             while True:
@@ -52,13 +52,13 @@ def ground_step(question, retrieved_documents,
                 prompt += ". Please generate \"New answer:\" as a prefix."
             # Calculate the F1 score for each document
             scores = single_f1_score(new_answer, [item["paragraph_text"] for item in retrieved_documents])
-            
             # Accumulate the scores for each document
             for doc, score in zip(retrieved_documents, scores):
                 total_scores[doc['id']] += score
         
         except Exception as e:
             print(e)
+        answer_results.append(new_answer)
     
     # Sort the documents by their total scores in descending order
     sorted_docs = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
@@ -66,7 +66,9 @@ def ground_step(question, retrieved_documents,
     # Return the top_k documents and the new answer
     top_k_ids = [doc_id for doc_id, _ in sorted_docs[:top_k]]
     top_k_docs = [doc for doc in retrieved_documents if doc['id'] in top_k_ids]
-    return new_answer, top_k_docs
+    answer_scores = single_f1_score(top_k_docs[0]['paragraph_text'], answer_results)
+    top_answer = answer_results[answer_scores.index(max(answer_scores))]
+    return top_answer, top_k_docs
 
 def batch_ground_step(
         question, retrieved_documents,

@@ -55,3 +55,4 @@ def format_retr_docs(retr_docs):
     result = ""
     for idx, d in enumerate(retr_docs):
         result += f"Document {idx+1}: " + d['paragraph_text'] + "\n"
+    return result

@@ -8,7 +8,7 @@ Please answer the question by following these steps:
 4. When you can conclusively answer the original question, end with "Answer: FINISH[final answer]". The final answer should be concise and directly address the question without any additional explanation.
 5. If you don't have enough document to answer the question, output "No enough information" instead of "FINISH".
 6. If the question includes candidate answers, the final answer should be one of the candidate answers.
-7. If the question requires a YES/NO (do, be) response, the final answer should be Yes or No; if the question requires a time (when, which year) response, the final answer should be a specific time; if the question requires a place (where, which place) response, the final answer should be a specific place; if the question requires a number (how many) response, the final answer should be a number.
+7. If you can conclusively answer the original question, clarify the type of final answer(Yes/No, time, place, person's name, number, etc), which is corresponding to your final answer.
 
 Rules to follow:
 - **Be specific** in Thoughts: Clearly name entities and what you're checking
@@ -187,6 +187,7 @@ Thought 3: Question includes candidate answers: yes, no. Do Archie Palmer (Ameri
 Answer 3: FINISH[no]
 '''.strip()
 
+
 ground_examples_prompt = '''
 Input:
 Question: The Wild Wacky Wonderful World of Winter had a co-star in which actress from the sitcom "Alice"?
@@ -215,7 +216,6 @@ Thought: Who was the driver that finished third in the September 5, 2010 Atlanta
 Old answer: the driver who finished third in the 2010 Emory Healthcare 500 at Atlanta Motor Speedway was Dale Earnhardt Jr.
 New answer: Jimmie Johnson. The relevant sentences: The 2010 Emory Healthcare 500 was a NASCAR Sprint Cup Series stock car race that was held on September 5, 2010 at Atlanta Motor Speedway in Hampton, Georgia. Contested over 325 laps, it was the twenty-fifth race of the 2010 Sprint Cup Series season. The race was won by Tony Stewart, for the Stewart Haas Racing team. Carl Edwards finished second, and Jimmie Johnson, who started seventh, clinched third.
 '''.strip()
-
 
 ground_single_examples = '''
 Input:

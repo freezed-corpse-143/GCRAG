@@ -97,7 +97,7 @@ class GenGround:
     def retrieve(self):
         # print('retrieve')
         current_iter = self.current_iter
-        # retrieved_results = retrieve(self.thought)
+        # retrieved_results = retrieve(self.thought)3
         retrieved_results = retrieve(self.question+(" " +self.thought) * self.beta)
         self.retrieved_docs = retrieved_results['retrieval']
         self.iteration_info[current_iter]['retrieved_docs'] = self.retrieved_docs
